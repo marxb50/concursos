@@ -56,7 +56,7 @@ const ProfessorCore = (() => {
     const c=CONTESTS.find(x=>x.id===id);if(!c)return null;
     if(c.manual)return {...page('personalizado'),id:`concurso/${id}`,title:c.name};
     const scoring=c.scoring;
-    const score=scoring.type==='unknown'?'A regra de pontuação precisa ser conferida no edital.':`${scoring.options} alternativas por questão. ${scoring.correctBySubject?c.subjects.map(s=>`${s.name}: ${scoring.correctBySubject[s.id]?.toLocaleString('pt-BR')} pontos por acerto`).join('. '):`Acerto: ${scoring.correct} pontos`}. Erro: ${scoring.wrong} pontos. Em branco: ${scoring.blank??0}.`;
+    const score=scoring.verified?ScoringCore.narration(c):scoring.type==='unknown'?'A regra de pontuação precisa ser conferida no edital.':`${scoring.options} alternativas por questão. ${scoring.correctBySubject?c.subjects.map(s=>`${s.name}: ${scoring.correctBySubject[s.id]?.toLocaleString('pt-BR')} pontos por acerto`).join('. '):`Acerto: ${scoring.correct} pontos`}. Erro: ${scoring.wrong} pontos. Em branco: ${scoring.blank??0}.`;
     return lesson(`concurso/${id}`,c.name,[part('Escolha um ponto de partida',`Vamos organizar o estudo para ${c.name}. ${c.role}. ${c.note}`),
       ...c.subjects.map(s=>part(s.name,`${s.name}. ${s.optional?'Esta é uma sugestão complementar, não confirmada no edital.':s.count!=null?`${s.count} questões ${c.evidence?'na prova histórica analisada':'previstas na referência do edital'}.`:''} Comece pela história ${journey(s.journey)?.name}. Depois, use os mapas para explorar: ${s.topics.map(t=>t.name).join('; ')}.`)),
       part('Leia a regra da prova',score),...(c.evidence?[part('Use os números com cuidado',`${c.evidence.note} Essa distribuição descreve uma prova anterior; não determina os assuntos da próxima prova.`)]:[]),

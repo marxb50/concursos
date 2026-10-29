@@ -128,6 +128,7 @@ const Art = (() => {
     if(line)output.push(line);return output;
   }
   function mindMap(topic,interactive=true) {
+    const frame=(x,y,w,h,fill,accent)=>`<g class="map-frame"><path d="M${x+12} ${y}H${x+w-12}L${x+w} ${y+12}V${y+h-12}L${x+w-12} ${y+h}H${x+12}L${x} ${y+h-12}V${y+12}Z" fill="${fill}" stroke="${accent}" stroke-width="5"/><path d="M${x+20} ${y+7}h28m8 0h5m5 0h5M${x+w-15} ${y+h-7}h-35" fill="none" stroke="${ink}" stroke-width="2"/></g>`;
     const positions=[[26,56],[26,260],[26,467],[397,580],[766,467],[766,260],[766,56]];
     const chosen=topic.steps.length===5?[positions[0],positions[1],positions[3],positions[5],positions[6]]:topic.steps.length===6?[positions[0],positions[1],positions[2],positions[4],positions[5],positions[6]]:positions;
     const colors=['#eadff6','#fff0bc','#dceee4','#f5dfce','#d9ebf4','#f3dce5','#e5e7fc'];
@@ -167,11 +168,11 @@ const Art = (() => {
         sketch=`<g transform="translate(${x+21} ${y+82}) scale(${scales[i]})">${mini}</g>`;
       }
       const connector=x===397?`M525 505Q525 545 542 580`:`M${rootX} 320Q${(rootX+endX)/2} ${cy} ${endX} ${cy}`;
-      return `<path class="map-connector" d="${connector}" fill="none" stroke="${topic.color}" stroke-width="3"/>`+`<g ${interactive?`role="button" tabindex="0" data-map-step="${i}" aria-label="Abrir explicação: ${e(step.title)}"`:''}><title>${interactive?'Ver a cena '+(i+1)+': ':''}${e(step.title)}</title>${paper(x,y,290,166,colors[i],i%2?1:-1)}<circle cx="${x+36}" cy="${y+38}" r="18" fill="${cream}" stroke="${ink}" stroke-width="2"/>${text(x+36,y+45,String(i+1),20)}${lines(x+70,y+36,titles,20,'start',700)}${sketch}${lines(x+85,y+106,note,17,'start',500)}</g>`;
+      return `<path class="map-connector" d="${connector}" fill="none" stroke="${topic.color}" stroke-width="3"/>`+`<g ${interactive?`role="button" tabindex="0" data-map-step="${i}" aria-label="Abrir explicação: ${e(step.title)}"`:''}><title>${interactive?'Ver a cena '+(i+1)+': ':''}${e(step.title)}</title>${frame(x,y,290,166,colors[i],i%2?'#2395aa':'#d45969')}<circle cx="${x+36}" cy="${y+38}" r="18" fill="${cream}" stroke="${ink}" stroke-width="2"/>${text(x+36,y+45,String(i+1),20)}${lines(x+70,y+36,titles,20,'start',700)}${sketch}${lines(x+85,y+106,note,17,'start',500)}</g>`;
     }).join('');
     const rootTitle=wrap(topic.root[0],19);
     const centerArt=topic.id==='sql'?shop(443,257,.52):topic.id==='java'?cake(525,330,1.14):lia(525,rootTitle.length>1?294:267,.75);
-    return `<svg class="mindmap-svg" viewBox="0 0 1080 790" role="${interactive?'group':'img'}" aria-label="Mapa ilustrado de ${e(topic.name)}.${interactive?' Cada ramo abre uma explicação.':''}" xmlns="http://www.w3.org/2000/svg"><rect width="1080" height="790" rx="25" fill="${cream}"/><g font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" stroke-linecap="round" stroke-linejoin="round">${nodes}${paper(389,201,272,306,topic.light,-1)}${lines(525,239,rootTitle,24,'middle',700)}${centerArt}${lines(525,437,wrap(topic.root[1],24),19)}${sparkle(702,198,.8)}${sparkle(360,490,.6)}${text(540,773,interactive?'Uma ideia de cada vez. Toque em um ramo para ver a história.':'memória viva. · Uma introdução ilustrada · 28/10/2026',19,'middle',500)}</g></svg>`;
+    return `<svg class="mindmap-svg" viewBox="0 0 1080 790" role="${interactive?'group':'img'}" aria-label="Mapa ilustrado de ${e(topic.name)}.${interactive?' Cada ramo abre uma explicação.':''}" xmlns="http://www.w3.org/2000/svg"><rect class="map-canvas" width="1080" height="790" rx="3" fill="${cream}"/><g font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" stroke-linecap="round" stroke-linejoin="round">${nodes}${frame(389,201,272,306,topic.light,'#2395aa')}${lines(525,239,rootTitle,24,'middle',700)}${centerArt}${lines(525,437,wrap(topic.root[1],24),19)}${sparkle(702,198,.8)}${sparkle(360,490,.6)}<g class="map-credit">${text(540,773,interactive?'Uma ideia de cada vez. Toque em um ramo para ver a história.':'memória viva. · Uma introdução ilustrada · 28/10/2026',19,'middle',500)}</g></g></svg>`;
   }
   return {scene,mindMap,symbol,lia,e,primitives:{ink,cream,yellow,purple,teal,peach,text,lines,enter,move,paper,arrow,sparkle,label,human,notebook,ticket,table,device,envelope,lock,wrap}};
 })();
