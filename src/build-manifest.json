@@ -1,0 +1,38 @@
+{
+  "styles": {
+    "/*__CSS__*/": "estilo.css",
+    "/*__CATALOG_CSS__*/": "catalogo.css",
+    "/*__INFO_CSS__*/": "infograficos.css",
+    "/*__REVIEW_CSS__*/": "revisao.css",
+    "/*__EXPERIENCE_CSS__*/": "experiencia.css",
+    "/*__PROFESSOR_CSS__*/": "professor.css",
+    "/*__RESPONSIVE_CSS__*/": "responsivo.css"
+  },
+  "scripts": {
+    "/*__DATA__*/": "conteudo.js",
+    "/*__MATERIAS__*/": "materias.js",
+    "/*__CONCURSOS__*/": "concursos.js",
+    "/*__PROVAS__*/": "provas.js",
+    "/*__PROVAS_EXTRA__*/": "provas-extra.js",
+    "/*__INFO_DATA__*/": "infograficos.js",
+    "/*__INFO_BASE__*/": "infografico-base.js",
+    "/*__INFO_GERAL__*/": "infograficos-gerais.js",
+    "/*__INFO_TI_EXTRA__*/": "infograficos-ti-extra.js",
+    "/*__INFO_MAT_EXTRA__*/": "infograficos-matematica-extra.js",
+    "/*__INFO_PORT_EXTRA__*/": "infograficos-portugues-extra.js",
+    "/*__INFO_ADM__*/": "infograficos-administracao.js",
+    "/*__INFO_BASIC__*/": "infograficos-informatica.js",
+    "/*__ART__*/": "ilustracoes.js",
+    "/*__SCENES__*/": "cenas-gerais.js",
+    "/*__STUDY_CORE__*/": "estudo-core.js",
+    "/*__REVIEW__*/": "revisao.js",
+    "/*__LAB_UI__*/": "laboratorios.js",
+    "/*__INFO_UI__*/": "infografico-ui.js",
+    "/*__CATALOG__*/": "catalogo.js",
+    "/*__PROFESSOR_CORE__*/": "professor-core.js",
+    "/*__PROFESSOR_AUDIO__*/": "professor-audios.js",
+    "/*__PROFESSOR_UI__*/": "professor-ui.js",
+    "/*__LAYOUT__*/": "layout.js",
+    "/*__APP__*/": "app.js"
+  }
+}
