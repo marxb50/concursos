@@ -2,6 +2,13 @@
 const ScoringCore=(()=>{
   const byId=id=>CONTESTS.find(c=>c.id===id);
   const update=(id,data)=>{const c=byId(id);if(c)c.scoring={...c.scoring,...data,verified:'2026-10-29',source:c.source};};
+  for(const [id,source] of [
+    ['dataprev-dev-2024','https://conhecimento.fgv.br/sites/default/files/concursos/dataprev_edital_0.pdf'],
+    ['dataprev-dev-2026','https://conhecimento.fgv.br/sites/default/files/concursos/edital-retificado-dataprev.pdf']
+  ])update(id,{
+    correct:null,correctBySubject:{portugues:1,ingles:1,raciocinio:1,atualidades:1,'legislacao-ti':1,especificos:2.5},
+    source,minimumSummary:'Mínimo de 57,5 pontos na objetiva e não zerar nenhuma disciplina. Os específicos valem 75 dos 115 pontos; as demais matérias continuam obrigatórias.'
+  });
   update('abdi-dev-2026',{
     correct:null,correctBySubject:{portugues:.3,raciocinio:.3,informatica:.3,institucional:.3,tecnologia:.65},
     minimumSummary:'É necessário acertar pelo menos 30 das 60 questões e não zerar nenhuma das três áreas: Gerais, Institucionais e Específicos. A exigência é de acertos, não de metade dos pontos ponderados.'

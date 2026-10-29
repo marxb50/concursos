@@ -129,7 +129,7 @@ if(typeof document!=='undefined') (()=>{
   let activeInfoArea=selection.infoArea||INFOGRAPHICS.find(m=>m.id===activeInfographic).area,infoQuery='';
   if(activeInfoArea!=='Todas'&&!INFOGRAPHICS.some(m=>m.area===activeInfoArea))activeInfoArea='Todas';
   const views=RouteCore.views;
-  function currentHash(){return RouteCore.hash(state.view,['historia','mapa'].includes(state.view)?state.topic:state.view==='infograficos'?activeInfographic:['concurso','materia'].includes(state.view)?catalogState.contest:null,catalogState.subject);}
+  function currentHash(){return RouteCore.hash(state.view,['historia','mapa'].includes(state.view)?state.topic:state.view==='infograficos'?activeInfographic:['concurso','materia','atividades'].includes(state.view)?catalogState.contest:null,catalogState.subject);}
   function writeHash(replace=false){const hash=currentHash();if(location.hash!==hash)history[replace?'replaceState':'pushState'](null,'',hash);}
   function renderInfographics(updateRoute=false){const visible=SearchCore.maps(activeInfoArea,infoQuery);if(visible.length&&!visible.some(m=>m.id===activeInfographic))activeInfographic=visible[0].id;$('#view-infograficos').innerHTML=InfographicUI.render(activeInfographic,activeInfoArea,infoQuery);saveSelection();if(updateRoute)writeHash(true);ProfessorUI.refresh();}
   function readRoute(){
@@ -137,7 +137,7 @@ if(typeof document!=='undefined') (()=>{
     const r=RouteCore.parse(location.hash);
     if(['historia','mapa'].includes(r.view)&&r.id){state.topic=r.id;state.focus='row';if(!SearchCore.journeys(journeyArea,journeyQuery).some(t=>t.id===r.id)){journeyArea='Todas';journeyQuery='';$('#journey-search').value='';}save();renderLesson();}
     if(r.view==='infograficos'&&r.id){const area=INFOGRAPHICS.find(m=>m.id===r.id).area;const keepArea=activeInfographic===r.id&&(activeInfoArea==='Todas'||activeInfoArea===area);activeInfographic=r.id;if(!keepArea)activeInfoArea=area;infoQuery='';}
-    if(['concurso','materia'].includes(r.view)&&r.id){catalogState.contest=r.id;catalogState.subject=r.subject||null;}
+    if(['concurso','materia','atividades'].includes(r.view)&&r.id){catalogState.contest=r.id;catalogState.subject=r.subject||null;}
     saveSelection();setView(r.view,false);writeHash(true);revealCurrentTopic();
   }
   function updateCalculator(){
@@ -167,6 +167,7 @@ if(typeof document!=='undefined') (()=>{
     if(view==='concursos')$('#view-concursos').innerHTML=Catalog.catalog(catalogState.filter,catalogState.query);
     if(view==='concurso')$('#view-concurso').innerHTML=Catalog.contest(currentContest());
     if(view==='materia')$('#view-materia').innerHTML=Catalog.subject(currentContest(),currentSubject());
+    if(view==='atividades'){const selected=ActivityUI.render(catalogState.contest,catalogState.subject);catalogState.contest=selected.contest;catalogState.subject=selected.subject;saveSelection();}
     if(view==='estrategia'){$('#view-estrategia').innerHTML=Catalog.strategy();updateCalculator();}
     if(view==='infograficos')renderInfographics();
     if(view==='revisao')renderReview();
@@ -233,6 +234,7 @@ if(typeof document!=='undefined') (()=>{
       const next=customRaw.filter(c=>c.id!==id);try{localStorage.setItem(customKey,JSON.stringify(next));}catch(_){notify('Não foi possível remover o concurso salvo. Tente novamente.');return;}
       customRaw=next;CONTESTS.splice(CONTESTS.indexOf(item),1);catalogState.contest=null;catalogState.subject=null;saveSelection();setView('concursos');notify('Concurso personalizado removido.');return;
     }
+    if(button.dataset.activitiesContest){catalogState.contest=button.dataset.activitiesContest;catalogState.subject=button.dataset.activitiesSubject||null;saveSelection();return setView('atividades');}
     if(button.dataset.contest){catalogState.contest=button.dataset.contest;catalogState.subject=null;saveSelection();return setView('concurso');}
     if(button.dataset.subject){catalogState.subject=button.dataset.subject;saveSelection();return setView('materia');}
     if(button.dataset.journey)return changeTopic(button.dataset.journey);
@@ -284,10 +286,11 @@ if(typeof document!=='undefined') (()=>{
   window.addEventListener('beforeprint',()=>{document.body.classList.remove('print-infographic','print-current-view','print-map');if(state.view==='infograficos')document.body.classList.add('print-infographic');else if(['historia','mapa'].includes(state.view)){renderMap();document.body.classList.add('print-map');}else document.body.classList.add('print-current-view');});
   window.addEventListener('afterprint',()=>document.body.classList.remove('print-infographic','print-current-view','print-map'));
   $('#lia-avatar').innerHTML=`<svg viewBox="-46 -34 92 135">${Art.lia(0,10,.88)}</svg>`;
+  ActivityUI.mount({navigate:(contest,subject)=>{catalogState.contest=contest;catalogState.subject=subject;setView('atividades');},review:ref=>saveReview(ReviewCore.add(reviewItems,ref.type,ref.id,localDate())),notify});
   hydrate();renderLesson();
   readRoute();
   ProfessorUI.mount({
-    getContext:()=>({view:state.view,topic:state.topic,index:index(),infographic:activeInfographic,contest:catalogState.contest,subject:catalogState.subject}),
+    getContext:()=>({view:state.view,activity:state.view==='atividades'?ActivityUI.contextKey():'',topic:state.topic,index:index(),infographic:activeInfographic,contest:catalogState.contest,subject:catalogState.subject}),
     onReview:ref=>{const saved=saveReview(ReviewCore.add(reviewItems,ref.type,ref.id,localDate()));if(state.view==='revisao')renderReview();return saved;}
   });
 })();

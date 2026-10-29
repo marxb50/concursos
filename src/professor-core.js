@@ -112,6 +112,10 @@ const ProfessorCore = (() => {
         part('Escolha uma matéria','Entre em uma matéria e use Professor para ouvir os fundamentos relacionados. Abra também as histórias e os mapas dos tópicos. Os exemplos são pontos de partida para compreender o raciocínio.'),
         part('Compare com seu edital','Confira o nome da matéria, os tópicos e a regra de pontuação no documento oficial. Se o fundamento sugerido tratar de outro assunto, escolha um mapa mais adequado na busca. Seu cadastro continua guardado neste navegador.'),
         ...reflect('A sugestão automática substitui o programa do edital?','Não. Ela oferece fundamentos relacionados. Você precisa comparar os tópicos da lista com o edital e aprofundar o que ainda faltar.')]],
+      atividades:['Como jogar as missões',[
+        part('Comece sua missão','Escolha o concurso, a matéria e uma missão. Leia o desafio, faça sua tentativa e toque em Conferir resposta.'),
+        part('Use o apoio','Peça uma dica ou abra Professor para retomar o fundamento. Depois de conferir, avance. Seu progresso fica neste navegador. XP representa avanço no jogo.'),
+        ...reflect('O que os números da prova real mostram?','Mostram os temas classificados naquele caderno. Eles orientam a prioridade, sem prever a próxima prova. Os exercícios do jogo são autorais.')]],
       concursos:['Escolha seu percurso',[
         part('Um começo possível','Vamos escolher um assunto pequeno para começar. Use a busca ou o filtro por local. Entre em um concurso e escolha uma matéria. Você não precisa conhecer tudo antes de começar.'),
         part('História, mapa e prática','Na matéria, comece pela história: ela apresenta uma ideia de cada vez. Depois abra o mapa para ligar as partes. Veja o exemplo resolvido e, quando quiser, experimente o laboratório.'),
@@ -152,7 +156,7 @@ const ProfessorCore = (() => {
     ...INFOGRAPHICS.map(m=>infographic(m.id)),
     ...CONTESTS.filter(c=>!c.manual).flatMap(c=>[contest(c.id),...c.subjects.flatMap(s=>[subject(c.id,s.id),...s.worked.map((_,i)=>worked(c.id,s.id,i))])]),
     ...['sql-linguagens','proposicoes-mapa','planilhas-mapa'].map(laboratory),
-    ...['concursos','revisao','fontes','estrategia','personalizado'].map(page)
+    ...['concursos','revisao','fontes','estrategia','personalizado','atividades'].map(page)
   ];}
   return {clean,spoken,split,scene,mindmap,infographic,contest,subject,worked,laboratory,page,resolve,signature,fingerprint,all};
 })();

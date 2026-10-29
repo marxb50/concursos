@@ -167,7 +167,7 @@ const ProfessorUI = (() => {
   }
   function refresh(){
     if(!options)return;
-    const c=options.getContext(),key=[c.view,c.topic,c.index,c.infographic,c.contest,c.subject].join('|');
+    const c=options.getContext(),key=[c.view,c.topic,c.index,c.infographic,c.contest,c.subject,c.activity].join('|');
     if(lastContext&&key!==lastContext)close(false);
     lastContext=key;
     const view=document.querySelector('#view-'+c.view);if(!view)return;

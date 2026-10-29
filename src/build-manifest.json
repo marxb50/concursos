@@ -8,9 +8,11 @@
     "/*__PROFESSOR_CSS__*/": "professor.css",
     "/*__RESPONSIVE_CSS__*/": "responsivo.css",
     "/*__FONTES_CSS__*/": "fontes-central.css",
-    "/*__CENTRAL_CSS__*/": "central.css"
+    "/*__CENTRAL_CSS__*/": "central.css",
+    "/*__ATIVIDADES_CSS__*/": "atividades.css"
   },
   "scripts": {
+    "/*__TEMA__*/": "tema.js",
     "/*__DATA__*/": "conteudo.js",
     "/*__MATERIAS__*/": "materias.js",
     "/*__CONCURSOS__*/": "concursos.js",
@@ -28,6 +30,8 @@
     "/*__ART__*/": "ilustracoes.js",
     "/*__SCENES__*/": "cenas-gerais.js",
     "/*__STUDY_CORE__*/": "estudo-core.js",
+    "/*__GAME_DATA__*/": "atividades-dados.js",
+    "/*__GAME_CORE__*/": "atividades-core.js",
     "/*__REVIEW__*/": "revisao.js",
     "/*__LAB_UI__*/": "laboratorios.js",
     "/*__INFO_UI__*/": "infografico-ui.js",
@@ -35,6 +39,7 @@
     "/*__PROFESSOR_CORE__*/": "professor-core.js",
     "/*__PROFESSOR_AUDIO__*/": "professor-audios.js",
     "/*__PROFESSOR_UI__*/": "professor-ui.js",
+    "/*__GAME_UI__*/": "atividades-ui.js",
     "/*__LAYOUT__*/": "layout.js",
     "/*__APP__*/": "app.js"
   }

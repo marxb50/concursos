@@ -42,17 +42,17 @@ const CustomContestCore = (() => {
 })();
 
 const RouteCore = (() => {
-  const views=['historia','mapa','fontes','concursos','concurso','materia','estrategia','infograficos','revisao'];
+  const views=['historia','mapa','fontes','concursos','concurso','materia','estrategia','infograficos','revisao','atividades'];
   function parse(hash) {
     let parts;try{parts=String(hash).replace(/^#/,'').split('/').map(decodeURIComponent);}catch(_){return {view:'concursos',invalid:true};}
     const [view,id,subject]=parts;
     if(!views.includes(view)) return {view:'concursos',invalid:true};
     if(['historia','mapa'].includes(view)&&id&&!JOURNEYS.some(t=>t.id===id)) return {view:'historia',invalid:true};
     if(view==='infograficos'&&id&&!INFOGRAPHICS.some(m=>m.id===id)) return {view:'infograficos',invalid:true};
-    if(['concurso','materia'].includes(view)&&id){const c=CONTESTS.find(c=>c.id===id);if(!c)return {view:'concursos',invalid:true};if(view==='materia'&&subject&&!c.subjects.some(s=>s.id===subject))return {view:'concurso',id,invalid:true};}
+    if(['concurso','materia','atividades'].includes(view)&&id){const c=CONTESTS.find(c=>c.id===id);if(!c)return {view:'concursos',invalid:true};if(['materia','atividades'].includes(view)&&subject&&!c.subjects.some(s=>s.id===subject))return {view:'concurso',id,invalid:true};}
     return {view,id,subject};
   }
-  const hash=(view,id,subject)=>'#'+[view,...(id?[id]:[]),...(view==='materia'&&subject?[subject]:[])].map(encodeURIComponent).join('/');
+  const hash=(view,id,subject)=>'#'+[view,...(id?[id]:[]),...(['materia','atividades'].includes(view)&&subject?[subject]:[])].map(encodeURIComponent).join('/');
   return {views,parse,hash};
 })();
 

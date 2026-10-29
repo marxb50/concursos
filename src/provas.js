@@ -108,45 +108,55 @@ const saoSubjects=[
 ];
 
 // Caderno completo nacional de TI: Dataprev 2024 (FGV · 70 questões · Desenvolvimento de Software).
-const DATAPREV_2024_EXAM='https://conhecimento.fgv.br/sites/default/files/concursos/536-analista-de-tecnologia-da-informacao-desenvolvimento-de-software-v1-4.pdf';
+const DATAPREV_2024_EXAM='https://conhecimento.fgv.br/sites/default/files/concursos/ati-desenvolvimento-de-software-cns003-tipo-01.pdf';
+// Conferência direta das 70 questões do Tipo 1 em 29/10/2026. Um tema principal por questão.
 const dataprevPortObserved=[
- {name:'Interpretação, tipologia textual e estrutura argumentativa',questions:[1,2,3,4,5]},
- {name:'Semântica, valor dos conectivos e reescrita de frases',questions:[6,7,8,9]},
- {name:'Sintaxe, pontuação, regência e norma-padrão',questions:[10,11,12]}
+ {name:'Leitura, interpretação, discurso e variação linguística',questions:[3,4,8,12]},
+ {name:'Sintaxe: orações subordinadas e adjunto adnominal',questions:[1,2]},
+ {name:'Vocabulário e sentido dos conectivos',questions:[6,9]},
+ {name:'Verbos de ligação e concordância nominal',questions:[10,11]},
+ {name:'Regência verbal',questions:[5]},
+ {name:'Pontuação: emprego da vírgula',questions:[7]}
 ];
 const dataprevEngObserved=[
- {name:'Compreensão global e inferência em textos técnicos e jornalísticos',questions:[13,14,17,19,22]},
- {name:'Vocabulário em contexto, sinônimos e expressões',questions:[15,18,20,23]},
- {name:'Referência pronominal, conectivos (however, although, therefore) e gramática',questions:[16,21,24]}
+ {name:'Compreensão de textos de divulgação e pesquisa',questions:[13,14,18,21]},
+ {name:'Vocabulário, classes de palavras e verbo modal',questions:[20,22,23,24]},
+ {name:'Referência pronominal e conectivos',questions:[15,16,17,19]}
 ];
 const dataprevLogicObserved=[
- {name:'Proposições, negação, equivalências e deduções lógicas',questions:[25,26]},
- {name:'Conjuntos, diagramas e contagem',questions:[27,28]},
- {name:'Proporcionalidade, porcentagem e raciocínio numérico',questions:[29,30]}
+ {name:'Proporcionalidade e porcentagem',questions:[25,30]},
+ {name:'Média ponderada',questions:[26]},
+ {name:'Equações e operações algébricas',questions:[27]},
+ {name:'Proposições e equivalência condicional',questions:[28]},
+ {name:'Contagem e análise combinatória',questions:[29]}
 ];
 const dataprevAtualObserved=[
- {name:'Transformação digital, sociedade da informação e impactos tecnológicos',questions:[31,32]},
- {name:'Sustentabilidade, matriz energética, indicadores e políticas públicas',questions:[33,34,35]}
+ {name:'Meio ambiente, sustentabilidade e impactos digitais',questions:[32,33,35]},
+ {name:'Cooperação internacional e G20',questions:[31]},
+ {name:'Dados pessoais e consumo',questions:[34]}
 ];
 const dataprevLegisObserved=[
- {name:'Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018 · LGPD)',questions:[36,37,38]},
- {name:'Lei de Acesso à Informação (Lei 12.527/2011) e política de segurança',questions:[39,40]}
+ {name:'LGPD: sanções, ANPD e conselho nacional',questions:[39,40]},
+ {name:'Crimes informáticos e Marco Civil da Internet',questions:[37,38]},
+ {name:'Lei de Acesso à Informação: restrições de acesso',questions:[36]}
 ];
 const dataprevSpecObserved=[
- {name:'Engenharia de software, arquitetura, microsserviços e padrões de projeto',questions:[41,42,43,44,45,46]},
- {name:'Programação orientada a objetos, Java, JavaScript/TypeScript e APIs REST',questions:[47,48,49,50,51,52,53,54]},
- {name:'Bancos de dados relacionais, SQL, modelagem e NoSQL',questions:[55,56,57,58,59,60]},
- {name:'DevOps, Git, integração contínua (CI/CD), Docker e Kubernetes',questions:[61,62,63,64,65]},
- {name:'Segurança de aplicações (OWASP), testes de software e agilidade (Scrum/Kanban)',questions:[66,67,68,69,70]}
+ {name:'Programação, frameworks Java, formatos web e aplicações móveis',questions:[41,42,48,49,50,51]},
+ {name:'Engenharia de software: arquitetura, requisitos, métricas e testes',questions:[43,45,47,52,54,57]},
+ {name:'Ciência de dados: BI, Data Warehouse, ETL/ELT e inteligência artificial',questions:[58,59,60,61,65,67]},
+ {name:'Segurança: TLS, blockchain, controle de acesso, OWASP e X.800',questions:[46,56,62,63,64]},
+ {name:'Agilidade, Scrum, projetos híbridos e DevOps',questions:[53,55,68,69,70]},
+ {name:'Redes corporativas: Internet, intranet e extranet',questions:[44]},
+ {name:'Bancos de dados NoSQL',questions:[66]}
 ];
 const WORKED_DATAPREV_PORT=[{
- title:'Reescrita mantendo o sentido e a correção gramatical',reference:'Exemplo inspirado nas questões 6 a 9 · Dataprev, FGV 2024',
+ title:'Reescrita mantendo o sentido e a correção gramatical',reference:'Exemplo autoral de leitura e reescrita · preparação para provas da FGV',
  intro:'Nas provas da FGV, questões de reescrita costumam trocar um conectivo por outro ou alterar a ordem dos termos. Como avaliar sem cair em armadilhas?',
  steps:['Identifique primeiro a relação lógica original: oposição (“embora”, “contudo”), causa (“já que”, “visto que”), condição (“caso”) ou finalidade (“para que”).','Elimine alternativas que trocam uma relação por outra (por exemplo, trocar concessão por causa).','Verifique se a mudança de posição de vírgulas não separou o sujeito do verbo nem alterou o termo a que um adjetivo ou advérbio se refere.'],
  lesson:'port_texto',lessonLabel:'Aprender leitura e sentido desde o começo'
 }];
 const WORKED_DATAPREV_ENG=[{
- title:'Pronome de referência e falso cognato em texto técnico',reference:'Exemplo inspirado nas questões 16 e 20 · Dataprev, FGV 2024',
+ title:'Pronome de referência e falso cognato em texto técnico',reference:'Exemplo autoral de referência pronominal e vocabulário em inglês',
  intro:'No trecho “The system processes sensitive records; it encrypts them before storage, actually reducing exposure”, a quem se referem “it” e “them”, e o que significa “actually”?',
  steps:['O pronome singular “it” retoma o substantivo singular anterior (“The system”).','O pronome plural “them” retoma o termo plural “sensitive records”.','O advérbio “actually” significa “na verdade / de fato” (e não “atualmente”, que em inglês é “currently” ou “nowadays”).'],
  lesson:'ingles_leitura',lessonLabel:'Ver a história de leitura em inglês'
@@ -157,19 +167,19 @@ const WORKED_DATAPREV_TI=[{
  steps:['Uma operação é idempotente quando executá-la uma ou várias vezes com os mesmos parâmetros produz o mesmo estado no servidor.','GET (consultar), PUT (substituir um recurso inteiro no mesmo endereço) e DELETE (remover um recurso) são idempotentes.','POST normalmente cria um novo recurso ou dispara um processamento a cada chamada, portanto não é idempotente por padrão.'],
  lesson:'web',lessonLabel:'Revisar HTTP, REST e web do zero'
 },{
- title:'Consulta SQL com agregação e filtro após agrupamento (HAVING)',reference:'Exemplo inspirado nas questões 55 a 60 · Dataprev, FGV 2024',
+ title:'Consulta SQL com agregação e filtro após agrupamento (HAVING)',reference:'Exemplo autoral complementar de SQL · não reproduz questão do caderno de 2024',
  intro:'Queremos listar apenas os departamentos que possuem mais de 10 servidores ativos na tabela funcionario.',
  steps:['O filtro por linha individual (“ativo = true”) vai na cláusula WHERE, antes de agrupar.','O agrupamento por departamento é feito com GROUP BY id_departamento.','Para filtrar pelo resultado da função de agregação COUNT(*), usamos HAVING COUNT(*) > 10 (pois o WHERE não aceita funções agregadas diretamente).'],
  lesson:'sql',lessonLabel:'Praticar SQL passo a passo'
 }];
 const WORKED_DATAPREV_LOGIC=[{
- title:'Contrapositiva de uma regra de monitoramento (“Se P, então Q”)',reference:'Exemplo inspirado nas questões 25 e 26 · Dataprev, FGV 2024 e 2026',
+ title:'Contrapositiva de uma regra de monitoramento (“Se P, então Q”)',reference:'Exemplo autoral relacionado à questão 28 de 2024 e às questões 25 e 28 de 2026 · Dataprev/FGV',
  intro:'A regra de um centro de processamento diz: “Se a ocupação dos servidores passa de 80%, então o alerta noturno é acionado”. O alerta noturno não foi acionado. O que podemos concluir?',
  steps:['A afirmação tem a forma condicional P → Q (ocupação > 80% → alerta acionado).','A contrapositiva equivalente é ~Q → ~P: se o alerta não foi acionado (~Q), então a ocupação não passou de 80% (~P).','Cuidado com a inversão falaciosa: saber que o alerta foi acionado (Q) não garante sozinho que a causa foi a ocupação > 80% (poderia haver outro motivo).'],
  lesson:'logic_proposicoes',lessonLabel:'Revisar proposições e implicações'
 }];
 const WORKED_DATAPREV_ATUAL=[{
- title:'Modelos de linguagem (LLMs), alucinação e consumo de infraestrutura',reference:'Exemplo inspirado nas questões 30 a 35 · Dataprev, FGV 2024 e 2026',
+ title:'Modelos de linguagem (LLMs), alucinação e consumo de infraestrutura',reference:'Exemplo autoral relacionado aos temas de IA das questões 30 a 35 · Dataprev/FGV 2026',
  intro:'Grandes modelos de linguagem (LLMs) geram texto prevendo tokens a partir de padrões estatísticos. Por que exigem revisão humana e grandes data centers?',
  steps:['Por operarem por probabilidade sobre padrões de treino, modelos generativos podem produzir respostas fluentes mas factualmente incorretas (alucinações).','O treinamento e a inferência em larga escala demandam alto processamento paralelo (GPUs/TPUs), energia elétrica e sistemas de refrigeração em data centers.','Na avaliação de aprendizado de máquina, métricas como precisão e revocação (recall) devem ser aferidas em dados de teste separados do treino.'],
  lesson:'dados',lessonLabel:'Ver a história de dados e IA'
@@ -181,12 +191,12 @@ const WORKED_DATAPREV_LEGIS=[{
  lesson:'seguranca',lessonLabel:'Estudar segurança e proteção de dados'
 }];
 const dataprevSubjects=[
- subj('portugues','Língua Portuguesa',12,byObservation(dataprevPortObserved,{},'port_texto'),'port_texto',dataprevPortObserved,WORKED_DATAPREV_PORT),
+ subj('portugues','Língua Portuguesa',12,byObservation(dataprevPortObserved,{'Sintaxe: orações subordinadas e adjunto adnominal':'port_sujeito','Verbos de ligação e concordância nominal':'port_concordancia','Regência verbal':'port_crase','Pontuação: emprego da vírgula':'port_pontuacao'},'port_texto'),'port_texto',dataprevPortObserved,WORKED_DATAPREV_PORT),
  subj('ingles','Língua Inglesa',12,byObservation(dataprevEngObserved,{},'ingles_leitura'),'ingles_leitura',dataprevEngObserved,WORKED_DATAPREV_ENG),
- subj('raciocinio','Raciocínio Lógico-Matemático',6,byObservation(dataprevLogicObserved,{'Proposições, negação, equivalências e deduções lógicas':'logic_proposicoes','Conjuntos, diagramas e contagem':'logic_conjuntos','Proporcionalidade, porcentagem e raciocínio numérico':'mat_porcento'},'logic_proposicoes'),'logic_proposicoes',dataprevLogicObserved,WORKED_DATAPREV_LOGIC),
+ subj('raciocinio','Raciocínio Lógico-Matemático',6,byObservation(dataprevLogicObserved,{'Proposições e equivalência condicional':'logic_proposicoes','Contagem e análise combinatória':'mat_combinatoria','Média ponderada':'mat_media','Equações e operações algébricas':'mat_equacoes'},'mat_porcento'),'logic_proposicoes',dataprevLogicObserved,WORKED_DATAPREV_LOGIC),
  subj('atualidades','Atualidades e Sociedade',5,byObservation(dataprevAtualObserved,{},'etica_servico'),'etica_servico',dataprevAtualObserved,WORKED_DATAPREV_ATUAL),
  subj('legislacao-ti','Legislação Acerca de Segurança de Informações',5,byObservation(dataprevLegisObserved,{},'seguranca'),'seguranca',dataprevLegisObserved,WORKED_DATAPREV_LEGIS),
- subj('especificos','Conhecimentos Específicos · Desenvolvimento de Software',30,byObservation(dataprevSpecObserved,{'Engenharia de software, arquitetura, microsserviços e padrões de projeto':'engenharia','Programação orientada a objetos, Java, JavaScript/TypeScript e APIs REST':'java','Bancos de dados relacionais, SQL, modelagem e NoSQL':'sql','DevOps, Git, integração contínua (CI/CD), Docker e Kubernetes':'gestao','Segurança de aplicações (OWASP), testes de software e agilidade (Scrum/Kanban)':'seguranca'},'engenharia'),'engenharia',dataprevSpecObserved,WORKED_DATAPREV_TI)
+ subj('especificos','Conhecimentos Específicos · Desenvolvimento de Software',30,byObservation(dataprevSpecObserved,{'Programação, frameworks Java, formatos web e aplicações móveis':'java','Ciência de dados: BI, Data Warehouse, ETL/ELT e inteligência artificial':'dados','Segurança: TLS, blockchain, controle de acesso, OWASP e X.800':'seguranca','Agilidade, Scrum, projetos híbridos e DevOps':'gestao','Redes corporativas: Internet, intranet e extranet':'infra','Bancos de dados NoSQL':'sql'},'engenharia'),'engenharia',dataprevSpecObserved,WORKED_DATAPREV_TI)
 ];
 
 // Caderno completo nacional de TI: Dataprev 2026 (FGV · 70 questões · Desenvolvimento de Software).
