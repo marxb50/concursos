@@ -6,7 +6,7 @@ Aplicativo de estudo com histórias, mapas e professora virtual.
 
 A interface se adapta automaticamente à largura disponível: celular, tablet e computador. Os controles também consideram interação por toque. Você pode alternar entre dois visuais — **Circuitos** (painéis de quadrinhos, circuitos e ações em verde/coral) e **Caderno** (papel creme) — sem perder a posição ou a rodada atual. Não há cadastro; posição, atividades e revisão ficam no navegador.
 
-Inclui 41 histórias, 56 infográficos, 15 concursos, aba **Atividades** com 53 missões (244 rodadas) e 526 explicações com voz sintética Thalita Neural. As provas e editais mantêm suas referências e datas no aplicativo. O áudio só é carregado quando você escolhe ouvir.
+Inclui 41 histórias, 56 infográficos, 28 concursos (12 provas completas e 630 questões reais), aba **Atividades** com 53 missões (688 rodadas com 40 questões em cada missão autoral) e suporte de voz sintética Thalita Neural. As provas e editais mantêm suas referências e datas no aplicativo. O áudio só é carregado quando você escolhe ouvir.
 
 As matérias seguem a participação nos pontos máximos da objetiva quando há distribuição oficial por disciplina. Quando o edital só informa blocos, a interface preserva essa distinção. Pontuação, mínimos e frequência histórica aparecem com seu contexto. As fontes de interface são incorporadas; suas licenças OFL estão em `src/fontes-central.css`.
 

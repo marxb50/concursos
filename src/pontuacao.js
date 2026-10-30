@@ -38,6 +38,22 @@ const ScoringCore=(()=>{
     ],
     minimumSummary:'Mínimos: P1 18 pontos; P2 27; e 54 pontos na soma das objetivas. A prova discursiva é uma etapa adicional. Não há distribuição fixa dos 90 itens por matéria no quadro da prova.'
   });
+  for(const id of ['ufrn-ati-dev-2025','ufrn-ati-dados-2025'])update(id,{
+    type:'multiple',options:4,correct:1,wrong:0,blank:0,
+    minimumSummary:'55 questões de múltipla escolha (A–D) sem desconto por erro, distribuídas em Língua Portuguesa (10), Legislação (15) e Conhecimentos Específicos (30), além de prova teórico-prática discursiva.'
+  });
+  update('ufrn-tti-2023',{
+    type:'multiple',options:4,correct:1,wrong:0,blank:0,
+    minimumSummary:'50 questões de múltipla escolha (A–D) sem desconto por erro, distribuídas em Língua Portuguesa (10), Legislação (10) e Conhecimentos Específicos (30), além de redação.'
+  });
+  for(const id of ['ifrn-ati-2024','ifrn-tti-2024'])update(id,{
+    type:'multiple',options:4,correct:null,correctBySubject:{portugues:2,legislacao:2,especificos:3},wrong:0,blank:0,
+    minimumSummary:'40 questões de múltipla escolha (A–D) somando 100 pontos: Conhecimentos Específicos valem 60 pontos (20 × 3), Língua Portuguesa 20 pontos (10 × 2) e Legislação 20 pontos (10 × 2).'
+  });
+  update('tce-rn-ti-2026',{
+    type:'binary',options:2,correct:1,wrong:-1,blank:0,
+    minimumSummary:'Padrão Cebraspe de itens Certo/Errado (+1 por acerto, −1 por erro) combinado com prova discursiva. Confira o quadro exato de itens e mínimos por cargo no edital do TCE-RN.'
+  });
   const number=n=>Number(n).toLocaleString('pt-BR',{maximumFractionDigits:2});
   const correct=(c,s)=>c.scoring.correctBySubject?.[s.id]??c.scoring.correct;
   function distribution(c){

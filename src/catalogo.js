@@ -2,7 +2,7 @@
 const Catalog=(()=>{
  const e=Art.e, safe=x=>ContestCore.validSource(x)||'#';
  const link=(url,label)=>url?`<a class="source-link" href="${e(safe(url))}" target="_blank" rel="noopener noreferrer">${e(label)} ↗</a>`:'';
- const location=c=>c.manual?'Personalizado':['cgu-dev-2026','camara-2026','abdi-dev-2026','dataprev-dev-2024','dataprev-dev-2026','cgu-ti-2022'].includes(c.id)?'Nacional':c.id.startsWith('natal')?'Natal':c.id.startsWith('sao-')?'São Gonçalo':c.id.startsWith('nisia')?'Nísia Floresta':'Parnamirim';
+ const location=c=>c.manual?'Personalizado':['cgu-dev-2026','camara-2026','abdi-dev-2026','dataprev-dev-2024','dataprev-dev-2026','cgu-ti-2022'].includes(c.id)?'Nacional':/^(?:natal|ufrn-|ifrn-|tce-rn-|mp-rn-|tj-rn-|rn-|itep-|fapern-|arsep-)/.test(c.id)?'Natal':c.id.startsWith('sao-')?'São Gonçalo':c.id.startsWith('nisia')?'Nísia Floresta':'Parnamirim';
  function catalog(filter='Todos',query=''){
   const list=SearchCore.contests(CONTESTS.filter(c=>filter==='Todos'||location(c)===filter),query);
   return `<div class="catalog-hero"><div><span class="eyebrow">central de estudo · escolha seu objetivo</span><h1>Seu concurso. Sua próxima conquista.</h1><p>Veja concursos locais e nacionais, encontre as matérias e comece por histórias que explicam tudo devagar.</p><div class="catalog-hero-tags"><span>✦ Seu ritmo</span><span>✦ Fontes verificáveis</span><span>✦ Começo do zero</span></div></div><div class="catalog-hero-art" aria-hidden="true">${Art.symbol('plan',100)}<span>um passo<br>de cada vez</span>✦</div></div>
