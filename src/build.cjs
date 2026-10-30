@@ -12,6 +12,9 @@ function build(root = __dirname) {
     html = html.replace(marker, () => source);
   }
   if (/\/\*__[A-Z_]+__\*\//.test(html)) throw new Error('Há marcadores não resolvidos no HTML.');
+  const openCount = (html.match(/<script\b/gi) || []).length;
+  const closeCount = (html.match(/<\/script>/gi) || []).length;
+  if (openCount !== closeCount) throw new Error("Contagem desigual de tags de script no HTML: " + openCount + " aberturas vs " + closeCount + " fechamentos");
   const target = path.join(root, 'dist', 'index.html');
   fs.mkdirSync(path.dirname(target), {recursive: true});
   fs.writeFileSync(target + '.tmp', html, 'utf8');
