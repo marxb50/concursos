@@ -103,3 +103,6 @@
 @media print{.theme-picker,.theme-status,.game-selectors,.game-actions,.game-missions,.game-city,.game-answer-form{display:none!important}#view-atividades{--g-ink:#111;--g-muted:#333;--g-bg:#fff;--g-panel:#fff;--g-line:#777;--g-accent:#222}.game-stage,.game-finish,.game-hero{box-shadow:none;border:1px solid #777;color:#111}.game-choices input{display:none}.game-choice{break-inside:avoid}.game-order-buttons{display:none}}
 
 .game-top-priority{padding:15px 19px;background:var(--g-bg);border-left:4px solid var(--g-accent);font-size:.9rem;line-height:1.7;margin:16px 0 12px;color:var(--g-muted)}
+.game-question-meta{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}
+.game-source{display:inline-block;color:var(--g-accent);text-underline-offset:4px;line-height:1.6}
+.game-question-meta .game-badge{white-space:normal}

@@ -1,0 +1,2551 @@
+{
+  "contests": 28,
+  "subjects": 140,
+  "uniqueQuestions": 1224,
+  "placements": 7786,
+  "minimum": 40,
+  "maximum": 100,
+  "problems": [],
+  "lessons": 1886,
+  "audioMissing": 116,
+  "rows": [
+    {
+      "contest": "natal-sttu",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Banca e edital a confirmar",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "natal-sttu",
+      "subject": "matematica",
+      "name": "Matemática",
+      "board": "Banca e edital a confirmar",
+      "total": 70,
+      "unique": 70,
+      "phases": 7,
+      "families": [
+        "balanca-equacoes",
+        "recursos-porcentagem",
+        "chance-probabilidade",
+        "logica"
+      ],
+      "formats": [
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 4 alternativas",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 70
+    },
+    {
+      "contest": "natal-sttu",
+      "subject": "informatica",
+      "name": "Informática",
+      "board": "Banca e edital a confirmar",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "informatica",
+        "planilha-operacao",
+        "seguranca-incidente",
+        "rede-investigacao"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "natal-sttu",
+      "subject": "constitucional",
+      "name": "Trilha opcional · Direito Constitucional",
+      "board": "Banca e edital a confirmar",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "constitucional"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "natal-sttu",
+      "subject": "administrativo",
+      "name": "Trilha opcional · Administração e atendimento",
+      "board": "Banca e edital a confirmar",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "administrativo",
+        "administracao",
+        "etica"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "sao-goncalo",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Banca e edital a confirmar",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "sao-goncalo",
+      "subject": "matematica",
+      "name": "Matemática",
+      "board": "Banca e edital a confirmar",
+      "total": 70,
+      "unique": 70,
+      "phases": 7,
+      "families": [
+        "balanca-equacoes",
+        "recursos-porcentagem",
+        "chance-probabilidade",
+        "logica"
+      ],
+      "formats": [
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 4 alternativas",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 70
+    },
+    {
+      "contest": "sao-goncalo",
+      "subject": "informatica",
+      "name": "Informática",
+      "board": "Banca e edital a confirmar",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "informatica",
+        "planilha-operacao",
+        "seguranca-incidente",
+        "rede-investigacao"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "sao-goncalo",
+      "subject": "constitucional",
+      "name": "Trilha opcional · Direito Constitucional",
+      "board": "Banca e edital a confirmar",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "constitucional"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "sao-goncalo",
+      "subject": "administrativo",
+      "name": "Trilha opcional · Administração e atendimento",
+      "board": "Banca e edital a confirmar",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "administrativo",
+        "administracao",
+        "etica"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "nisia-prefeitura",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "IDIB",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "nisia-prefeitura",
+      "subject": "raciocinio",
+      "name": "Raciocínio lógico-matemático",
+      "board": "IDIB",
+      "total": 60,
+      "unique": 60,
+      "phases": 7,
+      "families": [
+        "logica",
+        "balanca-equacoes",
+        "recursos-porcentagem",
+        "chance-probabilidade"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "nisia-prefeitura",
+      "subject": "informatica",
+      "name": "Informática",
+      "board": "IDIB",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "informatica",
+        "planilha-operacao",
+        "seguranca-incidente",
+        "rede-investigacao"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "nisia-prefeitura",
+      "subject": "especifico",
+      "name": "Conhecimentos específicos · técnico administrativo",
+      "board": "IDIB",
+      "total": 70,
+      "unique": 70,
+      "phases": 8,
+      "families": [
+        "administracao",
+        "administrativo",
+        "base-adm-latim",
+        "base-adm-eventos"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Múltipla escolha · 4 alternativas"
+      ],
+      "expected": 70
+    },
+    {
+      "contest": "nisia-guarda",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "IDIB",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "nisia-guarda",
+      "subject": "raciocinio",
+      "name": "Matemática e raciocínio lógico",
+      "board": "IDIB",
+      "total": 60,
+      "unique": 60,
+      "phases": 7,
+      "families": [
+        "logica",
+        "balanca-equacoes",
+        "recursos-porcentagem",
+        "chance-probabilidade"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "nisia-guarda",
+      "subject": "informatica",
+      "name": "Informática",
+      "board": "IDIB",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "informatica",
+        "planilha-operacao",
+        "seguranca-incidente",
+        "rede-investigacao"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "nisia-guarda",
+      "subject": "direito-legislacao",
+      "name": "Noções de Direito e Legislação",
+      "board": "IDIB",
+      "total": 100,
+      "unique": 100,
+      "phases": 10,
+      "families": [
+        "especial",
+        "penal",
+        "constitucional",
+        "administrativo"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 100
+    },
+    {
+      "contest": "camara-2026",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "camara-2026",
+      "subject": "ingles",
+      "name": "Língua Inglesa",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "ingles-evidencias"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "camara-2026",
+      "subject": "adm",
+      "name": "Direito Administrativo e Administração Pública",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "administrativo",
+        "governanca",
+        "transparencia",
+        "etica"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "camara-2026",
+      "subject": "constitucional",
+      "name": "Direito Constitucional e Regimento Interno",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "constitucional",
+        "legislativo"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "camara-2026",
+      "subject": "tecnologia",
+      "name": "Tecnologia da Informação e Dados",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "informatica",
+        "dados",
+        "seguranca-incidente",
+        "transparencia",
+        "fala"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "camara-2026",
+      "subject": "linguistica",
+      "name": "Linguística e comunicação",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "linguistica"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "camara-2026",
+      "subject": "fala",
+      "name": "Reconhecimento de fala, transcrição e inteligência artificial",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "fala"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "camara-2026",
+      "subject": "legislativo",
+      "name": "Processo legislativo e regimentos",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "legislativo"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "camara-2026",
+      "subject": "politica",
+      "name": "Ciência Política",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "politica"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "parnamirim-futuro",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Banca ainda não identificada",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "parnamirim-futuro",
+      "subject": "matematica",
+      "name": "Matemática",
+      "board": "Banca ainda não identificada",
+      "total": 70,
+      "unique": 70,
+      "phases": 7,
+      "families": [
+        "balanca-equacoes",
+        "recursos-porcentagem",
+        "chance-probabilidade",
+        "logica"
+      ],
+      "formats": [
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 4 alternativas",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 70
+    },
+    {
+      "contest": "parnamirim-futuro",
+      "subject": "informatica",
+      "name": "Informática",
+      "board": "Banca ainda não identificada",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "informatica",
+        "planilha-operacao",
+        "seguranca-incidente",
+        "rede-investigacao"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "parnamirim-futuro",
+      "subject": "constitucional",
+      "name": "Trilha opcional · Direito Constitucional",
+      "board": "Banca ainda não identificada",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "constitucional"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "parnamirim-futuro",
+      "subject": "administrativo",
+      "name": "Trilha opcional · Administração e atendimento",
+      "board": "Banca ainda não identificada",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "administrativo",
+        "administracao",
+        "etica"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "parnamirim-guarda-2024",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "FUNCERN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "parnamirim-guarda-2024",
+      "subject": "constitucional",
+      "name": "Direito Constitucional",
+      "board": "FUNCERN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "constitucional"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "parnamirim-guarda-2024",
+      "subject": "matematica",
+      "name": "Matemática",
+      "board": "FUNCERN",
+      "total": 70,
+      "unique": 70,
+      "phases": 7,
+      "families": [
+        "balanca-equacoes",
+        "chance-probabilidade",
+        "recursos-porcentagem",
+        "logica"
+      ],
+      "formats": [
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 4 alternativas",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 70
+    },
+    {
+      "contest": "parnamirim-guarda-2024",
+      "subject": "penal",
+      "name": "Direito Penal e Processo Penal",
+      "board": "FUNCERN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "penal"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "parnamirim-guarda-2024",
+      "subject": "legislacao",
+      "name": "Legislação Extravagante",
+      "board": "FUNCERN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "especial"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "estado",
+      "name": "Estado, democracia, direitos e ciência política",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "politica",
+        "constitucional"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "sociedade",
+      "name": "Sociedade brasileira, desigualdades e desenvolvimento",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "sociedade"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "etica",
+      "name": "Ética pública e responsabilidade profissional",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "etica"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "admin",
+      "name": "Administração pública e políticas públicas",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "administrativo",
+        "governanca",
+        "politica",
+        "afo"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "governanca",
+      "name": "Governança, riscos e integridade",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "governanca"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "transparencia",
+      "name": "Transparência, ouvidoria e participação",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "transparencia"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "direito",
+      "name": "Direito público, controle e responsabilização",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "constitucional",
+        "administrativo",
+        "transparencia"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "evidencias",
+      "name": "Evidências, dados e inteligência artificial",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "dados"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "auditoria",
+      "name": "Auditoria governamental e atuação da CGU",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "auditoria"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "engenharia",
+      "name": "Engenharia de software e programação",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "software",
+        "oficina-sequencias",
+        "web"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "arquitetura",
+      "name": "Arquitetura e integração de sistemas",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "web",
+        "rede-investigacao"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "persistencia",
+      "name": "Persistência, integração e proteção de dados",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 7,
+      "families": [
+        "sql",
+        "resgate-sql",
+        "dados"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "cgu-dev-2026",
+      "subject": "entrega",
+      "name": "Desenvolvimento seguro, qualidade e entrega",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "seguranca-incidente",
+        "software",
+        "governanca"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "abdi-dev-2026",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "abdi-dev-2026",
+      "subject": "raciocinio",
+      "name": "Raciocínio lógico",
+      "board": "FGV",
+      "total": 60,
+      "unique": 60,
+      "phases": 7,
+      "families": [
+        "logica",
+        "balanca-equacoes",
+        "recursos-porcentagem",
+        "chance-probabilidade"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "abdi-dev-2026",
+      "subject": "informatica",
+      "name": "Noções de informática",
+      "board": "FGV",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "informatica",
+        "planilha-operacao",
+        "seguranca-incidente",
+        "rede-investigacao"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "abdi-dev-2026",
+      "subject": "institucional",
+      "name": "Conhecimentos institucionais · ABDI",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "abdi"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "abdi-dev-2026",
+      "subject": "tecnologia",
+      "name": "Conhecimentos específicos · desenvolvimento de TI",
+      "board": "FGV",
+      "total": 80,
+      "unique": 80,
+      "phases": 8,
+      "families": [
+        "software",
+        "sql",
+        "web",
+        "seguranca-incidente",
+        "oficina-sequencias"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Múltipla escolha · 3 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 80
+    },
+    {
+      "contest": "natal-camara-2023",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "FUNCERN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "natal-camara-2023",
+      "subject": "logica",
+      "name": "Lógica",
+      "board": "FUNCERN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "logica",
+        "balanca-equacoes",
+        "recursos-porcentagem"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "natal-camara-2023",
+      "subject": "especificos",
+      "name": "Conhecimentos específicos",
+      "board": "FUNCERN",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "administrativo",
+        "constitucional",
+        "administracao"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "sao-agente-2021",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "IBFC",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "sao-agente-2021",
+      "subject": "logica",
+      "name": "Raciocínio Lógico",
+      "board": "IBFC",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "logica",
+        "balanca-equacoes",
+        "recursos-porcentagem"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "sao-agente-2021",
+      "subject": "informatica",
+      "name": "Noções de Informática",
+      "board": "IBFC",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "informatica",
+        "rede-investigacao",
+        "planilha-operacao",
+        "seguranca-incidente"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Múltipla escolha · 3 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "dataprev-dev-2024",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "dataprev-dev-2024",
+      "subject": "ingles",
+      "name": "Língua Inglesa",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "ingles-evidencias"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "dataprev-dev-2024",
+      "subject": "raciocinio",
+      "name": "Raciocínio Lógico-Matemático",
+      "board": "FGV",
+      "total": 60,
+      "unique": 60,
+      "phases": 7,
+      "families": [
+        "recursos-porcentagem",
+        "logica",
+        "balanca-equacoes",
+        "chance-probabilidade"
+      ],
+      "formats": [
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 4 alternativas",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "dataprev-dev-2024",
+      "subject": "atualidades",
+      "name": "Atualidades e Sociedade",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "dados",
+        "sociedade"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "dataprev-dev-2024",
+      "subject": "legislacao-ti",
+      "name": "Legislação Acerca de Segurança de Informações",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "transparencia"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "dataprev-dev-2024",
+      "subject": "especificos",
+      "name": "Conhecimentos Específicos · Desenvolvimento de Software",
+      "board": "FGV",
+      "total": 100,
+      "unique": 100,
+      "phases": 11,
+      "families": [
+        "software",
+        "web",
+        "dados",
+        "oficina-sequencias",
+        "seguranca-incidente",
+        "sql"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 100
+    },
+    {
+      "contest": "dataprev-dev-2026",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "dataprev-dev-2026",
+      "subject": "ingles",
+      "name": "Língua Inglesa",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "ingles-evidencias"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "dataprev-dev-2026",
+      "subject": "raciocinio",
+      "name": "Raciocínio Lógico-Matemático",
+      "board": "FGV",
+      "total": 60,
+      "unique": 60,
+      "phases": 7,
+      "families": [
+        "logica",
+        "balanca-equacoes",
+        "recursos-porcentagem",
+        "chance-probabilidade"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "dataprev-dev-2026",
+      "subject": "atualidades",
+      "name": "Atualidades e Inteligência Artificial",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "dados",
+        "sociedade"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "dataprev-dev-2026",
+      "subject": "legislacao-ti",
+      "name": "Legislação Acerca de Segurança da Informação e Proteção de Dados",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "transparencia"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "dataprev-dev-2026",
+      "subject": "especificos",
+      "name": "Conhecimentos Específicos · Desenvolvimento de Software",
+      "board": "FGV",
+      "total": 100,
+      "unique": 100,
+      "phases": 11,
+      "families": [
+        "sql",
+        "dados",
+        "seguranca-incidente",
+        "software",
+        "web",
+        "oficina-sequencias"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Múltipla escolha · 3 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 100
+    },
+    {
+      "contest": "cgu-ti-2022",
+      "subject": "constitucional",
+      "name": "Direito Constitucional",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "constitucional"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "cgu-ti-2022",
+      "subject": "administrativo",
+      "name": "Direito Administrativo",
+      "board": "FGV",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "administrativo",
+        "federal",
+        "etica"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "cgu-ti-2022",
+      "subject": "afo",
+      "name": "Administração Financeira e Orçamentária",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "afo"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "cgu-ti-2022",
+      "subject": "auditoria",
+      "name": "Auditoria Governamental e Controladoria (CGU)",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "auditoria"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "cgu-ti-2022",
+      "subject": "evidencias",
+      "name": "Ciência de Dados",
+      "board": "FGV",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "dados"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "cgu-ti-2022",
+      "subject": "engenharia",
+      "name": "Desenvolvimento de Sistemas",
+      "board": "FGV",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "software",
+        "web",
+        "oficina-sequencias"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "cgu-ti-2022",
+      "subject": "persistencia",
+      "name": "Bancos de Dados",
+      "board": "FGV",
+      "total": 60,
+      "unique": 60,
+      "phases": 7,
+      "families": [
+        "sql",
+        "resgate-sql",
+        "dados"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "cgu-ti-2022",
+      "subject": "arquitetura",
+      "name": "Infraestrutura Tecnológica",
+      "board": "FGV",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "rede-investigacao",
+        "seguranca-incidente",
+        "governanca"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas",
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "cgu-ti-2022",
+      "subject": "entrega",
+      "name": "Segurança da Informação",
+      "board": "FGV",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "transparencia",
+        "seguranca-incidente",
+        "web"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "natal-suporte-2023",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "FUNCERN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "natal-suporte-2023",
+      "subject": "informatica",
+      "name": "Informática",
+      "board": "FUNCERN",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "rede-investigacao",
+        "informatica",
+        "planilha-operacao",
+        "seguranca-incidente"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas",
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "natal-suporte-2023",
+      "subject": "especificos",
+      "name": "Manutenção e suporte em informática",
+      "board": "FUNCERN",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "rede-investigacao",
+        "informatica",
+        "seguranca-incidente"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas",
+        "Múltipla escolha · 4 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "ufrn-ati-dev-2025",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Comperve/UFRN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "ufrn-ati-dev-2025",
+      "subject": "legislacao",
+      "name": "Legislação e Normas da UFRN",
+      "board": "Comperve/UFRN",
+      "total": 70,
+      "unique": 70,
+      "phases": 7,
+      "families": [
+        "federal",
+        "educacao-ufrn",
+        "etica",
+        "administrativo"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas"
+      ],
+      "expected": 70
+    },
+    {
+      "contest": "ufrn-ati-dev-2025",
+      "subject": "especificos",
+      "name": "Desenvolvimento de Sistemas",
+      "board": "Comperve/UFRN",
+      "total": 100,
+      "unique": 100,
+      "phases": 10,
+      "families": [
+        "software",
+        "web",
+        "sql",
+        "oficina-sequencias",
+        "dados"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 100
+    },
+    {
+      "contest": "ufrn-ati-dados-2025",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Comperve/UFRN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "ufrn-ati-dados-2025",
+      "subject": "legislacao",
+      "name": "Legislação e Normas da UFRN",
+      "board": "Comperve/UFRN",
+      "total": 70,
+      "unique": 70,
+      "phases": 7,
+      "families": [
+        "federal",
+        "educacao-ufrn",
+        "etica",
+        "administrativo"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas"
+      ],
+      "expected": 70
+    },
+    {
+      "contest": "ufrn-ati-dados-2025",
+      "subject": "especificos",
+      "name": "Ciência de Dados, IA e Engenharia",
+      "board": "Comperve/UFRN",
+      "total": 94,
+      "unique": 94,
+      "phases": 10,
+      "families": [
+        "dados",
+        "software",
+        "sql",
+        "resgate-sql"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 94
+    },
+    {
+      "contest": "ufrn-tti-2023",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Comperve/UFRN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "ufrn-tti-2023",
+      "subject": "legislacao",
+      "name": "Legislação Federal",
+      "board": "Comperve/UFRN",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "federal",
+        "administrativo",
+        "constitucional",
+        "etica"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "ufrn-tti-2023",
+      "subject": "especificos",
+      "name": "Conhecimentos Específicos · Técnico em TI",
+      "board": "Comperve/UFRN",
+      "total": 100,
+      "unique": 100,
+      "phases": 10,
+      "families": [
+        "software",
+        "oficina-sequencias",
+        "rede-investigacao",
+        "web",
+        "sql",
+        "seguranca-incidente"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 100
+    },
+    {
+      "contest": "ifrn-ati-2024",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "FUNCERN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "ifrn-ati-2024",
+      "subject": "legislacao",
+      "name": "Legislação e Educação Federal",
+      "board": "FUNCERN",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "federal",
+        "educacao-ifrn",
+        "etica"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "ifrn-ati-2024",
+      "subject": "especificos",
+      "name": "Conhecimentos Específicos · Analista de TI",
+      "board": "FUNCERN",
+      "total": 100,
+      "unique": 100,
+      "phases": 10,
+      "families": [
+        "web",
+        "software",
+        "sql",
+        "oficina-sequencias",
+        "rede-investigacao"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação",
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 100
+    },
+    {
+      "contest": "ifrn-tti-2024",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "FUNCERN",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "ifrn-tti-2024",
+      "subject": "legislacao",
+      "name": "Legislação e Educação Federal",
+      "board": "FUNCERN",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "federal",
+        "educacao-ifrn",
+        "etica"
+      ],
+      "formats": [
+        "Múltipla escolha · 4 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "ifrn-tti-2024",
+      "subject": "especificos",
+      "name": "Conhecimentos Específicos · Técnico de TI",
+      "board": "FUNCERN",
+      "total": 90,
+      "unique": 90,
+      "phases": 9,
+      "families": [
+        "rede-investigacao",
+        "software",
+        "web",
+        "sql",
+        "oficina-sequencias"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas",
+        "Múltipla escolha · 4 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 90
+    },
+    {
+      "contest": "tce-rn-ti-2026",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Cebraspe",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "tce-rn-ti-2026",
+      "subject": "direito",
+      "name": "Direito Constitucional, Administrativo, Controle e LGPD",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "constitucional",
+        "administrativo",
+        "transparencia"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "tce-rn-ti-2026",
+      "subject": "engenharia",
+      "name": "Engenharia de Software, Desenvolvimento e Arquitetura",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "software",
+        "oficina-sequencias",
+        "web"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "tce-rn-ti-2026",
+      "subject": "dados",
+      "name": "Banco de Dados, Ciência de Dados e Inteligência Artificial",
+      "board": "Cebraspe",
+      "total": 74,
+      "unique": 74,
+      "phases": 8,
+      "families": [
+        "sql",
+        "dados",
+        "resgate-sql"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 74
+    },
+    {
+      "contest": "tce-rn-ti-2026",
+      "subject": "infraestrutura",
+      "name": "Redes, Sistemas Operacionais, Nuvem e Segurança da Informação",
+      "board": "Cebraspe",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "rede-investigacao",
+        "seguranca-incidente",
+        "governanca"
+      ],
+      "formats": [
+        "Julgamento · treino para Cebraspe"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "mp-rn-ti-previsto",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "mp-rn-ti-previsto",
+      "subject": "direito",
+      "name": "Direito Constitucional, Administrativo, Controle e LGPD",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "constitucional",
+        "administrativo",
+        "transparencia"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "mp-rn-ti-previsto",
+      "subject": "engenharia",
+      "name": "Engenharia de Software, Desenvolvimento e Arquitetura",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "software",
+        "oficina-sequencias",
+        "web"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "mp-rn-ti-previsto",
+      "subject": "dados",
+      "name": "Banco de Dados, Ciência de Dados e Inteligência Artificial",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 74,
+      "unique": 74,
+      "phases": 8,
+      "families": [
+        "sql",
+        "dados",
+        "resgate-sql"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 74
+    },
+    {
+      "contest": "mp-rn-ti-previsto",
+      "subject": "infraestrutura",
+      "name": "Redes, Sistemas Operacionais, Nuvem e Segurança da Informação",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "rede-investigacao",
+        "seguranca-incidente",
+        "governanca"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas",
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "tj-rn-ti-fgv",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "FGV (referência estadual)",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "tj-rn-ti-fgv",
+      "subject": "direito",
+      "name": "Direito Constitucional, Administrativo, Controle e LGPD",
+      "board": "FGV (referência estadual)",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "constitucional",
+        "administrativo",
+        "transparencia"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "tj-rn-ti-fgv",
+      "subject": "engenharia",
+      "name": "Engenharia de Software, Desenvolvimento e Arquitetura",
+      "board": "FGV (referência estadual)",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "software",
+        "oficina-sequencias",
+        "web"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "tj-rn-ti-fgv",
+      "subject": "dados",
+      "name": "Banco de Dados, Ciência de Dados e Inteligência Artificial",
+      "board": "FGV (referência estadual)",
+      "total": 74,
+      "unique": 74,
+      "phases": 8,
+      "families": [
+        "sql",
+        "dados",
+        "resgate-sql"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 74
+    },
+    {
+      "contest": "tj-rn-ti-fgv",
+      "subject": "infraestrutura",
+      "name": "Redes, Sistemas Operacionais, Nuvem e Segurança da Informação",
+      "board": "FGV (referência estadual)",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "rede-investigacao",
+        "seguranca-incidente",
+        "governanca"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas",
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "rn-ti-estadual-previsto",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "rn-ti-estadual-previsto",
+      "subject": "direito",
+      "name": "Direito Constitucional, Administrativo, Controle e LGPD",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "constitucional",
+        "administrativo",
+        "transparencia"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "rn-ti-estadual-previsto",
+      "subject": "engenharia",
+      "name": "Engenharia de Software, Desenvolvimento e Arquitetura",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "software",
+        "oficina-sequencias",
+        "web"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "rn-ti-estadual-previsto",
+      "subject": "dados",
+      "name": "Banco de Dados, Ciência de Dados e Inteligência Artificial",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 74,
+      "unique": 74,
+      "phases": 8,
+      "families": [
+        "sql",
+        "dados",
+        "resgate-sql"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 74
+    },
+    {
+      "contest": "rn-ti-estadual-previsto",
+      "subject": "infraestrutura",
+      "name": "Redes, Sistemas Operacionais, Nuvem e Segurança da Informação",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "rede-investigacao",
+        "seguranca-incidente",
+        "governanca"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas",
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "natal-prefeitura-previsto",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "natal-prefeitura-previsto",
+      "subject": "direito",
+      "name": "Direito Constitucional, Administrativo, Controle e LGPD",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "constitucional",
+        "administrativo",
+        "transparencia"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "natal-prefeitura-previsto",
+      "subject": "engenharia",
+      "name": "Engenharia de Software, Desenvolvimento e Arquitetura",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "software",
+        "oficina-sequencias",
+        "web"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "natal-prefeitura-previsto",
+      "subject": "dados",
+      "name": "Banco de Dados, Ciência de Dados e Inteligência Artificial",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 74,
+      "unique": 74,
+      "phases": 8,
+      "families": [
+        "sql",
+        "dados",
+        "resgate-sql"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 74
+    },
+    {
+      "contest": "natal-prefeitura-previsto",
+      "subject": "infraestrutura",
+      "name": "Redes, Sistemas Operacionais, Nuvem e Segurança da Informação",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "rede-investigacao",
+        "seguranca-incidente",
+        "governanca"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas",
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "itep-rn-previsto",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "itep-rn-previsto",
+      "subject": "direito",
+      "name": "Direito Constitucional, Administrativo, Controle e LGPD",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "constitucional",
+        "administrativo",
+        "transparencia"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "itep-rn-previsto",
+      "subject": "engenharia",
+      "name": "Engenharia de Software, Desenvolvimento e Arquitetura",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "software",
+        "oficina-sequencias",
+        "web"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "itep-rn-previsto",
+      "subject": "dados",
+      "name": "Banco de Dados, Ciência de Dados e Inteligência Artificial",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 74,
+      "unique": 74,
+      "phases": 8,
+      "families": [
+        "sql",
+        "dados",
+        "resgate-sql"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 74
+    },
+    {
+      "contest": "itep-rn-previsto",
+      "subject": "infraestrutura",
+      "name": "Redes, Sistemas Operacionais, Nuvem e Segurança da Informação",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "rede-investigacao",
+        "seguranca-incidente",
+        "governanca"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas",
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "fapern-rn-previsto",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "fapern-rn-previsto",
+      "subject": "direito",
+      "name": "Direito Constitucional, Administrativo, Controle e LGPD",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "constitucional",
+        "administrativo",
+        "transparencia"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "fapern-rn-previsto",
+      "subject": "engenharia",
+      "name": "Engenharia de Software, Desenvolvimento e Arquitetura",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "software",
+        "oficina-sequencias",
+        "web"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "fapern-rn-previsto",
+      "subject": "dados",
+      "name": "Banco de Dados, Ciência de Dados e Inteligência Artificial",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 74,
+      "unique": 74,
+      "phases": 8,
+      "families": [
+        "sql",
+        "dados",
+        "resgate-sql"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 74
+    },
+    {
+      "contest": "fapern-rn-previsto",
+      "subject": "infraestrutura",
+      "name": "Redes, Sistemas Operacionais, Nuvem e Segurança da Informação",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "rede-investigacao",
+        "seguranca-incidente",
+        "governanca"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas",
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "arsep-rn-previsto",
+      "subject": "portugues",
+      "name": "Língua Portuguesa",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 40,
+      "unique": 40,
+      "phases": 4,
+      "families": [
+        "detetive-texto"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas"
+      ],
+      "expected": 40
+    },
+    {
+      "contest": "arsep-rn-previsto",
+      "subject": "direito",
+      "name": "Direito Constitucional, Administrativo, Controle e LGPD",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "constitucional",
+        "administrativo",
+        "transparencia"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "arsep-rn-previsto",
+      "subject": "engenharia",
+      "name": "Engenharia de Software, Desenvolvimento e Arquitetura",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "software",
+        "oficina-sequencias",
+        "web"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 60
+    },
+    {
+      "contest": "arsep-rn-previsto",
+      "subject": "dados",
+      "name": "Banco de Dados, Ciência de Dados e Inteligência Artificial",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 74,
+      "unique": 74,
+      "phases": 8,
+      "families": [
+        "sql",
+        "dados",
+        "resgate-sql"
+      ],
+      "formats": [
+        "Múltipla escolha · 5 alternativas",
+        "Desafio interativo de aplicação"
+      ],
+      "expected": 74
+    },
+    {
+      "contest": "arsep-rn-previsto",
+      "subject": "infraestrutura",
+      "name": "Redes, Sistemas Operacionais, Nuvem e Segurança da Informação",
+      "board": "Banca não confirmada nesta trilha",
+      "total": 60,
+      "unique": 60,
+      "phases": 6,
+      "families": [
+        "rede-investigacao",
+        "seguranca-incidente",
+        "governanca"
+      ],
+      "formats": [
+        "Múltipla escolha · 3 alternativas",
+        "Múltipla escolha · 5 alternativas"
+      ],
+      "expected": 60
+    }
+  ]
+}

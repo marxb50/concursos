@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-30",
+  "environment": "Playwright CLI, Chromium, HTTP local 127.0.0.1:8765",
+  "html_sha256": "bed0745b3a0d14e95338c4c7ed9b7a968230c20d4ebe3fbcf36c2c0dd266331b",
+  "build_parity": "Node e Python produziram HTML idêntico",
+  "functional": {
+    "script": "tests/atividades-browser.js",
+    "passed": ["Formato Cebraspe", "Tentativa incorreta e explicação específica", "Troca de tema durante a rodada", "Retomada após recarga", "Revisão seletiva de erros", "Quatro resultados de JOIN", "Repetição sem duplicar XP", "Cálculo", "Ordenação", "Caso institucional", "140 matérias entre 40 e 100 questões", "Roteiro pendente legível", "Reprodução Thalita existente"],
+    "errors": []
+  },
+  "regression": {
+    "script": "tests/fluxos-browser.js",
+    "passed": ["Busca", "Rotas válidas e inválidas", "Histórias e posição salva", "Mapas", "Laboratórios", "Revisão agendada", "Concursos pessoais", "Impressão de sete telas", "Responsividade e movimento reduzido"],
+    "errors": []
+  },
+  "visual": {
+    "script": "tests/atividades-visuais-browser.js",
+    "checked": 216,
+    "themes": ["circuitos", "caderno"],
+    "widths": [320, 360, 390, 768, 1024, 1440],
+    "overflow": [],
+    "contrast": [],
+    "errors": [],
+    "screenshots_inspected": ["jogo-sql-circuitos-390.png", "atividades-caderno-1440.png", "atividades-circuitos-390.png", "jogo-sql-caderno-1440.png"]
+  }
+}

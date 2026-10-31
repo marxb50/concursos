@@ -1,7 +1,7 @@
 /* Regras documentadas por cargo. Pontos máximos não são previsão de cobrança. */
 const ScoringCore=(()=>{
   const byId=id=>CONTESTS.find(c=>c.id===id);
-  const update=(id,data)=>{const c=byId(id);if(c)c.scoring={...c.scoring,...data,verified:'2026-10-29',source:c.source};};
+  const update=(id,data)=>{const c=byId(id);if(c)c.scoring={...c.scoring,...data,verified:'2026-10-30',source:data.source||c.source};};
   for(const [id,source] of [
     ['dataprev-dev-2024','https://conhecimento.fgv.br/sites/default/files/concursos/dataprev_edital_0.pdf'],
     ['dataprev-dev-2026','https://conhecimento.fgv.br/sites/default/files/concursos/edital-retificado-dataprev.pdf']
@@ -39,12 +39,13 @@ const ScoringCore=(()=>{
     minimumSummary:'Mínimos: P1 18 pontos; P2 27; e 54 pontos na soma das objetivas. A prova discursiva é uma etapa adicional. Não há distribuição fixa dos 90 itens por matéria no quadro da prova.'
   });
   for(const id of ['ufrn-ati-dev-2025','ufrn-ati-dados-2025'])update(id,{
-    type:'multiple',options:4,correct:1,wrong:0,blank:0,
-    minimumSummary:'55 questões de múltipla escolha (A–D) sem desconto por erro, distribuídas em Língua Portuguesa (10), Legislação (15) e Conhecimentos Específicos (30), além de prova teórico-prática discursiva.'
+    type:'multiple',options:4,correct:null,correctBySubject:{portugues:.15,legislacao:.1,especificos:7/30},wrong:0,blank:0,
+    normalization:'A nota objetiva vai de zero a dez. Cada disciplina é normalizada e participa com 15% em Português, 15% em Legislação e 70% em Específicos. Valores por item consideram o caderno sem anulações; o edital manda considerar as questões válidas.',
+    minimumSummary:'Edital 022/2025 retificado, itens 13.2 a 13.4: NPO mínima 5,0 e ao menos um acerto válido em cada disciplina, além do limite de classificação para correção da teórico-prática. A objetiva tem 55 questões. A nota final destes cargos combina 60% da objetiva e 40% da teórico-prática.'
   });
   update('ufrn-tti-2023',{
-    type:'multiple',options:4,correct:1,wrong:0,blank:0,
-    minimumSummary:'50 questões de múltipla escolha (A–D) sem desconto por erro, distribuídas em Língua Portuguesa (10), Legislação (10) e Conhecimentos Específicos (30), além de redação.'
+    type:'multiple',options:4,correct:.2,wrong:0,blank:0,
+    minimumSummary:'Edital 087/2022 retificado em 31/03/2023, itens 13.2 a 13.4: objetiva de zero a dez, questões de igual valor. Para correção da redação: mínimo de 70% das questões válidas, pelo menos um acerto em cada disciplina e classificação dentro do limite. Sem anulações, cada item vale 0,2 ponto.'
   });
   for(const id of ['ifrn-ati-2024','ifrn-tti-2024'])update(id,{
     type:'multiple',options:4,correct:null,correctBySubject:{portugues:2,legislacao:2,especificos:3},wrong:0,blank:0,
@@ -71,7 +72,7 @@ const ScoringCore=(()=>{
   function narration(c){
     const s=c.scoring,d=distribution(c);
     const format=s.type==='binary'?'A prova usa itens de certo ou errado.':`Cada questão tem ${s.options} alternativas.`;
-    const rules=s.blocks?s.blocks.map(b=>`${b.id}, ${b.name}: ${b.count} itens. Acerto vale ${number(b.correct)} pontos. Erro desconta ${number(-b.wrong)} pontos.`).join(' '):s.correctBySubject?c.subjects.map(item=>`${item.name}: ${number(correct(c,item))} pontos por acerto.`).join(' '):`Acerto vale ${number(s.correct)} pontos.`;
+    const rules=s.normalization|| (s.blocks?s.blocks.map(b=>`${b.id}, ${b.name}: ${b.count} itens. Acerto vale ${number(b.correct)} pontos. Erro desconta ${number(-b.wrong)} pontos.`).join(' '):s.correctBySubject?c.subjects.map(item=>`${item.name}: ${number(correct(c,item))} pontos por acerto.`).join(' '):`Acerto vale ${number(s.correct)} pontos.`);
     const wrong=s.blocks?'':s.wrong===0?'Erro e branco valem zero.':`Erro desconta ${number(-s.wrong)} pontos; branco vale zero.`;
     return `${format} ${rules} ${wrong} ${d.total?`As objetivas somam até ${number(d.total)} pontos.`:''} ${s.minimumSummary||''}`.replace(/\s+/g,' ').trim();
   }

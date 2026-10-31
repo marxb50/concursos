@@ -30,7 +30,7 @@ const ProfessorUI = (() => {
     $('#professor-next').disabled=position===lesson.parts.length-1;
     $('#professor-next').textContent=lesson.parts[position].hold?'Conferir →':'Próximo →';
     $('#professor-review').hidden=!lesson.review;
-    $('#professor-voice').textContent=native?`Voz do navegador: ${voice?.name||'indisponível'}`:track?'Thalita Neural · áudio incluído':'Thalita Neural · áudio não incluído';
+    $('#professor-voice').textContent=native?`Voz do navegador: ${voice?.name||'indisponível'}`:track?'Thalita Neural · áudio incluído':'Thalita Neural · gravação pendente';
     $('#professor-speed').value=String(rate);
   }
   function showPart(index){
@@ -45,7 +45,7 @@ const ProfessorUI = (() => {
     $('#professor-reflect').hidden=!p.hold;
     $('#professor-body').scrollTop=0;
     $('#professor-fallback').hidden=!!track;
-    status(p.hold?'Tente responder antes de conferir. A professora espera por você.':'Acompanhe o texto. Você pode parar e repetir quando quiser.');
+    status(p.hold?'Tente responder antes de conferir. A professora espera por você.':!track?'Explicação pronta para leitura. A gravação Thalita está pendente; avance pelos trechos para acompanhar todo o raciocínio.':'Acompanhe o texto. Você pode parar e repetir quando quiser.');
     updateControls();
   }
   function finishPart(token){

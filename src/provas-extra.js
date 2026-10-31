@@ -219,6 +219,21 @@
       subjects:rnTiSubjects}
   );
 
+  // Auditoria de 30/10: páginas institucionais não comprovam previsão em PPA/LOA.
+  for(const id of ['mp-rn-ti-previsto','natal-prefeitura-previsto','itep-rn-previsto','fapern-rn-previsto','arsep-rn-previsto','rn-ti-estadual-previsto']){
+    const c=CONTESTS.find(c=>c.id===id);
+    c.name=c.name.replace(/\s*\(previsto\)/g,'');
+    c.role='Preparação geral de TI · cargo e programa a conferir em edital específico';
+    c.kind='preparação contínua · sem edital específico vinculado';
+    c.organizer='Banca não confirmada nesta trilha';c.coverage='base orientativa · sem previsão orçamentária comprovada';
+    c.note='Trilha de preparação geral. As referências cadastradas não comprovam previsão em PPA/LOA, abertura de vagas ou contratação de banca. Consulte os atos oficiais do órgão. As provas históricas relacionadas servem para comparação, sem previsão de cobrança futura.';
+  }
+  const tce=CONTESTS.find(c=>c.id==='tce-rn-ti-2026');
+  tce.name='TCE-RN · TI · fundamentos comuns';tce.coverage='base comum · cargos 4, 5 e 12 têm programas diferentes';
+  tce.note+=' Esta seleção é uma base comum de TI, não o programa integral de três cargos. Compare com a especialidade escolhida: cargo 4, Desenvolvimento e Inteligência; cargo 5, Infraestrutura; cargo 12, Auditoria de TI.';
+  const tj=CONTESTS.find(c=>c.id==='tj-rn-ti-fgv');
+  tj.source=tj.board='https://conhecimento.fgv.br/concursos/tjrn2023/02';
+  tj.coverage='preparação baseada em referência histórica · edital 02/2023';
   // Pesos por disciplina: +1 indistinto, sugerido no roteiro, não é a pontuação oficial.
   CONTESTS.find(c=>c.id==='natal-camara-2023').scoring={type:'multiple',options:4,correct:null,correctBySubject:{portugues:2,logica:2,especificos:3},wrong:0,blank:0,source:edital};
   CONTESTS.find(c=>c.id==='sao-agente-2021').scoring={type:'multiple',options:4,correct:null,correctBySubject:{portugues:1.8,logica:1.4,informatica:1.2},wrong:0,blank:0,source:'https://fs.ibfc.org.br/arquivos/65856721e966de44c1d6b57c03c8ed06.pdf'};

@@ -1,0 +1,1802 @@
+ROTEIROS PENDENTES — THALITA NEURAL
+Voz: pt-BR-ThalitaMultilingualNeural
+116 aulas, agrupadas em 80 roteiros distintos. A mesma gravação pode servir a mais de uma questão do mesmo conceito.
+Os identificadores abaixo permitem encaixar cada gravação no lugar correto. Não narrar os identificadores nem os títulos de controle.
+
+======================================================================
+ROTEIRO 1: UFRN · Analista de TI · Desenvolvimento
+Identificador do áudio: cf37cf45-bffca823-2954
+Aulas: concurso/ufrn-ati-dev-2025
+
+TRECHO 1 — Escolha um ponto de partida
+Escolha um ponto de partida. Vamos organizar o estudo para UFRN · Analista de TI · Desenvolvimento. Analista de Tecnologia da Informação · Desenvolvimento · Edital 22/2025 (Cargo 206). Prova real da UFRN (Edital 022/2025-PROGESP, Cargo 206). Além das 55 questões objetivas, o caderno trouxe 4 questões teórico-práticas discursivas em Java (Generics, JPA @OneToMany, consulta HQL e padrão Singleton).
+
+TRECHO 2 — Língua Portuguesa
+Língua Portuguesa. Língua Portuguesa. 10 questões na prova histórica analisada. Comece pela história Entender textos. Depois, use os mapas para explorar: Leitura, progressão discursiva, gêneros e intertextualidade, Tempos verbais e sequência descritiva, Referenciação pronominal e clareza, Regência verbal e crase, Pontuação e aposto, Subordinação adjetiva e substantiva.
+
+TRECHO 3 — Legislação e Normas da UFRN
+Legislação e Normas da UFRN. Legislação e Normas da UFRN. 15 questões na prova histórica analisada. Comece pela história Constituição. Depois, use os mapas para explorar: Lei 8.112/1990 · provimento, exercício, indenizações, férias e regime disciplinar, Estatuto da UFRN, Código de Conduta e PDI 2020–2029, Lei 9.784/1999 · processo administrativo federal, competência e delegação.
+
+TRECHO 4 — Desenvolvimento de Sistemas
+Desenvolvimento de Sistemas. Desenvolvimento de Sistemas. 30 questões na prova histórica analisada. Comece pela história Criar software. Depois, use os mapas para explorar: Desenvolvimento Web, Java/Spring/JSF/JPA, PHP e JavaScript, Orientação a objetos, UML 2.0 e padrões de projeto GoF, Engenharia de software, Scrum, TDD, Git e gerência de projetos, Banco de dados relacional, PostgreSQL, PL/pgSQL, triggers e ACID, Estruturas de dados, árvores binárias, ordenação e complexidade, LGPD (Lei 13.709/2018) e Marco Civil da Internet (Lei 12.965/2014).
+
+TRECHO 5 — Leia a regra da prova
+Leia a regra da prova. Cada questão tem 4 alternativas. A nota objetiva vai de zero a dez. Cada disciplina é normalizada e participa com 15% em Português, 15% em Legislação e 70% em Específicos. Valores por item consideram o caderno sem anulações, o edital manda considerar as questões válidas. Erro e branco valem zero. As objetivas somam até 10 pontos. Edital 022/2025 retificado, itens 13.2 a 13.4: NPO mínima 5,0 e ao menos um acerto válido em cada disciplina, além do limite de classificação para correção da teórico-prática. A objetiva tem 55 questões. A nota final destes cargos combina 60% da objetiva e 40% da teórico-prática.
+
+TRECHO 6 — Use os números com cuidado
+Use os números com cuidado. Caderno completo Cargo 206 (Comperve/UFRN): 10 questões de Português, 15 de Legislação e 30 de Conhecimentos Específicos em Desenvolvimento. Essa distribuição descreve uma prova anterior, não determina os assuntos da próxima prova.
+
+TRECHO 7 — Agora é sua vez
+Agora é sua vez. Qual matéria você vai estudar primeiro, e onde vai conferir o programa completo? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 8 — Vamos conferir
+Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
+
+======================================================================
+ROTEIRO 2: UFRN · Analista de TI · Ciência de Dados
+Identificador do áudio: ca4f7930-95c46e92-2994
+Aulas: concurso/ufrn-ati-dados-2025
+
+TRECHO 1 — Escolha um ponto de partida
+Escolha um ponto de partida. Vamos organizar o estudo para UFRN · Analista de TI · Ciência de Dados. Analista de Tecnologia da Informação · Ciência de Dados · Edital 22/2025 (Cargo 205). Prova real da UFRN (Edital 022/2025-PROGESP, Cargo 205). Além das 55 questões objetivas, o caderno contou com prova teórico-prática discursiva sobre limpeza de dados, reprodutibilidade e modelagem em Python/Pandas.
+
+TRECHO 2 — Língua Portuguesa
+Língua Portuguesa. Língua Portuguesa. 10 questões na prova histórica analisada. Comece pela história Entender textos. Depois, use os mapas para explorar: Leitura, progressão discursiva, gêneros e intertextualidade, Tempos verbais e sequência descritiva, Referenciação pronominal e clareza, Regência verbal e crase, Pontuação e aposto, Subordinação adjetiva e substantiva.
+
+TRECHO 3 — Legislação e Normas da UFRN
+Legislação e Normas da UFRN. Legislação e Normas da UFRN. 15 questões na prova histórica analisada. Comece pela história Constituição. Depois, use os mapas para explorar: Lei 8.112/1990 · provimento, exercício, indenizações, férias e regime disciplinar, Estatuto da UFRN, Código de Conduta e PDI 2020–2029, Lei 9.784/1999 · processo administrativo federal, competência e delegação.
+
+TRECHO 4 — Ciência de Dados, IA e Engenharia
+Ciência de Dados, IA e Engenharia. Ciência de Dados, IA e Engenharia. 30 questões na prova histórica analisada. Comece pela história Dados e IA. Depois, use os mapas para explorar: Processamento de Linguagem Natural, LLMs, Transformers e Prompting, Metodologias (CRISP-DM, SEMMA, TDSP), pré-processamento e correlação, Aprendizado de máquina, árvores de decisão, TensorFlow/Keras e PyTorch, Python para Ciência de Dados: Pandas e NumPy, Versionamento Git (bisect, blame, merge) e CI/CD com GitHub Actions, LGPD (dados públicos, controlador e encarregado) e Marco Civil da Internet.
+
+TRECHO 5 — Leia a regra da prova
+Leia a regra da prova. Cada questão tem 4 alternativas. A nota objetiva vai de zero a dez. Cada disciplina é normalizada e participa com 15% em Português, 15% em Legislação e 70% em Específicos. Valores por item consideram o caderno sem anulações, o edital manda considerar as questões válidas. Erro e branco valem zero. As objetivas somam até 10 pontos. Edital 022/2025 retificado, itens 13.2 a 13.4: NPO mínima 5,0 e ao menos um acerto válido em cada disciplina, além do limite de classificação para correção da teórico-prática. A objetiva tem 55 questões. A nota final destes cargos combina 60% da objetiva e 40% da teórico-prática.
+
+TRECHO 6 — Use os números com cuidado
+Use os números com cuidado. Caderno completo Cargo 205 (Comperve/UFRN): 10 questões de Português, 15 de Legislação e 30 de Ciência de Dados, Aprendizado de Máquina, PLN e LLMs. Essa distribuição descreve uma prova anterior, não determina os assuntos da próxima prova.
+
+TRECHO 7 — Agora é sua vez
+Agora é sua vez. Qual matéria você vai estudar primeiro, e onde vai conferir o programa completo? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 8 — Vamos conferir
+Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
+
+======================================================================
+ROTEIRO 3: UFRN · Técnico em Tecnologia da Informação
+Identificador do áudio: 8dfdf034-3e90ba08-2656
+Aulas: concurso/ufrn-tti-2023
+
+TRECHO 1 — Escolha um ponto de partida
+Escolha um ponto de partida. Vamos organizar o estudo para UFRN · Técnico em Tecnologia da Informação. Técnico em Tecnologia da Informação · nível médio/técnico · Edital 87/2022 (Cargo 203). Prova histórica aplicada pela Comperve/UFRN para Técnico em TI (Cargo 203), combinando Língua Portuguesa (crônica potiguar de Sanderson Negreiros), Regime Jurídico (Lei 8.112/90 e Lei 9.784/99) e 30 questões técnicas de desenvolvimento, Linux e PostgreSQL.
+
+TRECHO 2 — Língua Portuguesa
+Língua Portuguesa. Língua Portuguesa. 10 questões na prova histórica analisada. Comece pela história Entender textos. Depois, use os mapas para explorar: Propósito comunicativo, humor e posicionamento enunciativo, Morfossintaxe, função do “que” e sentido contextual, Pontuação, uso de aspas e vírgulas, Tipos textuais e tempos verbais (descritivo e narrativo), Concordância verbal: haver impessoal e existir.
+
+TRECHO 3 — Legislação Federal
+Legislação Federal. Legislação Federal. 10 questões na prova histórica analisada. Comece pela história Constituição. Depois, use os mapas para explorar: Lei 8.112/1990 · cotas PcD, licenças, provimento, PAD sumário e penalidades, Lei 9.784/1999 · impedimento, suspeição, direitos e prazos no processo administrativo.
+
+TRECHO 4 — Conhecimentos Específicos · Técnico em TI
+Conhecimentos Específicos · Técnico em TI. Conhecimentos Específicos · Técnico em TI. 30 questões na prova histórica analisada. Comece pela história Java e objetos. Depois, use os mapas para explorar: Programação Python, Java, PHP, JSF, jQuery e jêison, Engenharia de software, Scrum, MVC, UML, GoF, JUnit e Git, Arquitetura de Von Neumann, hierarquia de memória e administração Ubuntu Linux, PostgreSQL (UPDATE/AVG, integridade referencial, transações) e LGPD.
+
+TRECHO 5 — Leia a regra da prova
+Leia a regra da prova. Cada questão tem 4 alternativas. Acerto vale 0,2 pontos. Erro e branco valem zero. As objetivas somam até 10 pontos. Edital 087/2022 retificado em 31/03/2023, itens 13.2 a 13.4: objetiva de zero a dez, questões de igual valor. Para correção da redação: mínimo de 70% das questões válidas, pelo menos um acerto em cada disciplina e classificação dentro do limite. Sem anulações, cada item vale 0,2 ponto.
+
+TRECHO 6 — Use os números com cuidado
+Use os números com cuidado. Caderno completo Cargo 203 (Comperve/UFRN): 10 questões de Português, 10 de Legislação e 30 de Conhecimentos Específicos. Essa distribuição descreve uma prova anterior, não determina os assuntos da próxima prova.
+
+TRECHO 7 — Agora é sua vez
+Agora é sua vez. Qual matéria você vai estudar primeiro, e onde vai conferir o programa completo? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 8 — Vamos conferir
+Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
+
+======================================================================
+ROTEIRO 4: IFRN · Analista de Tecnologia da Informação
+Identificador do áudio: 2d2f6f0f-65ebef13-2801
+Aulas: concurso/ifrn-ati-2024
+
+TRECHO 1 — Escolha um ponto de partida
+Escolha um ponto de partida. Vamos organizar o estudo para IFRN · Analista de Tecnologia da Informação. Analista de Tecnologia da Informação · nível superior · Edital 07/2023-RE/IFRN (Cargo 11). Prova aplicada pela FUNCERN para o IFRN (Edital 07/2023 TAE): 10 questões de Português (20 pts), 10 de Legislação (20 pts) e 20 de Conhecimentos Específicos de Analista de TI (60 pts), somando 100 pontos.
+
+TRECHO 2 — Língua Portuguesa
+Língua Portuguesa. Língua Portuguesa. 10 questões na prova histórica analisada. Comece pela história Entender textos. Depois, use os mapas para explorar: Compreensão global, tese, polifonia e escala argumentativa, Relações lógico-discursivas: concessão e contraposição, Subordinação substantiva e coesão por elipse e pronome oblíquo, Regência, crase e sinonímia contextual.
+
+TRECHO 3 — Legislação e Educação Federal
+Legislação e Educação Federal. Legislação e Educação Federal. 10 questões na prova histórica analisada. Comece pela história Constituição. Depois, use os mapas para explorar: Educação federal: LDB (Lei 9.394/1996) e Institutos Federais (Lei 11.892/2008), Regime Jurídico (Lei 8.112/1990) e conduta funcional (Lei 8.027/1990), Processo administrativo (Lei 9.784/1999), improbidade (Lei 8.429/1992) e LGPD.
+
+TRECHO 4 — Conhecimentos Específicos · Analista de TI
+Conhecimentos Específicos · Analista de TI. Conhecimentos Específicos · Analista de TI. 20 questões na prova histórica analisada. Comece pela história Criar software. Depois, use os mapas para explorar: Desenvolvimento Web, agá tê tê pê/JWT, Angular, Django (WSGI/ASGI), HTML5/CSS e React Native, Engenharia de software: XP, TDD, refatoração, Git e modelagem UML, Programação Java (sobrescrita), Python (generators/lambda) e ésse quê éle (léft jóin), Processos Linux (fork), Docker Compose e segurança web (agá tê tê pê ésse/TLS e JWT stateless).
+
+TRECHO 5 — Leia a regra da prova
+Leia a regra da prova. Cada questão tem 4 alternativas. Língua Portuguesa: 2 pontos por acerto. Legislação e Educação Federal: 2 pontos por acerto. Conhecimentos Específicos · Analista de TI: 3 pontos por acerto. Erro e branco valem zero. As objetivas somam até 100 pontos. 40 questões de múltipla escolha (A–D) somando 100 pontos: Conhecimentos Específicos valem 60 pontos (20 vezes 3), Língua Portuguesa 20 pontos (10 vezes 2) e Legislação 20 pontos (10 vezes 2).
+
+TRECHO 6 — Use os números com cuidado
+Use os números com cuidado. Caderno completo Cargo 11 (FUNCERN/IFRN): 10 questões de Português, 10 de Legislação e 20 de Conhecimentos Específicos de Analista de TI. Essa distribuição descreve uma prova anterior, não determina os assuntos da próxima prova.
+
+TRECHO 7 — Agora é sua vez
+Agora é sua vez. Qual matéria você vai estudar primeiro, e onde vai conferir o programa completo? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 8 — Vamos conferir
+Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
+
+======================================================================
+ROTEIRO 5: Língua Portuguesa
+Identificador do áudio: 173ad7b3-1e34efb1-2796
+Aulas: materia/ifrn-tti-2024/portugues
+
+TRECHO 1 — Primeiro, faça sentido
+Primeiro, faça sentido. Vamos estudar Língua Portuguesa. Lia aprende a encontrar o assunto, a ideia e as pistas que o próprio texto oferece.
+
+TRECHO 2 — Uma ideia para começar
+Uma ideia para começar. Na placa da biblioteca está escrito: “Aberta de segunda a sexta, das 9h às 17h”. Um texto transmite informações. Antes de concluir algo, observe quem fala, o assunto e as palavras usadas.
+
+TRECHO 3 — Organize o percurso
+Organize o percurso. Os assuntos desta página são: Compreensão textual, progressão temática e operadores argumentativos, Coesão referencial (elipse, pronomes e possessivos) e discurso citado, Morfossintaxe do “que”, regência de “implicar” e uso de aspas. Cada assunto tem um caminho para sua história e para um mapa relacionado. Você pode estudar um por vez.
+
+TRECHO 4 — Exemplo 1 · Sentido literal e sentido figurado no texto
+Exemplo 1 · Sentido literal e sentido figurado no texto. Quando um texto afirma que uma pessoa “carrega um peso nos ombros” sem falar de um objeto físico, a palavra está em sentido figurado (conotativo).
+
+TRECHO 5 — Exemplo 1 · passo 1
+Exemplo 1 · passo 1. Observe se a palavra é usada no significado básico do dicionário (denotativo) ou como imagem/metáfora (conotativo).
+
+TRECHO 6 — Exemplo 1 · passo 2
+Exemplo 1 · passo 2. Se o enunciado pede a frase em sentido denotativo, procure aquela que descreve um fato literal, sem transferência poética de sentido.
+
+TRECHO 7 — Exemplo 1 · passo 3
+Exemplo 1 · passo 3. Elimine as alternativas que atribuem ações humanas a coisas inanimadas ou usam metáforas cotidianas.
+
+TRECHO 8 — Exemplo 2 · Por que não há crase antes de palavra masculina
+Exemplo 2 · Por que não há crase antes de palavra masculina. Na expressão “dar suporte a alguém” ou “acesso a suporte técnico”, precisamos decidir se o “a” recebe acento grave.
+
+TRECHO 9 — Exemplo 2 · passo 1
+Exemplo 2 · passo 1. A crase é a fusão da preposição “a” com o artigo feminino “a”.
+
+TRECHO 10 — Exemplo 2 · passo 2
+Exemplo 2 · passo 2. A palavra “suporte” é um substantivo masculino (“o suporte”).
+
+TRECHO 11 — Exemplo 2 · passo 3
+Exemplo 2 · passo 3. Como substantivos masculinos não admitem o artigo feminino “a”, não ocorre crase diante deles (salvo quando subentendida a expressão “à moda de”).
+
+TRECHO 12 — Entenda a análise da prova
+Entenda a análise da prova. Nesta prova histórica, 10 questões foram classificadas nesta matéria. Compreensão textual, progressão temática e operadores argumentativos: questões 1, 2, 4, 8. Coesão referencial (elipse, pronomes e possessivos) e discurso citado: questões 3, 6, 10. Morfossintaxe do “que”, regência de “implicar” e uso de aspas: questões 5, 7, 9. A classificação organiza os temas, não é um gabarito.
+
+TRECHO 13 — Agora é sua vez
+Agora é sua vez. Escolha um dos exemplos. Por que cada passo foi necessário? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 14 — Vamos conferir
+Vamos conferir. Compare sua explicação com os passos do exemplo. Primeiro, procure no texto a informação que sustenta a ideia.
+
+TRECHO 15 — Leve para a próxima revisão
+Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
+
+======================================================================
+ROTEIRO 6: TCE-RN · TI · fundamentos comuns
+Identificador do áudio: a6e0799b-6e33ca27-3645
+Aulas: concurso/tce-rn-ti-2026
+
+TRECHO 1 — Escolha um ponto de partida · 1/2
+Escolha um ponto de partida. Vamos organizar o estudo para TCE-RN · TI · fundamentos comuns. Analista Administrativo de TI (Desenvolvimento / Infraestrutura) e Auditor de Controle Externo · TI. Concurso do Tribunal de Contas do Estado do Rio Grande do Norte (Cebraspe) com especialidades de TI em Desenvolvimento de Sistemas e Inteligência da Informação e em Infraestrutura, Segurança e Suporte. Confira sempre os editais, retificações e cronograma oficial na página do Cebraspe. Esta seleção é uma base comum de TI, não o programa integral de três cargos. Compare com a especialidade escolhida: cargo 4, Desenvolvimento e Inteligência, cargo 5, Infraestrutura, cargo 12,
+
+TRECHO 2 — Escolha um ponto de partida · 2/2
+Auditoria de TI.
+
+TRECHO 3 — Língua Portuguesa
+Língua Portuguesa. Língua Portuguesa. Comece pela história Entender textos. Depois, use os mapas para explorar: Compreensão, argumentação, gêneros e reescrita textual, Coesão referencial, conectivos e pontuação, Concordância, regência, crase e morfossintaxe.
+
+TRECHO 4 — Direito Constitucional, Administrativo, Controle e LGPD
+Direito Constitucional, Administrativo, Controle e LGPD. Direito Constitucional, Administrativo, Controle e LGPD. Comece pela história Constituição. Depois, use os mapas para explorar: Princípios, direitos fundamentais e organização dos Poderes e Tribunais/MP, Atos administrativos, processo administrativo (Lei 9.784/99) e agentes públicos, Licitações e contratações de TI (Lei 14.133/2021 e IN SGD/ME 94/2022), Proteção de dados pessoais (LGPD · Lei 13.709/2018) e segurança jurídica digital.
+
+TRECHO 5 — Engenharia de Software, Desenvolvimento e Arquitetura
+Engenharia de Software, Desenvolvimento e Arquitetura. Engenharia de Software, Desenvolvimento e Arquitetura. Comece pela história Criar software. Depois, use os mapas para explorar: Engenharia de requisitos, Scrum, Kanban, XP, TDD e refatoração, Programação orientada a objetos (Java, Python, PHP, TypeScript), UML e padrões GoF, Arquitetura web, REST/agá tê tê pê, JWT, microsserviços, Spring, Django e front-end, Versionamento Git, integração e entrega contínuas (CI/CD) e testes automatizados.
+
+TRECHO 6 — Banco de Dados, Ciência de Dados e Inteligência Artificial
+Banco de Dados, Ciência de Dados e Inteligência Artificial. Banco de Dados, Ciência de Dados e Inteligência Artificial. Comece pela história ésse quê éle e bancos. Depois, use os mapas para explorar: Modelagem relacional, normalização (primeira forma normal–terceira forma normal), ésse quê éle avançado, PostgreSQL e transações ACID, Data Warehouse, ETL/ELT, modelagem dimensional e governança de dados, Aprendizado de máquina, CRISP-DM, Python (Pandas/NumPy), PLN e modelos de linguagem (LLMs).
+
+TRECHO 7 — Redes, Sistemas Operacionais, Nuvem e Segurança da Informação
+Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Comece pela história Redes e nuvem. Depois, use os mapas para explorar: Arquitetura TCP/IP, sub-redes VLSM, roteamento (OSPF/BGP), DNS, DHCP, VLAN e switches, Administração Linux (Ubuntu/Red Hat) e Windows Server, virtualização, Docker e Kubernetes, Segurança da informação (ISO 27001/27002), criptografia, TLS/agá tê tê pê ésse, OWASP, backup e resposta a incidentes, Governança e gestão de serviços de TI: ITIL v4 e COBIT 2019.
+
+TRECHO 8 — Leia a regra da prova
+Leia a regra da prova. A prova usa itens de certo ou errado. Acerto vale 1 pontos. Erro desconta 1 pontos, branco vale zero. Padrão Cebraspe de itens Certo/Errado (+1 por acerto, −1 por erro) combinado com prova discursiva. Confira o quadro exato de itens e mínimos por cargo no edital do TCE-RN.
+
+TRECHO 9 — Agora é sua vez
+Agora é sua vez. Qual matéria você vai estudar primeiro, e onde vai conferir o programa completo? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 10 — Vamos conferir
+Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
+
+======================================================================
+ROTEIRO 7: Engenharia de Software, Desenvolvimento e Arquitetura
+Identificador do áudio: 25602a3f-b56bec15-2082
+Aulas: materia/tce-rn-ti-2026/engenharia, materia/mp-rn-ti-previsto/engenharia, materia/tj-rn-ti-fgv/engenharia, materia/rn-ti-estadual-previsto/engenharia, materia/natal-prefeitura-previsto/engenharia, materia/itep-rn-previsto/engenharia, materia/fapern-rn-previsto/engenharia, materia/arsep-rn-previsto/engenharia
+
+TRECHO 1 — Primeiro, faça sentido
+Primeiro, faça sentido. Vamos estudar Engenharia de Software, Desenvolvimento e Arquitetura. A Lia precisa de um aplicativo. Veja como uma necessidade vira desenho, construção e cuidado.
+
+TRECHO 2 — Uma ideia para começar
+Uma ideia para começar. Eu preciso registrar uma encomenda sem perder o nome do cliente e a data de entrega. Antes de escolher telas e tecnologias, é preciso entender o problema. Conversar com quem vai usar a solução ajuda a descobrir as necessidades.
+
+TRECHO 3 — Organize o percurso
+Organize o percurso. Os assuntos desta página são: Engenharia de requisitos, Scrum, Kanban, XP, TDD e refatoração, Programação orientada a objetos (Java, Python, PHP, TypeScript), UML e padrões GoF, Arquitetura web, REST/agá tê tê pê, JWT, microsserviços, Spring, Django e front-end, Versionamento Git, integração e entrega contínuas (CI/CD) e testes automatizados. Cada assunto tem um caminho para sua história e para um mapa relacionado. Você pode estudar um por vez.
+
+TRECHO 4 — Exemplo 1 · Arquitetura REST, banco de dados relacional e integração contínua
+Exemplo 1 · Arquitetura REST, banco de dados relacional e integração contínua. Em um sistema web que consulta pedidos por cliente e executa testes automatizados a cada commit, como se articulam REST, ésse quê éle e CI/CD?
+
+TRECHO 5 — Exemplo 1 · passo 1
+Exemplo 1 · passo 1. Na a pê i REST, a busca de recursos usa o método agá tê tê pê GET (idempotente e seguro, sem alterar o estado do servidor).
+
+TRECHO 6 — Exemplo 1 · passo 2
+Exemplo 1 · passo 2. No banco relacional, manter todos os clientes mesmo quando ainda não têm pedido exige léft jóin entre cliente e pedido.
+
+TRECHO 7 — Exemplo 1 · passo 3
+Exemplo 1 · passo 3. No pipeline de integração contínua (CI), cada envio de código aciona compilação e testes automatizados para detectar regressões cedo.
+
+TRECHO 8 — Agora é sua vez
+Agora é sua vez. Escolha um dos exemplos. Por que cada passo foi necessário? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 9 — Vamos conferir
+Vamos conferir. Compare sua explicação com os passos do exemplo. Primeiro entenda a tarefa da pessoa.
+
+TRECHO 10 — Leve para a próxima revisão
+Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
+
+======================================================================
+ROTEIRO 8: Redes, Sistemas Operacionais, Nuvem e Segurança da Informação
+Identificador do áudio: c236b646-33a4ee72-2143
+Aulas: materia/tce-rn-ti-2026/infraestrutura, materia/mp-rn-ti-previsto/infraestrutura, materia/tj-rn-ti-fgv/infraestrutura, materia/rn-ti-estadual-previsto/infraestrutura, materia/natal-prefeitura-previsto/infraestrutura, materia/itep-rn-previsto/infraestrutura, materia/fapern-rn-previsto/infraestrutura, materia/arsep-rn-previsto/infraestrutura
+
+TRECHO 1 — Primeiro, faça sentido
+Primeiro, faça sentido. Vamos estudar Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Endereços, caminhos e computadores que trabalham juntos, explicados como uma pequena cidade.
+
+TRECHO 2 — Uma ideia para começar
+Uma ideia para começar. O celular, o computador da loja e outros equipamentos podem conversar por uma rede. Uma rede conecta equipamentos e permite a troca de dados. Os caminhos do desenho representam essas conexões, não uma rua física dentro do aparelho.
+
+TRECHO 3 — Organize o percurso
+Organize o percurso. Os assuntos desta página são: Arquitetura TCP/IP, sub-redes VLSM, roteamento (OSPF/BGP), DNS, DHCP, VLAN e switches, Administração Linux (Ubuntu/Red Hat) e Windows Server, virtualização, Docker e Kubernetes, Segurança da informação (ISO 27001/27002), criptografia, TLS/agá tê tê pê ésse, OWASP, backup e resposta a incidentes, Governança e gestão de serviços de TI: ITIL v4 e COBIT 2019. Cada assunto tem um caminho para sua história e para um mapa relacionado. Você pode estudar um por vez.
+
+TRECHO 4 — Exemplo 1 · Arquitetura REST, banco de dados relacional e integração contínua
+Exemplo 1 · Arquitetura REST, banco de dados relacional e integração contínua. Em um sistema web que consulta pedidos por cliente e executa testes automatizados a cada commit, como se articulam REST, ésse quê éle e CI/CD?
+
+TRECHO 5 — Exemplo 1 · passo 1
+Exemplo 1 · passo 1. Na a pê i REST, a busca de recursos usa o método agá tê tê pê GET (idempotente e seguro, sem alterar o estado do servidor).
+
+TRECHO 6 — Exemplo 1 · passo 2
+Exemplo 1 · passo 2. No banco relacional, manter todos os clientes mesmo quando ainda não têm pedido exige léft jóin entre cliente e pedido.
+
+TRECHO 7 — Exemplo 1 · passo 3
+Exemplo 1 · passo 3. No pipeline de integração contínua (CI), cada envio de código aciona compilação e testes automatizados para detectar regressões cedo.
+
+TRECHO 8 — Agora é sua vez
+Agora é sua vez. Escolha um dos exemplos. Por que cada passo foi necessário? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 9 — Vamos conferir
+Vamos conferir. Compare sua explicação com os passos do exemplo. A rede oferece caminhos para a comunicação.
+
+TRECHO 10 — Leve para a próxima revisão
+Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
+
+======================================================================
+ROTEIRO 9: MP-RN · Analista do MP · TI
+Identificador do áudio: b40eb2fd-5b281e51-3158
+Aulas: concurso/mp-rn-ti-previsto
+
+TRECHO 1 — Escolha um ponto de partida
+Escolha um ponto de partida. Vamos organizar o estudo para MP-RN · Analista do MP · TI. Preparação geral de TI · cargo e programa a conferir em edital específico. Trilha de preparação geral. As referências cadastradas não comprovam previsão em PPA/LOA, abertura de vagas ou contratação de banca. Consulte os atos oficiais do órgão. As provas históricas relacionadas servem para comparação, sem previsão de cobrança futura.
+
+TRECHO 2 — Língua Portuguesa
+Língua Portuguesa. Língua Portuguesa. Comece pela história Entender textos. Depois, use os mapas para explorar: Compreensão, argumentação, gêneros e reescrita textual, Coesão referencial, conectivos e pontuação, Concordância, regência, crase e morfossintaxe.
+
+TRECHO 3 — Direito Constitucional, Administrativo, Controle e LGPD
+Direito Constitucional, Administrativo, Controle e LGPD. Direito Constitucional, Administrativo, Controle e LGPD. Comece pela história Constituição. Depois, use os mapas para explorar: Princípios, direitos fundamentais e organização dos Poderes e Tribunais/MP, Atos administrativos, processo administrativo (Lei 9.784/99) e agentes públicos, Licitações e contratações de TI (Lei 14.133/2021 e IN SGD/ME 94/2022), Proteção de dados pessoais (LGPD · Lei 13.709/2018) e segurança jurídica digital.
+
+TRECHO 4 — Engenharia de Software, Desenvolvimento e Arquitetura
+Engenharia de Software, Desenvolvimento e Arquitetura. Engenharia de Software, Desenvolvimento e Arquitetura. Comece pela história Criar software. Depois, use os mapas para explorar: Engenharia de requisitos, Scrum, Kanban, XP, TDD e refatoração, Programação orientada a objetos (Java, Python, PHP, TypeScript), UML e padrões GoF, Arquitetura web, REST/agá tê tê pê, JWT, microsserviços, Spring, Django e front-end, Versionamento Git, integração e entrega contínuas (CI/CD) e testes automatizados.
+
+TRECHO 5 — Banco de Dados, Ciência de Dados e Inteligência Artificial
+Banco de Dados, Ciência de Dados e Inteligência Artificial. Banco de Dados, Ciência de Dados e Inteligência Artificial. Comece pela história ésse quê éle e bancos. Depois, use os mapas para explorar: Modelagem relacional, normalização (primeira forma normal–terceira forma normal), ésse quê éle avançado, PostgreSQL e transações ACID, Data Warehouse, ETL/ELT, modelagem dimensional e governança de dados, Aprendizado de máquina, CRISP-DM, Python (Pandas/NumPy), PLN e modelos de linguagem (LLMs).
+
+TRECHO 6 — Redes, Sistemas Operacionais, Nuvem e Segurança da Informação
+Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Comece pela história Redes e nuvem. Depois, use os mapas para explorar: Arquitetura TCP/IP, sub-redes VLSM, roteamento (OSPF/BGP), DNS, DHCP, VLAN e switches, Administração Linux (Ubuntu/Red Hat) e Windows Server, virtualização, Docker e Kubernetes, Segurança da informação (ISO 27001/27002), criptografia, TLS/agá tê tê pê ésse, OWASP, backup e resposta a incidentes, Governança e gestão de serviços de TI: ITIL v4 e COBIT 2019.
+
+TRECHO 7 — Leia a regra da prova
+Leia a regra da prova. A regra de pontuação precisa ser conferida no edital.
+
+TRECHO 8 — Agora é sua vez
+Agora é sua vez. Qual matéria você vai estudar primeiro, e onde vai conferir o programa completo? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 9 — Vamos conferir
+Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
+
+======================================================================
+ROTEIRO 10: RN · DETRAN, UFRN, IFRN e Órgãos do Estado · TI
+Identificador do áudio: b2d32e6b-971ec851-3178
+Aulas: concurso/rn-ti-estadual-previsto
+
+TRECHO 1 — Escolha um ponto de partida
+Escolha um ponto de partida. Vamos organizar o estudo para RN · DETRAN, UFRN, IFRN e Órgãos do Estado · TI. Preparação geral de TI · cargo e programa a conferir em edital específico. Trilha de preparação geral. As referências cadastradas não comprovam previsão em PPA/LOA, abertura de vagas ou contratação de banca. Consulte os atos oficiais do órgão. As provas históricas relacionadas servem para comparação, sem previsão de cobrança futura.
+
+TRECHO 2 — Língua Portuguesa
+Língua Portuguesa. Língua Portuguesa. Comece pela história Entender textos. Depois, use os mapas para explorar: Compreensão, argumentação, gêneros e reescrita textual, Coesão referencial, conectivos e pontuação, Concordância, regência, crase e morfossintaxe.
+
+TRECHO 3 — Direito Constitucional, Administrativo, Controle e LGPD
+Direito Constitucional, Administrativo, Controle e LGPD. Direito Constitucional, Administrativo, Controle e LGPD. Comece pela história Constituição. Depois, use os mapas para explorar: Princípios, direitos fundamentais e organização dos Poderes e Tribunais/MP, Atos administrativos, processo administrativo (Lei 9.784/99) e agentes públicos, Licitações e contratações de TI (Lei 14.133/2021 e IN SGD/ME 94/2022), Proteção de dados pessoais (LGPD · Lei 13.709/2018) e segurança jurídica digital.
+
+TRECHO 4 — Engenharia de Software, Desenvolvimento e Arquitetura
+Engenharia de Software, Desenvolvimento e Arquitetura. Engenharia de Software, Desenvolvimento e Arquitetura. Comece pela história Criar software. Depois, use os mapas para explorar: Engenharia de requisitos, Scrum, Kanban, XP, TDD e refatoração, Programação orientada a objetos (Java, Python, PHP, TypeScript), UML e padrões GoF, Arquitetura web, REST/agá tê tê pê, JWT, microsserviços, Spring, Django e front-end, Versionamento Git, integração e entrega contínuas (CI/CD) e testes automatizados.
+
+TRECHO 5 — Banco de Dados, Ciência de Dados e Inteligência Artificial
+Banco de Dados, Ciência de Dados e Inteligência Artificial. Banco de Dados, Ciência de Dados e Inteligência Artificial. Comece pela história ésse quê éle e bancos. Depois, use os mapas para explorar: Modelagem relacional, normalização (primeira forma normal–terceira forma normal), ésse quê éle avançado, PostgreSQL e transações ACID, Data Warehouse, ETL/ELT, modelagem dimensional e governança de dados, Aprendizado de máquina, CRISP-DM, Python (Pandas/NumPy), PLN e modelos de linguagem (LLMs).
+
+TRECHO 6 — Redes, Sistemas Operacionais, Nuvem e Segurança da Informação
+Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Comece pela história Redes e nuvem. Depois, use os mapas para explorar: Arquitetura TCP/IP, sub-redes VLSM, roteamento (OSPF/BGP), DNS, DHCP, VLAN e switches, Administração Linux (Ubuntu/Red Hat) e Windows Server, virtualização, Docker e Kubernetes, Segurança da informação (ISO 27001/27002), criptografia, TLS/agá tê tê pê ésse, OWASP, backup e resposta a incidentes, Governança e gestão de serviços de TI: ITIL v4 e COBIT 2019.
+
+TRECHO 7 — Leia a regra da prova
+Leia a regra da prova. A regra de pontuação precisa ser conferida no edital.
+
+TRECHO 8 — Agora é sua vez
+Agora é sua vez. Qual matéria você vai estudar primeiro, e onde vai conferir o programa completo? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 9 — Vamos conferir
+Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
+
+======================================================================
+ROTEIRO 11: Prefeitura de Natal — TI e Suporte
+Identificador do áudio: a4133859-ec455305-3165
+Aulas: concurso/natal-prefeitura-previsto
+
+TRECHO 1 — Escolha um ponto de partida
+Escolha um ponto de partida. Vamos organizar o estudo para Prefeitura de Natal — TI e Suporte. Preparação geral de TI · cargo e programa a conferir em edital específico. Trilha de preparação geral. As referências cadastradas não comprovam previsão em PPA/LOA, abertura de vagas ou contratação de banca. Consulte os atos oficiais do órgão. As provas históricas relacionadas servem para comparação, sem previsão de cobrança futura.
+
+TRECHO 2 — Língua Portuguesa
+Língua Portuguesa. Língua Portuguesa. Comece pela história Entender textos. Depois, use os mapas para explorar: Compreensão, argumentação, gêneros e reescrita textual, Coesão referencial, conectivos e pontuação, Concordância, regência, crase e morfossintaxe.
+
+TRECHO 3 — Direito Constitucional, Administrativo, Controle e LGPD
+Direito Constitucional, Administrativo, Controle e LGPD. Direito Constitucional, Administrativo, Controle e LGPD. Comece pela história Constituição. Depois, use os mapas para explorar: Princípios, direitos fundamentais e organização dos Poderes e Tribunais/MP, Atos administrativos, processo administrativo (Lei 9.784/99) e agentes públicos, Licitações e contratações de TI (Lei 14.133/2021 e IN SGD/ME 94/2022), Proteção de dados pessoais (LGPD · Lei 13.709/2018) e segurança jurídica digital.
+
+TRECHO 4 — Engenharia de Software, Desenvolvimento e Arquitetura
+Engenharia de Software, Desenvolvimento e Arquitetura. Engenharia de Software, Desenvolvimento e Arquitetura. Comece pela história Criar software. Depois, use os mapas para explorar: Engenharia de requisitos, Scrum, Kanban, XP, TDD e refatoração, Programação orientada a objetos (Java, Python, PHP, TypeScript), UML e padrões GoF, Arquitetura web, REST/agá tê tê pê, JWT, microsserviços, Spring, Django e front-end, Versionamento Git, integração e entrega contínuas (CI/CD) e testes automatizados.
+
+TRECHO 5 — Banco de Dados, Ciência de Dados e Inteligência Artificial
+Banco de Dados, Ciência de Dados e Inteligência Artificial. Banco de Dados, Ciência de Dados e Inteligência Artificial. Comece pela história ésse quê éle e bancos. Depois, use os mapas para explorar: Modelagem relacional, normalização (primeira forma normal–terceira forma normal), ésse quê éle avançado, PostgreSQL e transações ACID, Data Warehouse, ETL/ELT, modelagem dimensional e governança de dados, Aprendizado de máquina, CRISP-DM, Python (Pandas/NumPy), PLN e modelos de linguagem (LLMs).
+
+TRECHO 6 — Redes, Sistemas Operacionais, Nuvem e Segurança da Informação
+Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Comece pela história Redes e nuvem. Depois, use os mapas para explorar: Arquitetura TCP/IP, sub-redes VLSM, roteamento (OSPF/BGP), DNS, DHCP, VLAN e switches, Administração Linux (Ubuntu/Red Hat) e Windows Server, virtualização, Docker e Kubernetes, Segurança da informação (ISO 27001/27002), criptografia, TLS/agá tê tê pê ésse, OWASP, backup e resposta a incidentes, Governança e gestão de serviços de TI: ITIL v4 e COBIT 2019.
+
+TRECHO 7 — Leia a regra da prova
+Leia a regra da prova. A regra de pontuação precisa ser conferida no edital.
+
+TRECHO 8 — Agora é sua vez
+Agora é sua vez. Qual matéria você vai estudar primeiro, e onde vai conferir o programa completo? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 9 — Vamos conferir
+Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
+
+======================================================================
+ROTEIRO 12: ITEP/RN — Perito Criminal e TI Forense
+Identificador do áudio: 89062d48-e44be9e0-3169
+Aulas: concurso/itep-rn-previsto
+
+TRECHO 1 — Escolha um ponto de partida
+Escolha um ponto de partida. Vamos organizar o estudo para ITEP/RN — Perito Criminal e TI Forense. Preparação geral de TI · cargo e programa a conferir em edital específico. Trilha de preparação geral. As referências cadastradas não comprovam previsão em PPA/LOA, abertura de vagas ou contratação de banca. Consulte os atos oficiais do órgão. As provas históricas relacionadas servem para comparação, sem previsão de cobrança futura.
+
+TRECHO 2 — Língua Portuguesa
+Língua Portuguesa. Língua Portuguesa. Comece pela história Entender textos. Depois, use os mapas para explorar: Compreensão, argumentação, gêneros e reescrita textual, Coesão referencial, conectivos e pontuação, Concordância, regência, crase e morfossintaxe.
+
+TRECHO 3 — Direito Constitucional, Administrativo, Controle e LGPD
+Direito Constitucional, Administrativo, Controle e LGPD. Direito Constitucional, Administrativo, Controle e LGPD. Comece pela história Constituição. Depois, use os mapas para explorar: Princípios, direitos fundamentais e organização dos Poderes e Tribunais/MP, Atos administrativos, processo administrativo (Lei 9.784/99) e agentes públicos, Licitações e contratações de TI (Lei 14.133/2021 e IN SGD/ME 94/2022), Proteção de dados pessoais (LGPD · Lei 13.709/2018) e segurança jurídica digital.
+
+TRECHO 4 — Engenharia de Software, Desenvolvimento e Arquitetura
+Engenharia de Software, Desenvolvimento e Arquitetura. Engenharia de Software, Desenvolvimento e Arquitetura. Comece pela história Criar software. Depois, use os mapas para explorar: Engenharia de requisitos, Scrum, Kanban, XP, TDD e refatoração, Programação orientada a objetos (Java, Python, PHP, TypeScript), UML e padrões GoF, Arquitetura web, REST/agá tê tê pê, JWT, microsserviços, Spring, Django e front-end, Versionamento Git, integração e entrega contínuas (CI/CD) e testes automatizados.
+
+TRECHO 5 — Banco de Dados, Ciência de Dados e Inteligência Artificial
+Banco de Dados, Ciência de Dados e Inteligência Artificial. Banco de Dados, Ciência de Dados e Inteligência Artificial. Comece pela história ésse quê éle e bancos. Depois, use os mapas para explorar: Modelagem relacional, normalização (primeira forma normal–terceira forma normal), ésse quê éle avançado, PostgreSQL e transações ACID, Data Warehouse, ETL/ELT, modelagem dimensional e governança de dados, Aprendizado de máquina, CRISP-DM, Python (Pandas/NumPy), PLN e modelos de linguagem (LLMs).
+
+TRECHO 6 — Redes, Sistemas Operacionais, Nuvem e Segurança da Informação
+Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Comece pela história Redes e nuvem. Depois, use os mapas para explorar: Arquitetura TCP/IP, sub-redes VLSM, roteamento (OSPF/BGP), DNS, DHCP, VLAN e switches, Administração Linux (Ubuntu/Red Hat) e Windows Server, virtualização, Docker e Kubernetes, Segurança da informação (ISO 27001/27002), criptografia, TLS/agá tê tê pê ésse, OWASP, backup e resposta a incidentes, Governança e gestão de serviços de TI: ITIL v4 e COBIT 2019.
+
+TRECHO 7 — Leia a regra da prova
+Leia a regra da prova. A regra de pontuação precisa ser conferida no edital.
+
+TRECHO 8 — Agora é sua vez
+Agora é sua vez. Qual matéria você vai estudar primeiro, e onde vai conferir o programa completo? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 9 — Vamos conferir
+Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
+
+======================================================================
+ROTEIRO 13: FAPERN — Gestão de Projetos e TI
+Identificador do áudio: db509215-d402d7db-3163
+Aulas: concurso/fapern-rn-previsto
+
+TRECHO 1 — Escolha um ponto de partida
+Escolha um ponto de partida. Vamos organizar o estudo para FAPERN — Gestão de Projetos e TI. Preparação geral de TI · cargo e programa a conferir em edital específico. Trilha de preparação geral. As referências cadastradas não comprovam previsão em PPA/LOA, abertura de vagas ou contratação de banca. Consulte os atos oficiais do órgão. As provas históricas relacionadas servem para comparação, sem previsão de cobrança futura.
+
+TRECHO 2 — Língua Portuguesa
+Língua Portuguesa. Língua Portuguesa. Comece pela história Entender textos. Depois, use os mapas para explorar: Compreensão, argumentação, gêneros e reescrita textual, Coesão referencial, conectivos e pontuação, Concordância, regência, crase e morfossintaxe.
+
+TRECHO 3 — Direito Constitucional, Administrativo, Controle e LGPD
+Direito Constitucional, Administrativo, Controle e LGPD. Direito Constitucional, Administrativo, Controle e LGPD. Comece pela história Constituição. Depois, use os mapas para explorar: Princípios, direitos fundamentais e organização dos Poderes e Tribunais/MP, Atos administrativos, processo administrativo (Lei 9.784/99) e agentes públicos, Licitações e contratações de TI (Lei 14.133/2021 e IN SGD/ME 94/2022), Proteção de dados pessoais (LGPD · Lei 13.709/2018) e segurança jurídica digital.
+
+TRECHO 4 — Engenharia de Software, Desenvolvimento e Arquitetura
+Engenharia de Software, Desenvolvimento e Arquitetura. Engenharia de Software, Desenvolvimento e Arquitetura. Comece pela história Criar software. Depois, use os mapas para explorar: Engenharia de requisitos, Scrum, Kanban, XP, TDD e refatoração, Programação orientada a objetos (Java, Python, PHP, TypeScript), UML e padrões GoF, Arquitetura web, REST/agá tê tê pê, JWT, microsserviços, Spring, Django e front-end, Versionamento Git, integração e entrega contínuas (CI/CD) e testes automatizados.
+
+TRECHO 5 — Banco de Dados, Ciência de Dados e Inteligência Artificial
+Banco de Dados, Ciência de Dados e Inteligência Artificial. Banco de Dados, Ciência de Dados e Inteligência Artificial. Comece pela história ésse quê éle e bancos. Depois, use os mapas para explorar: Modelagem relacional, normalização (primeira forma normal–terceira forma normal), ésse quê éle avançado, PostgreSQL e transações ACID, Data Warehouse, ETL/ELT, modelagem dimensional e governança de dados, Aprendizado de máquina, CRISP-DM, Python (Pandas/NumPy), PLN e modelos de linguagem (LLMs).
+
+TRECHO 6 — Redes, Sistemas Operacionais, Nuvem e Segurança da Informação
+Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Comece pela história Redes e nuvem. Depois, use os mapas para explorar: Arquitetura TCP/IP, sub-redes VLSM, roteamento (OSPF/BGP), DNS, DHCP, VLAN e switches, Administração Linux (Ubuntu/Red Hat) e Windows Server, virtualização, Docker e Kubernetes, Segurança da informação (ISO 27001/27002), criptografia, TLS/agá tê tê pê ésse, OWASP, backup e resposta a incidentes, Governança e gestão de serviços de TI: ITIL v4 e COBIT 2019.
+
+TRECHO 7 — Leia a regra da prova
+Leia a regra da prova. A regra de pontuação precisa ser conferida no edital.
+
+TRECHO 8 — Agora é sua vez
+Agora é sua vez. Qual matéria você vai estudar primeiro, e onde vai conferir o programa completo? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 9 — Vamos conferir
+Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
+
+======================================================================
+ROTEIRO 14: ARSEP/RN — Regulação de Serviços Públicos — TI
+Identificador do áudio: a758fc88-1e39f1b0-3177
+Aulas: concurso/arsep-rn-previsto
+
+TRECHO 1 — Escolha um ponto de partida
+Escolha um ponto de partida. Vamos organizar o estudo para ARSEP/RN — Regulação de Serviços Públicos — TI. Preparação geral de TI · cargo e programa a conferir em edital específico. Trilha de preparação geral. As referências cadastradas não comprovam previsão em PPA/LOA, abertura de vagas ou contratação de banca. Consulte os atos oficiais do órgão. As provas históricas relacionadas servem para comparação, sem previsão de cobrança futura.
+
+TRECHO 2 — Língua Portuguesa
+Língua Portuguesa. Língua Portuguesa. Comece pela história Entender textos. Depois, use os mapas para explorar: Compreensão, argumentação, gêneros e reescrita textual, Coesão referencial, conectivos e pontuação, Concordância, regência, crase e morfossintaxe.
+
+TRECHO 3 — Direito Constitucional, Administrativo, Controle e LGPD
+Direito Constitucional, Administrativo, Controle e LGPD. Direito Constitucional, Administrativo, Controle e LGPD. Comece pela história Constituição. Depois, use os mapas para explorar: Princípios, direitos fundamentais e organização dos Poderes e Tribunais/MP, Atos administrativos, processo administrativo (Lei 9.784/99) e agentes públicos, Licitações e contratações de TI (Lei 14.133/2021 e IN SGD/ME 94/2022), Proteção de dados pessoais (LGPD · Lei 13.709/2018) e segurança jurídica digital.
+
+TRECHO 4 — Engenharia de Software, Desenvolvimento e Arquitetura
+Engenharia de Software, Desenvolvimento e Arquitetura. Engenharia de Software, Desenvolvimento e Arquitetura. Comece pela história Criar software. Depois, use os mapas para explorar: Engenharia de requisitos, Scrum, Kanban, XP, TDD e refatoração, Programação orientada a objetos (Java, Python, PHP, TypeScript), UML e padrões GoF, Arquitetura web, REST/agá tê tê pê, JWT, microsserviços, Spring, Django e front-end, Versionamento Git, integração e entrega contínuas (CI/CD) e testes automatizados.
+
+TRECHO 5 — Banco de Dados, Ciência de Dados e Inteligência Artificial
+Banco de Dados, Ciência de Dados e Inteligência Artificial. Banco de Dados, Ciência de Dados e Inteligência Artificial. Comece pela história ésse quê éle e bancos. Depois, use os mapas para explorar: Modelagem relacional, normalização (primeira forma normal–terceira forma normal), ésse quê éle avançado, PostgreSQL e transações ACID, Data Warehouse, ETL/ELT, modelagem dimensional e governança de dados, Aprendizado de máquina, CRISP-DM, Python (Pandas/NumPy), PLN e modelos de linguagem (LLMs).
+
+TRECHO 6 — Redes, Sistemas Operacionais, Nuvem e Segurança da Informação
+Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Redes, Sistemas Operacionais, Nuvem e Segurança da Informação. Comece pela história Redes e nuvem. Depois, use os mapas para explorar: Arquitetura TCP/IP, sub-redes VLSM, roteamento (OSPF/BGP), DNS, DHCP, VLAN e switches, Administração Linux (Ubuntu/Red Hat) e Windows Server, virtualização, Docker e Kubernetes, Segurança da informação (ISO 27001/27002), criptografia, TLS/agá tê tê pê ésse, OWASP, backup e resposta a incidentes, Governança e gestão de serviços de TI: ITIL v4 e COBIT 2019.
+
+TRECHO 7 — Leia a regra da prova
+Leia a regra da prova. A regra de pontuação precisa ser conferida no edital.
+
+TRECHO 8 — Agora é sua vez
+Agora é sua vez. Qual matéria você vai estudar primeiro, e onde vai conferir o programa completo? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 9 — Vamos conferir
+Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
+
+======================================================================
+ROTEIRO 15: Como organizar o estudo
+Identificador do áudio: 36d54af8-8c820464-8911
+Aulas: pagina/estrategia
+
+TRECHO 1 — Estudar com intenção
+Estudar com intenção. Primeiro compreenda um exemplo. Depois tente explicar e aplicar a ideia. Vamos percorrer as orientações da página em pequenos trechos.
+
+TRECHO 2 — Estratégia de estudo
+Estratégia de estudo. Como aprender de verdade e eliminar alternativas com lógica.
+
+TRECHO 3 — Estratégia de estudo
+Estratégia de estudo. Primeiro construa a base respeitando como o cérebro processa e consolida memórias. Depois, conheça o peso real das matérias em provas analisadas e use critérios lógicos e matemáticos para eliminar opções enganosas.
+
+TRECHO 4 — Estratégia de estudo
+Estratégia de estudo. Por que estudar em blocos curtos, exemplos resolvidos, prática intercalada e revisão espaçada?
+
+TRECHO 5 — Estratégia de estudo
+Estratégia de estudo. 1 · Memória de trabalho tem limite estreito (Cowan, 2010, Mayer e Moreno, 2003). A memória de trabalho tem capacidade limitada, que varia com o conhecimento prévio e a tarefa. Por isso começamos por histórias divididas em cenas curtas e pré-treinamento dos termos principais antes de ver os mapas completos.
+
+TRECHO 6 — Estratégia de estudo
+Estratégia de estudo. 2 · Efeito do exemplo resolvido (Sweller, van Merriënboer e Paas, 2019). Para quem está começando do zero, estudar exemplos resolvidos passo a passo reduz a sobrecarga cognitiva e constrói esquemas mentais mais rápido do que tentar adivinhar questões no escuro.
+
+TRECHO 7 — Estratégia de estudo
+Estratégia de estudo. 3 · Recuperação ativa supera releitura e mapas passivos (Roediger e Karpicke, 2006, Karpicke e Blunt, 2011). Depois de entender a cena e o mapa, fechar o material e explicar a regra com suas próprias palavras pode melhorar a retenção em comparação com apenas reler, dependendo da tarefa e das condições de estudo.
+
+TRECHO 8 — Estratégia de estudo
+Estratégia de estudo. 4 · Prática intercalada evita confusão entre regras parecidas (Rohrer, Dedrick e Burgess, 2014). Em provas reais, ninguém avisa qual fórmula ou artigo usar. Alternar tópicos diferentes na revisão treina o cérebro a identificar qual estratégia aplicar em cada enunciado.
+
+TRECHO 9 — Estratégia de estudo
+Estratégia de estudo. 5 · Cuidado com a ilusão de fluência (Hartwig, Rohrer e Dedrick, 2022). Reler o mesmo assunto várias vezes seguidas dá sensação de facilidade imediata, mas gera menor retenção do que espaçar e intercalar matérias.
+
+TRECHO 10 — Estratégia de estudo
+Estratégia de estudo. 6 · Espaçamento proporcional e sono (Cepeda et al., 2008, Dunlosky et al., 2013, Rasch e Born, 2013). Distribuir o estudo e cuidar do sono pode favorecer a retenção. Atalhos de 1, 3, 7 e 15 dias são sugestões práticas, o intervalo adequado depende do conteúdo, da pessoa e de quando será necessário lembrar.
+
+TRECHO 11 — Estratégia de estudo
+Estratégia de estudo. 7 · Teoria da decisão e eliminação de opções (Budescu e Bar-Hillel, 1993). O valor matemático de responder sob dúvida depende de quantas alternativas foram descartadas com segurança e da regra de penalidade do edital.
+
+TRECHO 12 — Estratégia de estudo
+Estratégia de estudo. Esses princípios têm forte respaldo experimental, mas dependem de constância e das condições de cada pessoa, nenhum método garante aprovação automática.
+
+TRECHO 13 — Estratégia de estudo
+Estratégia de estudo. O que apareceu nas provas analisadas?
+
+TRECHO 14 — Estratégia de estudo
+Estratégia de estudo. São 630 questões classificadas por tema. Cada distribuição descreve aquela edição e cargo, sem prever a próxima prova.
+
+TRECHO 15 — Estratégia de estudo
+Estratégia de estudo. Guarda Municipal · Parnamirim/RN
+
+TRECHO 16 — Estratégia de estudo
+Estratégia de estudo. 50 questões. Língua Portuguesa: 10 (20%), Direito Constitucional: 10 (20%), Matemática: 5 (10%), Direito Penal e Processo Penal: 10 (20%), Legislação Extravagante: 15 (30%).
+
+TRECHO 17 — Estratégia de estudo
+Estratégia de estudo. Câmara de Natal/RN · assistente geral
+
+TRECHO 18 — Estratégia de estudo
+Estratégia de estudo. 40 questões. Língua Portuguesa: 10 (25%), Lógica: 10 (25%), Conhecimentos específicos: 20 (50%).
+
+TRECHO 19 — Estratégia de estudo
+Estratégia de estudo. São Gonçalo do Amarante/RN · agente administrativo
+
+TRECHO 20 — Estratégia de estudo
+Estratégia de estudo. 40 questões. Língua Portuguesa: 15 (37,5%), Raciocínio Lógico: 15 (37,5%), Noções de Informática: 10 (25%).
+
+TRECHO 21 — Estratégia de estudo
+Estratégia de estudo. Dataprev · desenvolvimento de software (2024)
+
+TRECHO 22 — Estratégia de estudo
+Estratégia de estudo. 70 questões. Língua Portuguesa: 12 (17,1%), Língua Inglesa: 12 (17,1%), Raciocínio Lógico-Matemático: 6 (8,6%), Atualidades e Sociedade: 5 (7,1%), Legislação Acerca de Segurança de Informações: 5 (7,1%), Conhecimentos Específicos · Desenvolvimento de Software: 30 (42,9%).
+
+TRECHO 23 — Estratégia de estudo
+Estratégia de estudo. Dataprev · desenvolvimento de software (2026)
+
+TRECHO 24 — Estratégia de estudo
+Estratégia de estudo. 70 questões. Língua Portuguesa: 12 (17,1%), Língua Inglesa: 12 (17,1%), Raciocínio Lógico-Matemático: 5 (7,1%), Atualidades e Inteligência Artificial: 6 (8,6%), Legislação Acerca de Segurança da Informação e Proteção de Dados: 5 (7,1%), Conhecimentos Específicos · Desenvolvimento de Software: 30 (42,9%).
+
+TRECHO 25 — Estratégia de estudo
+Estratégia de estudo. CGU · Auditor Federal de TI (prova 2022)
+
+TRECHO 26 — Estratégia de estudo
+Estratégia de estudo. 80 questões. Direito Constitucional: 10 (12,5%), Direito Administrativo: 14 (17,5%), Administração Financeira e Orçamentária: 5 (6,3%), Auditoria Governamental e Controladoria (CGU): 11 (13,8%), Ciência de Dados: 8 (10%), Desenvolvimento de Sistemas: 8 (10%), Bancos de Dados: 8 (10%), Infraestrutura Tecnológica: 8 (10%), Segurança da Informação: 8 (10%).
+
+TRECHO 27 — Estratégia de estudo
+Estratégia de estudo. Câmara de Natal/RN · suporte em informática
+
+TRECHO 28 — Estratégia de estudo
+Estratégia de estudo. 40 questões. Língua Portuguesa: 10 (25%), Informática: 10 (25%), Manutenção e suporte em informática: 20 (50%).
+
+TRECHO 29 — Estratégia de estudo
+Estratégia de estudo. UFRN · Analista de TI · Desenvolvimento
+
+TRECHO 30 — Estratégia de estudo
+Estratégia de estudo. 55 questões. Língua Portuguesa: 10 (18,2%), Legislação e Normas da UFRN: 15 (27,3%), Desenvolvimento de Sistemas: 30 (54,5%).
+
+TRECHO 31 — Estratégia de estudo
+Estratégia de estudo. UFRN · Analista de TI · Ciência de Dados
+
+TRECHO 32 — Estratégia de estudo
+Estratégia de estudo. 55 questões. Língua Portuguesa: 10 (18,2%), Legislação e Normas da UFRN: 15 (27,3%), Ciência de Dados, IA e Engenharia: 30 (54,5%).
+
+TRECHO 33 — Estratégia de estudo
+Estratégia de estudo. UFRN · Técnico em Tecnologia da Informação
+
+TRECHO 34 — Estratégia de estudo
+Estratégia de estudo. 50 questões. Língua Portuguesa: 10 (20%), Legislação Federal: 10 (20%), Conhecimentos Específicos · Técnico em TI: 30 (60%).
+
+TRECHO 35 — Estratégia de estudo
+Estratégia de estudo. IFRN · Analista de Tecnologia da Informação
+
+TRECHO 36 — Estratégia de estudo
+Estratégia de estudo. 40 questões. Língua Portuguesa: 10 (25%), Legislação e Educação Federal: 10 (25%), Conhecimentos Específicos · Analista de TI: 20 (50%).
+
+TRECHO 37 — Estratégia de estudo
+Estratégia de estudo. IFRN · Técnico de Tecnologia da Informação
+
+TRECHO 38 — Estratégia de estudo
+Estratégia de estudo. 40 questões. Língua Portuguesa: 10 (25%), Legislação e Educação Federal: 10 (25%), Conhecimentos Específicos · Técnico de TI: 20 (50%).
+
+TRECHO 39 — Estratégia de estudo
+Estratégia de estudo. Uma mudança de banca, cargo ou programa pode alterar essa distribuição. Use os números para compreender o material analisado e confira sempre o edital.
+
+TRECHO 40 — Estratégia de estudo
+Estratégia de estudo. O texto diz: “Exatamente três guardas concluíram o curso.”
+
+TRECHO 41 — Estratégia de estudo
+Estratégia de estudo. O comando pede a alternativa apoiada pelo texto.
+
+TRECHO 42 — Estratégia de estudo
+Estratégia de estudo. Uma conclusão precisa acompanhar as pistas.
+
+TRECHO 43 — Estratégia de estudo
+Estratégia de estudo. Informações: todo bibliotecário usa crachá, Lia é bibliotecária. O comando pede a conclusão que necessariamente decorre dessas informações.
+
+TRECHO 44 — Estratégia de estudo
+Estratégia de estudo. As alternativas B e D podem ou não ser verdadeiras no mundo real, foram descartadas porque o comando exige algo garantido pelas pistas. Em outra questão, confira sempre o que o comando solicita.
+
+TRECHO 45 — Estratégia de estudo
+Estratégia de estudo. 01 · Leia o comando e marque palavras-chave. “Correta”, “incorreta” e “exceto” invertem o objetivo. Sublinhe o que a questão pede antes de olhar as opções.
+
+TRECHO 46 — Estratégia de estudo
+Estratégia de estudo. 02 · Elimine por contradição ou inversão. Descarte opções que trocam números/prazos, invertem causa e consequência ou confundem condição suficiente (“se P, então Q”) com necessária.
+
+TRECHO 47 — Estratégia de estudo
+Estratégia de estudo. 03 · Compare alternativas opostas. Quando duas opções dizem exatamente o oposto sobre o mesmo ponto central, a resposta frequentemente está entre elas — mas verifique se ambas não erram em uma segunda cláusula.
+
+TRECHO 48 — Estratégia de estudo
+Estratégia de estudo. 04 · Cuidado com “sempre”, “nunca” e “apenas”. Termos absolutos costumam criar extrapolações falsas em interpretação de texto, mas na lei e na matemática existem vedações absolutas reais (ex.: proibição de tortura ou divisão por zero). Nunca elimine sem checar a regra.
+
+TRECHO 49 — Estratégia de estudo
+Estratégia de estudo. O que acontece ao eliminar opções?
+
+TRECHO 50 — Estratégia de estudo
+Estratégia de estudo. Este cálculo supõe que a correta permaneça entre as opções restantes e que elas tenham chances iguais. Na prova real essas condições podem não valer se você eliminar a alternativa certa por engano.
+
+TRECHO 51 — Estratégia de estudo
+Estratégia de estudo. Regra prática: quando o erro vale 0 (sem penalidade, como FUNCERN, IBFC, IDIB e FGV), nunca deixe questão em branco — elimine o máximo de alternativas absurdas e marque entre as restantes. Quando o erro desconta pontos, confira o bloco: na CGU 2026, P1/P2 usam +1/−1 e P3 usa +2/−2. Nas duas regras, chutar entre certo e errado com chances iguais tem expectativa zero e pode reduzir a nota líquida.
+
+TRECHO 52 — Agora é sua vez
+Agora é sua vez. Qual ação ajuda a verificar se você consegue lembrar, além de apenas reconhecer o texto? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 53 — Vamos conferir
+Vamos conferir. Fechar a explicação e tentar reconstruir a ideia com suas palavras. Depois conferir e corrigir. Essa tentativa orienta a próxima revisão.
+
+======================================================================
+ROTEIRO 16: Detetive de texto
+Identificador do áudio: f0a817fa-f3192444-648
+Aulas: questao/detetive-texto/genero_cronica
+
+TRECHO 1 — A questão
+A questão. A crônica se diferencia da reportagem jornalística tradicional principalmente por: A crônica entrelaça fatos do cotidiano com sensibilidade literária, humor, ironia e subjetividade do enunciador.
+
+TRECHO 2 — Como resolver
+Como resolver. A crônica entrelaça fatos do cotidiano com sensibilidade literária, humor, ironia e subjetividade do enunciador.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. A crônica entrelaça fatos do cotidiano com sensibilidade literária, humor, ironia e subjetividade do enunciador.
+
+======================================================================
+ROTEIRO 17: Detetive de texto
+Identificador do áudio: dcb12357-727489bd-719
+Aulas: questao/detetive-texto/discurso_direto_indireto
+
+TRECHO 1 — A questão
+A questão. Ao transpor a fala direta “O diretor afirmou: ‘Apresentarei o plano amanhã’” para o discurso indireto, obtém-se: O diretor afirmou: “Apresentarei o plano de modernização amanhã em plenário”.
+
+TRECHO 2 — Como resolver
+Como resolver. Na transposição para o discurso indireto no passado, o futuro do presente vira futuro do pretérito (“apresentaria”) e “amanhã” vira “no dia seguinte”.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Na transposição para o discurso indireto no passado, o futuro do presente vira futuro do pretérito (“apresentaria”) e “amanhã” vira “no dia seguinte”.
+
+======================================================================
+ROTEIRO 18: Detetive de texto
+Identificador do áudio: 9c27a0cf-5a06e50f-657
+Aulas: questao/detetive-texto/coesao_elipse
+
+TRECHO 1 — A questão
+A questão. Em “A equipe de segurança analisou os logs, a de desenvolvimento, o código-fonte”, por que a vírgula aparece após “desenvolvimento”? A equipe de segurança analisou os logs, a de desenvolvimento, o código-fonte.
+
+TRECHO 2 — Como resolver
+Como resolver. A vírgula indica a omissão intencional de um termo já citado anteriormente no período (elipse/zeugma verbal).
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. A vírgula indica a omissão intencional de um termo já citado anteriormente no período (elipse/zeugma verbal).
+
+======================================================================
+ROTEIRO 19: Balança de equações
+Identificador do áudio: 67ba8565-47d53791-359
+Aulas: questao/balanca-equacoes/lin_02
+
+TRECHO 1 — A questão
+A questão. Resolva para x: 3x - 6 igual a 9
+
+TRECHO 2 — Como resolver
+Como resolver. 3x - 6 igual a 9 -> 3x igual a 15 -> x igual a 5.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. 3x - 6 igual a 9 -> 3x igual a 15 -> x igual a 5.
+
+======================================================================
+ROTEIRO 20: Balança de equações
+Identificador do áudio: 548315c0-cddb83aa-372
+Aulas: questao/balanca-equacoes/lin_09
+
+TRECHO 1 — A questão
+A questão. Determine x na igualdade: 7x - 5 igual a 16
+
+TRECHO 2 — Como resolver
+Como resolver. 7x - 5 igual a 16 -> 7x igual a 21 -> x igual a 3.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. 7x - 5 igual a 16 -> 7x igual a 21 -> x igual a 3.
+
+======================================================================
+ROTEIRO 21: Balança de equações
+Identificador do áudio: 95084c00-b772a670-345
+Aulas: questao/balanca-equacoes/ambos_19
+
+TRECHO 1 — A questão
+A questão. Determine x: 6x - 8 igual a 2x + 12 6x - 8 igual a 2x + 12
+
+TRECHO 2 — Como resolver
+Como resolver. 4x igual a 20 -> x igual a 5.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. 4x igual a 20 -> x igual a 5.
+
+======================================================================
+ROTEIRO 22: Balança de equações
+Identificador do áudio: fa514eb4-2142d32e-369
+Aulas: questao/balanca-equacoes/geom_28
+
+TRECHO 1 — A questão
+A questão. Um quadrado tem perímetro igual a 48 metros. Quanto mede o lado x? 4x igual a 48
+
+TRECHO 2 — Como resolver
+Como resolver. 4x igual a 48 -> x igual a 12.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. 4x igual a 48 -> x igual a 12.
+
+======================================================================
+ROTEIRO 23: Divisão de recursos
+Identificador do áudio: 63d76f3-8d9a2175-575
+Aulas: questao/recursos-porcentagem/prop_08
+
+TRECHO 1 — A questão
+A questão. Quatro analistas revisam 24 processos em um dia. Quantos processos 6 analistas revisarão? Considere taxas constantes e condições equivalentes. 4 analistas -> 24 processos
+
+TRECHO 2 — Como resolver
+Como resolver. Cada analista revisa 24/4 igual a 6 processos. 6 analistas igual a 6 vezes 6 igual a 36.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Cada analista revisa 24/4 igual a 6 processos. 6 analistas igual a 6 vezes 6 igual a 36.
+
+======================================================================
+ROTEIRO 24: Divisão de recursos
+Identificador do áudio: 3175d04e-6982d8fc-576
+Aulas: questao/recursos-porcentagem/prop_09
+
+TRECHO 1 — A questão
+A questão. Cinco servidores atendem 150 cidadãos por turno. Quantos servidores são necessários para 210? Considere taxas constantes e condições equivalentes. 5 servidores -> 150 cidadãos
+
+TRECHO 2 — Como resolver
+Como resolver. Cada servidor atende 150/5 igual a 30. Para 210 cidadãos: 210/30 igual a 7 servidores.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Cada servidor atende 150/5 igual a 30. Para 210 cidadãos: 210/30 igual a 7 servidores.
+
+======================================================================
+ROTEIRO 25: Divisão de recursos
+Identificador do áudio: 5bbd648e-39138fe6-537
+Aulas: questao/recursos-porcentagem/prop_10
+
+TRECHO 1 — A questão
+A questão. Um veículo oficial consome 8 litros para rodar 96 km. Quantos litros consumirá para 180 km? Considere taxas constantes e condições equivalentes. 8 litros -> 96 km
+
+TRECHO 2 — Como resolver
+Como resolver. Consumo: 96/8 igual a 12 km/litro. Para 180 km: 180/12 igual a 15 litros.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Consumo: 96/8 igual a 12 km/litro. Para 180 km: 180/12 igual a 15 litros.
+
+======================================================================
+ROTEIRO 26: Divisão de recursos
+Identificador do áudio: a78efbe5-9b86a4cf-558
+Aulas: questao/recursos-porcentagem/regra_inv_22
+
+TRECHO 1 — A questão
+A questão. Quatro impressoras imprimem relatórios em 10 horas. Em quantas horas 5 impressoras fariam o serviço? Considere taxas constantes e condições equivalentes. 4 impressoras -> 10h | 5 impressoras -> ?
+
+TRECHO 2 — Como resolver
+Como resolver. 4 vezes 10 igual a 5 vezes t -> 40 igual a 5t -> t igual a 8 horas.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. 4 vezes 10 igual a 5 vezes t -> 40 igual a 5t -> t igual a 8 horas.
+
+======================================================================
+ROTEIRO 27: Divisão de recursos
+Identificador do áudio: c5d717c6-e5f8875a-524
+Aulas: questao/recursos-porcentagem/regra_inv_23
+
+TRECHO 1 — A questão
+A questão. Dois servidores digitalizam um arquivo em 12 dias. Quantos dias levariam 4 servidores? Considere taxas constantes e condições equivalentes. 2 servidores -> 12 dias
+
+TRECHO 2 — Como resolver
+Como resolver. 2 vezes 12 igual a 4 vezes t -> 24 igual a 4t -> t igual a 6 dias.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. 2 vezes 12 igual a 4 vezes t -> 24 igual a 4t -> t igual a 6 dias.
+
+======================================================================
+ROTEIRO 28: Divisão de recursos
+Identificador do áudio: 1fad1a78-3d0e2dda-573
+Aulas: questao/recursos-porcentagem/comp_31
+
+TRECHO 1 — A questão
+A questão. Seis digitadores trabalham 4 horas e digitam 120 páginas. Quantas páginas 6 digitadores farão em 6 horas? Considere taxas constantes e condições equivalentes. 6 digitadores · 4h -> 120 pág
+
+TRECHO 2 — Como resolver
+Como resolver. Mesma equipe: se em 4h fazem 120 (30 p/h), em 6h farão 6 vezes 30 igual a 180.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Mesma equipe: se em 4h fazem 120 (30 p/h), em 6h farão 6 vezes 30 igual a 180.
+
+======================================================================
+ROTEIRO 29: Divisão de recursos
+Identificador do áudio: 5df1a001-f243802d-540
+Aulas: questao/recursos-porcentagem/comp_32
+
+TRECHO 1 — A questão
+A questão. Uma equipe de 10 operários constrói um muro em 15 dias. Em quantos dias 15 operários fariam? Considere taxas constantes e condições equivalentes. 10 operários -> 15 dias
+
+TRECHO 2 — Como resolver
+Como resolver. 10 vezes 15 igual a 15 vezes d -> 150 igual a 15d -> d igual a 10 dias.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. 10 vezes 15 igual a 15 vezes d -> 150 igual a 15d -> d igual a 10 dias.
+
+======================================================================
+ROTEIRO 30: Divisão de recursos
+Identificador do áudio: b9277100-559e6bbc-598
+Aulas: questao/recursos-porcentagem/conversao_35
+
+TRECHO 1 — A questão
+A questão. Um arquivo tem 4.096 kibibytes (KiB). Quantos mebibytes (MiB) ele tem? 4.096 KiB em MiB
+
+TRECHO 2 — Como resolver
+Como resolver. Nas unidades binárias IEC, 1 MiB igual a 1.024 KiB. Portanto, 4.096 dividido por 1.024 igual a 4 MiB. kB e MB decimais usam potências de mil.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Nas unidades binárias IEC, 1 MiB igual a 1.024 KiB. Portanto, 4.096 dividido por 1.024 igual a 4 MiB. kB e MB decimais usam potências de mil.
+
+======================================================================
+ROTEIRO 31: Cálculo de chances
+Identificador do áudio: 42f7ca2d-77ab433-487
+Aulas: questao/chance-probabilidade/dado_06
+
+TRECHO 1 — A questão
+A questão. Qual a chance percentual de sair face estritamente maior que 4 em um dado de 6 faces? Arredonde o percentual ao inteiro mais próximo. Faces > 4: 5 e 6
+
+TRECHO 2 — Como resolver
+Como resolver. Faces maiores que 4: 5 e 6 (2 em 6) igual a 2/6 ≈ 33%.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Faces maiores que 4: 5 e 6 (2 em 6) igual a 2/6 ≈ 33%.
+
+======================================================================
+ROTEIRO 32: Cálculo de chances
+Identificador do áudio: 77095b8c-a99c7d0-530
+Aulas: questao/chance-probabilidade/baralho_09
+
+TRECHO 1 — A questão
+A questão. De um baralho de 52 cartas, qual a chance percentual aproximada de retirar um Ás? Arredonde o percentual ao inteiro mais próximo. 4 ases em 52 cartas
+
+TRECHO 2 — Como resolver
+Como resolver. São 4 ases em 52 cartas: 4 / 52 igual a 1 / 13 ≈ 7,7% (arredondado para 8%).
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. São 4 ases em 52 cartas: 4 / 52 igual a 1 / 13 ≈ 7,7% (arredondado para 8%).
+
+======================================================================
+ROTEIRO 33: Cálculo de chances
+Identificador do áudio: 570b44d3-b21bf93-507
+Aulas: questao/chance-probabilidade/comp_12
+
+TRECHO 1 — A questão
+A questão. Entre 20 bilhetes, 4 são premiados. Escolhendo um bilhete ao acaso, com chances iguais, qual a probabilidade percentual de ele NÃO ser premiado? 20 bilhetes · 4 premiados
+
+TRECHO 2 — Como resolver
+Como resolver. Bilhetes não premiados: 16 em 20: 16 / 20 igual a 80%.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Bilhetes não premiados: 16 em 20: 16 / 20 igual a 80%.
+
+======================================================================
+ROTEIRO 34: Cálculo de chances
+Identificador do áudio: 8c6270e-7f6c7e08-454
+Aulas: questao/chance-probabilidade/urna_14
+
+TRECHO 1 — A questão
+A questão. Em uma urna com 15 bolas numeradas de 1 a 15, qual a chance de sair múltiplo de 5? Números 5, 10 e 15
+
+TRECHO 2 — Como resolver
+Como resolver. Múltiplos de 5: 5, 10, 15 (3 casos em 15): 3 / 15 igual a 20%.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Múltiplos de 5: 5, 10, 15 (3 casos em 15): 3 / 15 igual a 20%.
+
+======================================================================
+ROTEIRO 35: Cálculo de chances
+Identificador do áudio: ef6e02f2-a0951468-481
+Aulas: questao/chance-probabilidade/ponderada_23
+
+TRECHO 1 — A questão
+A questão. Nota 6 com peso 2 e nota 9 com peso 1. Qual a média ponderada? Nota 6 (peso 2) e Nota 9 (peso 1)
+
+TRECHO 2 — Como resolver
+Como resolver. (6 vezes 2 + 9 vezes 1) / (2+1) igual a (12 + 9) / 3 igual a 21 / 3 igual a 7.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. (6 vezes 2 + 9 vezes 1) / (2+1) igual a (12 + 9) / 3 igual a 21 / 3 igual a 7.
+
+======================================================================
+ROTEIRO 36: Cálculo de chances
+Identificador do áudio: 810ce2bf-f7b135d7-638
+Aulas: questao/chance-probabilidade/ponderada_24
+
+TRECHO 1 — A questão
+A questão. Trabalho nota 8 (peso 3) e prova nota 6 (peso 2). Qual a média final? Nota 8 (peso 3) e Nota 6 (peso 2)
+
+TRECHO 2 — Como resolver
+Como resolver. A média ponderada é (8 vezes 3 + 6 vezes 2) dividido por (3 + 2) igual a 36 dividido por 5 igual a 7,2. O enunciado não pede arredondamento para inteiro.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. A média ponderada é (8 vezes 3 + 6 vezes 2) dividido por (3 + 2) igual a 36 dividido por 5 igual a 7,2. O enunciado não pede arredondamento para inteiro.
+
+======================================================================
+ROTEIRO 37: Cálculo de chances
+Identificador do áudio: e8db8539-afc9e3ad-493
+Aulas: questao/chance-probabilidade/urna_25
+
+TRECHO 1 — A questão
+A questão. Um grupo tem 35 mulheres e 15 homens. Sorteando uma pessoa com chances iguais, qual a probabilidade percentual de ser homem? 50 servidores · 35 mulheres
+
+TRECHO 2 — Como resolver
+Como resolver. Homens: 50 - 35 igual a 15. Chance: 15 / 50 igual a 30%.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Homens: 50 - 35 igual a 15. Chance: 15 / 50 igual a 30%.
+
+======================================================================
+ROTEIRO 38: Cálculo de chances
+Identificador do áudio: 5a8fc390-88a00384-450
+Aulas: questao/chance-probabilidade/dado_26
+
+TRECHO 1 — A questão
+A questão. Qual a chance percentual de sair número menor que 3 no dado comum? Arredonde o percentual ao inteiro mais próximo. Faces < 3: 1 e 2
+
+TRECHO 2 — Como resolver
+Como resolver. Faces favoráveis: 1 e 2 (2 em 6) igual a 33%.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Faces favoráveis: 1 e 2 (2 em 6) igual a 33%.
+
+======================================================================
+ROTEIRO 39: Cálculo de chances
+Identificador do áudio: 27e2e62e-901c2c64-442
+Aulas: questao/chance-probabilidade/dado_27
+
+TRECHO 1 — A questão
+A questão. Qual a chance percentual de sair um múltiplo de 3 no lançamento de um dado? Arredonde o percentual ao inteiro mais próximo. Múltiplos de 3: 3 e 6
+
+TRECHO 2 — Como resolver
+Como resolver. Faces: 3 e 6 (2 em 6) igual a 33%.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Faces: 3 e 6 (2 em 6) igual a 33%.
+
+======================================================================
+ROTEIRO 40: Cálculo de chances
+Identificador do áudio: ad19462e-f5a87bd2-520
+Aulas: questao/chance-probabilidade/urna_29
+
+TRECHO 1 — A questão
+A questão. Em um lote de 100 processos, todos já foram deferidos ou indeferidos. Há 80 deferidos. Escolhendo um ao acaso, qual a probabilidade percentual de ser indeferido? 20 indeferidos em 100
+
+TRECHO 2 — Como resolver
+Como resolver. 100 - 80 igual a 20 indeferidos. 20 / 100 igual a 20%.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. 100 - 80 igual a 20 indeferidos. 20 / 100 igual a 20%.
+
+======================================================================
+ROTEIRO 41: Cálculo de chances
+Identificador do áudio: 62b928ef-e3a7436b-476
+Aulas: questao/chance-probabilidade/prob_uniao_34
+
+TRECHO 1 — A questão
+A questão. Num baralho de 52 cartas, qual a probabilidade de tirar um Rei ou uma Rainha (Dama)? Arredonde o percentual ao inteiro mais próximo. 8 cartas em 52
+
+TRECHO 2 — Como resolver
+Como resolver. 4 Reis + 4 Rainhas igual a 8 cartas. 8 / 52 ≈ 15%.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. 4 Reis + 4 Rainhas igual a 8 cartas. 8 / 52 ≈ 15%.
+
+======================================================================
+ROTEIRO 42: Operações em planilhas
+Identificador do áudio: 5f10f71b-ab8770ff-550
+Aulas: questao/planilha-operacao/soma_01
+
+TRECHO 1 — A questão
+A questão. A um igual a 10, A dois igual a 20 e A três igual a 30. Qual o resultado de igual a SOMA(de A um até A três)? A um igual a 10, A dois igual a 20, A três igual a 30
+
+TRECHO 2 — Como resolver
+Como resolver. O intervalo de A um até A três inclui as três células: 10 + 20 + 30 igual a 60.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. O intervalo de A um até A três inclui as três células: 10 + 20 + 30 igual a 60.
+
+======================================================================
+ROTEIRO 43: Operações em planilhas
+Identificador do áudio: 3eb075cc-a69feb9e-520
+Aulas: questao/planilha-operacao/operador_13
+
+TRECHO 1 — A questão
+A questão. Qual o resultado da fórmula igual a 10+5*2 respeitando a precedência de operadores? Fórmula: igual a 10+5*2
+
+TRECHO 2 — Como resolver
+Como resolver. A multiplicação tem precedência sobre a adição: 5 * 2 igual a 10, depois 10 + 10 igual a 20.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. A multiplicação tem precedência sobre a adição: 5 * 2 igual a 10, depois 10 + 10 igual a 20.
+
+======================================================================
+ROTEIRO 44: Operações em planilhas
+Identificador do áudio: ef65e210-2538d442-471
+Aulas: questao/planilha-operacao/multiplicacao_18
+
+TRECHO 1 — A questão
+A questão. A um igual a 5 e B1 igual a 4. Qual o resultado da fórmula igual a A um*B1? A um igual a 5, B1 igual a 4
+
+TRECHO 2 — Como resolver
+Como resolver. O asterisco representa o operador de multiplicação: 5 * 4 igual a 20.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. O asterisco representa o operador de multiplicação: 5 * 4 igual a 20.
+
+======================================================================
+ROTEIRO 45: Operações em planilhas
+Identificador do áudio: 358d2077-b3ad3dd3-584
+Aulas: questao/planilha-operacao/media_20
+
+TRECHO 1 — A questão
+A questão. Se A um igual a 10, A dois igual a 0 e A três igual a 20, qual o resultado de igual a MÉDIA(de A um até A três)? A um igual a 10, A dois igual a 0, A três igual a 20
+
+TRECHO 2 — Como resolver
+Como resolver. A célula com zero é numérica e participa da média: (10 + 0 + 20) / 3 igual a 30 / 3 igual a 10.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. A célula com zero é numérica e participa da média: (10 + 0 + 20) / 3 igual a 30 / 3 igual a 10.
+
+======================================================================
+ROTEIRO 46: Operações em planilhas
+Identificador do áudio: f093a523-7df2cff3-476
+Aulas: questao/planilha-operacao/erro_nome_31
+
+TRECHO 1 — A questão
+A questão. O erro #NOME? é gerado em uma planilha eletrônica quando:
+
+TRECHO 2 — Como resolver
+Como resolver. O erro #NOME? indica que a planilha não reconheceu o texto inserido como função ou nome válido.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. O erro #NOME? indica que a planilha não reconheceu o texto inserido como função ou nome válido.
+
+======================================================================
+ROTEIRO 47: Investigação de redes e comandos
+Identificador do áudio: 387bacb5-1d13da53-633
+Aulas: questao/rede-investigacao/linux_kill_20
+
+TRECHO 1 — A questão
+A questão. Qual comando envia SIGKILL ao processo de PID 1234 no Linux?
+
+TRECHO 2 — Como resolver
+Como resolver. kill -9 envia SIGKILL, que o processo não pode capturar ou ignorar. Isso não garante saída instantânea em qualquer estado do kernel, use encerramento normal quando cabível.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. kill -9 envia SIGKILL, que o processo não pode capturar ou ignorar. Isso não garante saída instantânea em qualquer estado do kernel, use encerramento normal quando cabível.
+
+======================================================================
+ROTEIRO 48: Sala de incidentes
+Identificador do áudio: ee4981e9-e9d2160b-704
+Aulas: questao/seguranca-incidente/assinatura_digital_08
+
+TRECHO 1 — A questão
+A questão. Qual chave o signatário usa no algoritmo para gerar sua assinatura digital?
+
+TRECHO 2 — Como resolver
+Como resolver. A assinatura é gerada usando a chave privada do signatário e verificada com a chave pública correspondente. Descrever toda assinatura como cifrar o hash é incorreto para algoritmos como ECDSA e EdDSA.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. A assinatura é gerada usando a chave privada do signatário e verificada com a chave pública correspondente. Descrever toda assinatura como cifrar o hash é incorreto para algoritmos como ECDSA e EdDSA.
+
+======================================================================
+ROTEIRO 49: Decodificador de inglês
+Identificador do áudio: 97e1ae43-cd8c0db3-652
+Aulas: questao/ingles-evidencias/ing_although_07
+
+TRECHO 1 — A questão
+A questão. A conjunção subordinativa "Although" estabelece ideia de: Although the query optimization was challenging, the database latency dropped by forty percent after index restructuring.
+
+TRECHO 2 — Como resolver
+Como resolver. "Although" (embora, apesar de que) introduz uma oração concessiva, admitindo um fato que contrasta com a oração principal.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. "Although" (embora, apesar de que) introduz uma oração concessiva, admitindo um fato que contrasta com a oração principal.
+
+======================================================================
+ROTEIRO 50: Decodificador de inglês
+Identificador do áudio: 4890e8be-d3a6f49a-679
+Aulas: questao/ingles-evidencias/ing_deprecate_22
+
+TRECHO 1 — A questão
+A questão. Quando a documentação oficial informa que uma função foi "deprecated", isso indica que a função: The legacy authentication method is now deprecated, developers must migrate to OAuth 2.0.
+
+TRECHO 2 — Como resolver
+Como resolver. "Deprecate" em engenharia de software significa marcar uma a pê i como obsoleta, recomendando substituição pois poderá ser removida.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. "Deprecate" em engenharia de software significa marcar uma a pê i como obsoleta, recomendando substituição pois poderá ser removida.
+
+======================================================================
+ROTEIRO 51: Decodificador de inglês
+Identificador do áudio: 70ed778a-3fbc2fe6-615
+Aulas: questao/ingles-evidencias/ing_resume_33
+
+TRECHO 1 — A questão
+A questão. Na instrução "Resume the process", o falso amigo "resume" significa: After resolving the disk space shortage, the database administrator instructed the batch job to resume immediately.
+
+TRECHO 2 — Como resolver
+Como resolver. "Resume" significa recomeçar ou retomar. Para "resumir", o verbo adequado em inglês é "to summarize".
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. "Resume" significa recomeçar ou retomar. Para "resumir", o verbo adequado em inglês é "to summarize".
+
+======================================================================
+ROTEIRO 52: Decodificador de inglês
+Identificador do áudio: 168104e-b5bf52fa-632
+Aulas: questao/ingles-evidencias/ing_library_34
+
+TRECHO 1 — A questão
+A questão. No contexto do desenvolvimento de software, a palavra "library" refere-se a: The software relies on an open-source cryptography library to validate digital certificates across all microservice endpoints.
+
+TRECHO 2 — Como resolver
+Como resolver. "Library" em computação é uma biblioteca de código reutilizável. "Livraria" em inglês é "bookstore".
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. "Library" em computação é uma biblioteca de código reutilizável. "Livraria" em inglês é "bookstore".
+
+======================================================================
+ROTEIRO 53: Decodificador de inglês
+Identificador do áudio: a1f2cf0a-8149d732-658
+Aulas: questao/ingles-evidencias/ing_spoofing_36
+
+TRECHO 1 — A questão
+A questão. O termo de cibersegurança "spoofing" designa a técnica criminosa de: The gateway detected an IP spoofing attack where incoming external packets falsely claimed to originate from internal subnets.
+
+TRECHO 2 — Como resolver
+Como resolver. "Spoofing" consiste em mascarar pacotes ou endereços de e-mail/IP para forjar a identidade legítima de outro emissor.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. "Spoofing" consiste em mascarar pacotes ou endereços de e-mail/IP para forjar a identidade legítima de outro emissor.
+
+======================================================================
+ROTEIRO 54: Oficina de sistemas
+Identificador do áudio: c061966f-219b49a1-587
+Aulas: questao/oficina-sequencias/seq_scrum_04
+
+TRECHO 1 — A questão
+A questão. Ordene as cerimônias principais do ciclo de uma Sprint no Scrum.
+
+TRECHO 2 — Como resolver
+Como resolver. O planejamento inicia a Sprint, Daily Scrums ocorrem durante ela, Review e Retrospective ficam ao final. Daily não é reunião de status para chefia.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. O planejamento inicia a Sprint, Daily Scrums ocorrem durante ela, Review e Retrospective ficam ao final. Daily não é reunião de status para chefia.
+
+======================================================================
+ROTEIRO 55: Oficina de sistemas
+Identificador do áudio: 7d878540-b1936b20-581
+Aulas: questao/oficina-sequencias/seq_git_revert_24
+
+TRECHO 1 — A questão
+A questão. Organize as ações para reverter com segurança um commit defeituoso que já foi enviado ao branch principal.
+
+TRECHO 2 — Como resolver
+Como resolver. git revert preserva a história criando um novo snapshot de cancelamento, sem reescrever commits públicos já compartilhados.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. git revert preserva a história criando um novo snapshot de cancelamento, sem reescrever commits públicos já compartilhados.
+
+======================================================================
+ROTEIRO 56: Conecte as ideias · Planejar eventos
+Identificador do áudio: 9e72a738-f35e631c-465
+Aulas: questao/base-adm-eventos/conceito-3
+
+TRECHO 1 — A questão
+A questão. Qual conceito corresponde à pista? Uma previsão organizada de recursos e despesas para uma finalidade.
+
+TRECHO 2 — Como resolver
+Como resolver. Uma previsão organizada de recursos e despesas para uma finalidade.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. Uma previsão organizada de recursos e despesas para uma finalidade.
+
+======================================================================
+ROTEIRO 57: Computador, arquivos e documentos
+Identificador do áudio: 615a6cb3-b43c5bb-489
+Aulas: questao/informatica/info_documentos-conceito-4
+
+TRECHO 1 — A questão
+A questão. Qual conceito corresponde à pista? A ação de recalcular o conteúdo gerado para refletir mudanças no documento.
+
+TRECHO 2 — Como resolver
+Como resolver. A ação de recalcular o conteúdo gerado para refletir mudanças no documento.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. A ação de recalcular o conteúdo gerado para refletir mudanças no documento.
+
+======================================================================
+ROTEIRO 58: Lógica, argumentos e conjuntos
+Identificador do áudio: 121bccb5-efc90abd-471
+Aulas: questao/logica/logic_conjuntos-conceito-2
+
+TRECHO 1 — A questão
+A questão. Qual conceito corresponde à pista? O conjunto dos elementos que pertencem a pelo menos um dos conjuntos.
+
+TRECHO 2 — Como resolver
+Como resolver. O conjunto dos elementos que pertencem a pelo menos um dos conjuntos.
+
+TRECHO 3 — Agora é sua vez
+Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 4 — Vamos conferir
+Vamos conferir. O conjunto dos elementos que pertencem a pelo menos um dos conjuntos.
+
+======================================================================
+ROTEIRO 59: Inovação produtiva
+Identificador do áudio: 157f611f-63f57cfd-885
+Aulas: questao/abdi/abdi-19-conceito, questao/abdi/abdi-19-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Inovação produtiva. Introdução ou aprimoramento relevante de soluções em produtos, processos ou organização produtiva.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Uma iniciativa apoia nova solução para aumentar capacidade e qualidade da produção. Qual eixo se relaciona à atuação institucional?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Inovação produtiva. Inovação não se reduz à compra de computadores, depende de aplicação e resultados no processo produtivo.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Introdução ou aprimoramento relevante de soluções em produtos, processos ou organização produtiva. Inovação não se reduz à compra de computadores, depende de aplicação e resultados no processo produtivo.
+
+======================================================================
+ROTEIRO 60: Prioridade absoluta
+Identificador do áudio: 3186f00f-a851d367-833
+Aulas: questao/especial/especial-10-conceito, questao/especial/especial-10-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Prioridade absoluta. Dever de conferir prioridade à efetivação de direitos de crianças e adolescentes nos termos constitucionais e legais.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. O planejamento reserva atenção prioritária a direitos da infância conforme o ECA. Qual orientação deve ser observada?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Prioridade absoluta. Prioridade tem conteúdo jurídico, não é apenas frase de campanha.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Dever de conferir prioridade à efetivação de direitos de crianças e adolescentes nos termos constitucionais e legais. Prioridade tem conteúdo jurídico, não é apenas frase de campanha.
+
+======================================================================
+ROTEIRO 61: Conselho Tutelar
+Identificador do áudio: 24961a7d-cbdc6867-831
+Aulas: questao/especial/especial-11-conceito, questao/especial/especial-11-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Conselho Tutelar. Órgão permanente e autônomo, não jurisdicional, encarregado de zelar pelo cumprimento dos direitos de crianças e adolescentes.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Uma questão pede identificar o órgão protetivo local que não exerce função de juiz. Qual é ele?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Conselho Tutelar. Conselho Tutelar não aplica pena criminal nem substitui o Judiciário.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Órgão permanente e autônomo, não jurisdicional, encarregado de zelar pelo cumprimento dos direitos de crianças e adolescentes. Conselho Tutelar não aplica pena criminal nem substitui o Judiciário.
+
+======================================================================
+ROTEIRO 62: Argumentação
+Identificador do áudio: ecaf0fb-25a7ca01-668
+Aulas: questao/linguistica/linguistica-18-conceito, questao/linguistica/linguistica-18-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Argumentação. Organização de razões para sustentar ou contestar uma tese.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Um texto apresenta posição e evidências para convencer o leitor. Qual modo de organização predomina?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Argumentação. Opinião sem apoio não esgota a construção argumentativa.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Organização de razões para sustentar ou contestar uma tese. Opinião sem apoio não esgota a construção argumentativa.
+
+======================================================================
+ROTEIRO 63: Classificação arquivística
+Identificador do áudio: 8f20e6bd-6a0dca57-770
+Aulas: questao/administracao/administracao-09-conceito, questao/administracao/administracao-09-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Classificação arquivística. Organização de documentos segundo funções e atividades no plano adotado.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Documentos são agrupados pela atividade que os produziu, conforme plano de classificação. Qual operação foi realizada?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Classificação arquivística. A classificação arquivística não se confunde com grau de sigilo da LAI.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Organização de documentos segundo funções e atividades no plano adotado. A classificação arquivística não se confunde com grau de sigilo da LAI.
+
+======================================================================
+ROTEIRO 64: Interesse público
+Identificador do áudio: 3b915aaf-b20f0ed5-770
+Aulas: questao/etica/etica-01-conceito, questao/etica/etica-01-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Interesse público. Orientação da atuação ao fim coletivo juridicamente definido.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Um agente decide com base na finalidade do serviço em vez de ganho pessoal. Qual referência orienta a conduta?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Interesse público. Interesse público não é justificativa genérica para violar direitos ou dispensar fundamentação.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Orientação da atuação ao fim coletivo juridicamente definido. Interesse público não é justificativa genérica para violar direitos ou dispensar fundamentação.
+
+======================================================================
+ROTEIRO 65: Responsabilidade profissional
+Identificador do áudio: 6b04e379-26d57207-772
+Aulas: questao/etica/etica-06-conceito, questao/etica/etica-06-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Responsabilidade profissional. Assunção dos deveres e consequências vinculados ao exercício da função.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. O agente reconhece um erro, comunica e toma providências cabíveis para corrigir. Qual postura demonstra?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Responsabilidade profissional. Responsabilizar-se não dispensa apuração, evita ocultação e permite correção.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Assunção dos deveres e consequências vinculados ao exercício da função. Responsabilizar-se não dispensa apuração, evita ocultação e permite correção.
+
+======================================================================
+ROTEIRO 66: Canal de denúncia
+Identificador do áudio: 534388cd-1c6e493-796
+Aulas: questao/etica/etica-10-conceito, questao/etica/etica-10-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Canal de denúncia. Meio destinado a receber relatos de irregularidades e encaminhá-los segundo procedimentos.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Uma pessoa relata indícios com documentos ao canal institucional competente. Qual mecanismo utiliza?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Canal de denúncia. Relato precisa ser tratado responsavelmente, canal não substitui apuração dos fatos.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Meio destinado a receber relatos de irregularidades e encaminhá-los segundo procedimentos. Relato precisa ser tratado responsavelmente, canal não substitui apuração dos fatos.
+
+======================================================================
+ROTEIRO 67: IS NULL
+Identificador do áudio: 52feba41-a41c4981-719
+Aulas: questao/sql/sql-14-conceito, questao/sql/sql-14-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. IS nulo. Predicado para verificar ausência de valor representada por nulo.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Uma consulta precisa localizar linhas em que a data de conclusão não foi preenchida. Qual teste é adequado?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é IS nulo. Comparar com igual a nulo não produz o teste de igualdade usual, use IS nulo.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Predicado para verificar ausência de valor representada por nulo. Comparar com igual a nulo não produz o teste de igualdade usual, use IS nulo.
+
+======================================================================
+ROTEIRO 68: Idempotência
+Identificador do áudio: deb1909f-1bc61ff3-810
+Aulas: questao/web/web-04-conceito, questao/web/web-04-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Idempotência. Propriedade em que repetir a mesma operação tem o mesmo efeito pretendido que executá-la uma vez.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Reenviar uma solicitação com a mesma chave não deve gerar duas cobranças. Qual propriedade o desenho procura garantir?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Idempotência. Respostas podem variar, o ponto central é evitar efeitos adicionais indesejados.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Propriedade em que repetir a mesma operação tem o mesmo efeito pretendido que executá-la uma vez. Respostas podem variar, o ponto central é evitar efeitos adicionais indesejados.
+
+======================================================================
+ROTEIRO 69: Autenticação
+Identificador do áudio: abd301d4-b0d165f0-649
+Aulas: questao/web/web-11-conceito, questao/web/web-11-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Autenticação. Verificação da identidade apresentada.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. O sistema confere a credencial para saber quem está acessando. Qual processo realiza?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Autenticação. Saber quem é a pessoa não define automaticamente tudo o que ela pode fazer.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Verificação da identidade apresentada. Saber quem é a pessoa não define automaticamente tudo o que ela pode fazer.
+
+======================================================================
+ROTEIRO 70: OAuth 2.0
+Identificador do áudio: 9bcf417b-b0e6277-752
+Aulas: questao/web/web-13-conceito, questao/web/web-13-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. OAuth 2.0. Estrutura de autorização delegada.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Um aplicativo obtém acesso limitado a recursos em nome de usuário sem receber sua senha diretamente. Qual estrutura se relaciona a esse fluxo?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é OAuth 2.0. OAuth não é, sozinho, protocolo completo de identidade, OpenID Connect acrescenta camada de autenticação.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Estrutura de autorização delegada. OAuth não é, sozinho, protocolo completo de identidade, OpenID Connect acrescenta camada de autenticação.
+
+======================================================================
+ROTEIRO 71: JWT
+Identificador do áudio: 790e82e2-86d79d6c-884
+Aulas: questao/web/web-15-conceito, questao/web/web-15-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. JWT. Formato de token com declarações representadas em jêison e mecanismos de proteção conforme sua modalidade.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Uma a pê i recebe token com cabeçalho, conteúdo e assinatura em formato compacto. Qual formato é descrito?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é JWT. Assinatura não implica sigilo. Token precisa de validação de assinatura, emissor, destinatário e tempo conforme o contexto.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Formato de token com declarações representadas em jêison e mecanismos de proteção conforme sua modalidade. Assinatura não implica sigilo. Token precisa de validação de assinatura, emissor, destinatário e tempo conforme o contexto.
+
+======================================================================
+ROTEIRO 72: CORS
+Identificador do áudio: 872f1a21-33dc6d25-782
+Aulas: questao/web/web-16-conceito, questao/web/web-16-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. CORS. Mecanismo de controle de compartilhamento de recursos entre origens no navegador.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Um script em outra origem só pode ler a resposta se a política permitir. Qual mecanismo do navegador está em foco?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é CORS. CORS não substitui autenticação nem impede clientes fora do navegador de enviar requisições.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Mecanismo de controle de compartilhamento de recursos entre origens no navegador. CORS não substitui autenticação nem impede clientes fora do navegador de enviar requisições.
+
+======================================================================
+ROTEIRO 73: Média aritmética
+Identificador do áudio: 84318904-fac1750-710
+Aulas: questao/dados/dados-01-conceito, questao/dados/dados-01-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Média aritmética. Soma dos valores dividida pela quantidade de observações.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Para resumir quatro medidas, a equipe soma todas e divide por quatro. Qual medida calcula?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Média aritmética. A média é sensível a valores extremos, deve ser interpretada com a distribuição.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Soma dos valores dividida pela quantidade de observações. A média é sensível a valores extremos, deve ser interpretada com a distribuição.
+
+======================================================================
+ROTEIRO 74: Pobreza monetária
+Identificador do áudio: b9c6cfb5-357cdc65-790
+Aulas: questao/sociedade/sociedade-02-conceito, questao/sociedade/sociedade-02-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Pobreza monetária. Insuficiência de renda em relação a uma linha e metodologia explicitadas.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Um estudo compara renda domiciliar por pessoa com um limiar definido. Qual medida examina?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Pobreza monetária. A linha e o período precisam ser informados, não há um único número universal aplicável a toda análise.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Insuficiência de renda em relação a uma linha e metodologia explicitadas. A linha e o período precisam ser informados, não há um único número universal aplicável a toda análise.
+
+======================================================================
+ROTEIRO 75: Pobreza multidimensional
+Identificador do áudio: 5e3c4a0-e2aa086e-688
+Aulas: questao/sociedade/sociedade-03-conceito, questao/sociedade/sociedade-03-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Pobreza multidimensional. Privação examinada em múltiplas dimensões além da renda.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. A avaliação inclui moradia, educação, saúde e acesso a serviços. Qual abordagem utiliza?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Pobreza multidimensional. Renda é relevante, mas não descreve sozinha todas as privações.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Privação examinada em múltiplas dimensões além da renda. Renda é relevante, mas não descreve sozinha todas as privações.
+
+======================================================================
+ROTEIRO 76: Envelhecimento populacional
+Identificador do áudio: 5bd2950d-7fc46a97-742
+Aulas: questao/sociedade/sociedade-13-conceito, questao/sociedade/sociedade-13-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Envelhecimento populacional. Aumento relativo da participação de pessoas idosas na população.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. A proporção de idosos cresce em relação aos grupos mais jovens. Qual transformação ocorre?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Envelhecimento populacional. A proporção depende da composição etária, não só do número absoluto de idosos.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Aumento relativo da participação de pessoas idosas na população. A proporção depende da composição etária, não só do número absoluto de idosos.
+
+======================================================================
+ROTEIRO 77: Presidencialismo
+Identificador do áudio: fa660e51-2f467051-782
+Aulas: questao/politica/politica-05-conceito, questao/politica/politica-05-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Presidencialismo. Sistema em que a presidência reúne chefia de Estado e chefia de governo.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. A mesma presidência representa o país e dirige o Executivo federal. Qual sistema explica esse desenho?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Presidencialismo. No parlamentarismo, as chefias costumam ser separadas, não confunda sistema e forma de governo.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Sistema em que a presidência reúne chefia de Estado e chefia de governo. No parlamentarismo, as chefias costumam ser separadas, não confunda sistema e forma de governo.
+
+======================================================================
+ROTEIRO 78: Sistema proporcional
+Identificador do áudio: 615d8372-bf161a78-936
+Aulas: questao/politica/politica-12-conceito, questao/politica/politica-12-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Sistema proporcional. Sistema que distribui cadeiras considerando a votação segundo regras de representação proporcional.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. A votação partidária e dos candidatos influencia a divisão de cadeiras na Câmara dos Deputados. Qual sistema orienta essa eleição?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Sistema proporcional. Não basta comparar isoladamente os votos de todos os candidatos, a distribuição envolve partidos ou federações e regras legais.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Sistema que distribui cadeiras considerando a votação segundo regras de representação proporcional. Não basta comparar isoladamente os votos de todos os candidatos, a distribuição envolve partidos ou federações e regras legais.
+
+======================================================================
+ROTEIRO 79: Agenda pública
+Identificador do áudio: 97d989f8-3e52be2e-788
+Aulas: questao/politica/politica-17-conceito, questao/politica/politica-17-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Agenda pública. Conjunto de problemas que recebem atenção e disputam espaço na decisão governamental.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Várias demandas existem, mas o governo passa a priorizar uma crise de saneamento. Em qual etapa analítica o problema ganha destaque?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Agenda pública. Entrar na agenda não significa que a solução já tenha sido implementada.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Conjunto de problemas que recebem atenção e disputam espaço na decisão governamental. Entrar na agenda não significa que a solução já tenha sido implementada.
+
+======================================================================
+ROTEIRO 80: Readaptação
+Identificador do áudio: 4a48ae6c-4d4ad044-818
+Aulas: questao/federal/federal-03-conceito, questao/federal/federal-03-caso
+
+TRECHO 1 — Vamos entender
+Vamos entender. Readaptação. Investidura em cargo compatível com limitação física ou mental verificada em inspeção médica.
+
+TRECHO 2 — Veja uma situação
+Veja uma situação. Um servidor federal tem limitação e é destinado a atribuições compatíveis segundo os requisitos legais. Qual forma de provimento está em foco?
+
+TRECHO 3 — Raciocínio da professora
+Raciocínio da professora. A ideia que resolve esta situação é Readaptação. A adequação considera a limitação, não é punição nem promoção por desempenho.
+
+TRECHO 4 — Agora é sua vez
+Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
+
+TRECHO 5 — Vamos conferir
+Vamos conferir. Investidura em cargo compatível com limitação física ou mental verificada em inspeção médica. A adequação considera a limitação, não é punição nem promoção por desempenho.

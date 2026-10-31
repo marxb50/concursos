@@ -1,74 +1,56 @@
-/* Seleção fundamentada e progresso local. XP é avanço no jogo, não nota da prova. */
+/* Trilhas explícitas por disciplina e cargo. Questões autorais. */
 const ActivityCore=(()=>{
-  const fold=SearchCore.fold,clone=value=>JSON.parse(JSON.stringify(value));
-  const patterns={sql:/banco|sql|normaliza|persist|nosql/,java:/programa|java|objetos/,engenharia:/engenharia|requisito|software/,web:/api|http|internet|web/,seguranca:/seguranca|protecao|lgpd|privacidade|backup/,infra:/rede|windows|linux|infraestrutura|nuvem|sistema/,dados:/dados|estatistic|ia|aprendizado|inteligencia/,
-    port_texto:/leitura|interpreta|compreens|texto/,port_crase:/crase|regencia/,port_concordancia:/concordancia/,port_pontuacao:/pontua|aspas/,port_sujeito:/classes|sintaxe|sujeito/,port_verbos:/verbo/,port_acentos:/acentua|ortogra/,
-    mat_frac:/frac|parte de um total/,mat_porcento:/porcent|juros/,mat_probabilidade:/probabil|eventos/,mat_media:/media|estatistic/,mat_razao:/propor|razao/,mat_equacoes:/equa|funco|progress|sequenc/,mat_combinatoria:/contagem|combin|matriz|matrizes/,mat_geometria:/geometr|area|perimet/,
-    logic_proposicoes:/logica|proposi|dedu|argument|condicion/,logic_conjuntos:/conjunto|diagrama|quantifica/,
-    info_hardware:/hardware|memoria|dispositiv/,info_arquivos:/windows|linux|arquivo|sistema/,info_planilhas:/planilha|excel|media|funcao se/,info_documentos:/editor|word|documento/,
-    const_fundamentos:/constituci|direito|principio|poder/,penal_fundamentos:/penal|crime|inquerito|prisao|acao penal/,legis_especial:/lei|estatuto|legislac|violencia/,
-    etica_servico:/etica|controle|auditoria|integridade|politic|sociedade|sustentab/,afo_orcamento:/orcament|receita|despesa|lrf/,gestao:/administra|gestao|process|agil|scrum|kanban/,
-    ingles_leitura:/compreens|vocab|ingles|linguagem/,adm_redacao:/redacao|comunica|documento/,adm_atendimento:/atendimento/,adm_patrimonio:/patrimonio|contabil/,adm_reunioes:/reuniao|ata|pauta/,adm_eventos:/evento|logistica/,adm_latim:/latina/};
-  const get=(cid,sid)=>{const contest=CONTESTS.find(c=>c.id===cid);return {contest,subject:contest?.subjects.find(s=>s.id===sid)};};
-  function evidence(contest,subject,mission){
-    if(!contest.evidence||!subject.observed?.length)return null;
-    const pattern=mission.pattern||patterns[mission.journey];if(!pattern)return null;
-    const items=subject.observed.filter(o=>pattern.test(fold(o.name))).sort((a,b)=>b.questions.length-a.questions.length);
-    if(!items.length)return null;
-    const o=items[0];return {name:o.name,count:o.questions.length,total:subject.count,questions:[...o.questions],source:contest.exam,contest:contest.name};
-  }
-  function missions(cid,sid){
-    const {contest:c,subject:s}=get(cid,sid);if(!c||!s)return [];
-    if(c.manual&&!/portug|ingles|matem|racioc|logica|informat|tecnolog|sistema|direito|penal|legisla|administra|afo|orcament|contab|etica|auditoria|licitac|arquiv/.test(fold(s.name)))return [];
-    const journeys=new Set([s.journey,...s.topics.map(t=>t.journey)].filter(Boolean));
-    return ActivityBank.filter(m=>m.journeys.some(j=>journeys.has(j))).map(m=>({...m,evidence:evidence(c,s,m)})).sort((a,b)=>(b.evidence?.count??-1)-(a.evidence?.count??-1)||(a.kind==='author'?0:1)-(b.kind==='author'?0:1));
-  }
-  const mission=id=>ActivityBank.find(m=>m.id===id);
-  const key=(cid,sid,mid)=>[cid,sid,mid].join('~');
-  function valid(q,value){
-    if(q.type==='number')return typeof value==='number'&&Number.isFinite(value)&&Math.abs(value)<=1e12;
-    if(q.type==='logic')return Array.isArray(value)&&value.length===4&&value.every(v=>typeof v==='boolean');
-    if(q.type==='order')return Array.isArray(value)&&value.length===q.pieces.length&&new Set(value).size===q.pieces.length&&value.every(v=>Number.isInteger(v)&&v>=0&&v<q.pieces.length);
-    if(q.type==='sql')return ['INNER','LEFT','RIGHT','FULL'].includes(value);
-    return Number.isInteger(value)&&value>=0&&value<q.options.length;
-  }
-  function grade(q,value){
-    if(!valid(q,value))return false;
-    if(q.type==='number')return Math.abs(value-q.answer)<1e-8;
-    return Array.isArray(q.answer)?q.answer.every((v,i)=>v===value[i]):value===q.answer;
-  }
-  const settled=(q,answer)=>!!answer?.revealed||!!answer?.values?.some(v=>grade(q,v));
-  function normalize(raw){
-    const state={version:1,runs:{},awards:{}};
-    for(const [k,r] of Object.entries(raw?.runs||{}).slice(-2000)){
-      if(!r||typeof r!=='object')continue;
-      const [cid,sid,mid]=k.split('~'),m=mission(mid);if(!m||!missions(cid,sid).some(x=>x.id===mid))continue;
-      const answers=m.questions.map((q,i)=>{const a=r.answers?.[i];return {values:Array.isArray(a?.values)?a.values.filter(v=>valid(q,v)).slice(-12):[],hint:a?.hint===true,revealed:a?.revealed===true};});
-      let cursor=Math.max(0,Math.min(m.questions.length,Number.isInteger(r.cursor)?r.cursor:0));
-      for(let i=0;i<cursor;i++)if(!settled(m.questions[i],answers[i])){cursor=i;break;}
-      state.runs[k]={cursor,answers};
-    }
-    for(const m of ActivityBank){const n=raw?.awards?.[m.id];if(Number.isInteger(n)&&n>0)state.awards[m.id]=Math.min(n,50+m.questions.length*5);}
-    return state;
-  }
-  function run(state,cid,sid,mid){const m=mission(mid);return state.runs[key(cid,sid,mid)]||{cursor:0,answers:m.questions.map(()=>({values:[],hint:false,revealed:false}))};}
-  function edit(raw,cid,sid,mid,action,value){
-    const state=normalize(raw),m=missions(cid,sid).find(m=>m.id===mid);if(!m)return state;
-    const k=key(cid,sid,mid);
-    if(action==='reset'){delete state.runs[k];return state;}
-    const r=clone(run(state,cid,sid,mid));state.runs[k]=r;
-    const q=m.questions[r.cursor],a=r.answers[r.cursor];if(!q)return state;
-    if(action==='hint'&&!settled(q,a))a.hint=true;
-    if(action==='reveal'&&!settled(q,a)){a.hint=true;a.revealed=true;}
-    if(action==='answer'&&!settled(q,a)&&valid(q,value))a.values=[...a.values,value].slice(-12);
-    if(action==='next'&&settled(q,a)){
-      r.cursor++;
-      if(r.cursor===m.questions.length){const bonus=m.questions.filter((q,i)=>{const a=r.answers[i];return !a.hint&&!a.revealed&&a.values.length===1&&grade(q,a.values[0]);}).length*5;state.awards[mid]=Math.max(state.awards[mid]||0,50+bonus);}
-    }
-    return state;
-  }
-  function stats(state){return {xp:Object.values(state.awards).reduce((a,b)=>a+b,0),completed:Object.keys(state.awards).length};}
-  function sourceGroups(cid,sid){const {subject}=get(cid,sid);return [...(subject?.observed||[])].sort((a,b)=>b.questions.length-a.questions.length);}
-  const types={conexoes:'Conectar conceitos',evidencias:'Investigar pistas',calculo:'Resolver e conferir',circuitos:'Montar circuitos',dados:'Explorar junções',casos:'Decidir com critérios',sequencias:'Organizar ações'};
-  return {get,missions,mission,evidence,sourceGroups,key,valid,grade,settled,normalize,run,edit,stats,types};
+ const fold=SearchCore.fold,clone=x=>JSON.parse(JSON.stringify(x));
+ const pools=new Map(ActivityBank.map(g=>[g.id,g])),questions=new Map(ActivityBank.flatMap(g=>g.questions.map(q=>[q.canonical,q])));
+ const get=(cid,sid)=>{const contest=CONTESTS.find(c=>c.id===cid);return {contest,subject:contest?.subjects.find(s=>s.id===sid)};};
+ const base={
+ portugues:'detetive-texto:40',ingles:'ingles-evidencias:40',matematica:'balanca-equacoes:20 recursos-porcentagem:20 chance-probabilidade:20 logica:10',raciocinio:'logica:20 balanca-equacoes:15 recursos-porcentagem:15 chance-probabilidade:10',logica:'logica:20 balanca-equacoes:10 recursos-porcentagem:10',
+ informatica:'informatica:20 planilha-operacao:20 seguranca-incidente:10 rede-investigacao:10',constitucional:'constitucional:40',administrativo:'administrativo:30 administracao:20 etica:10',penal:'penal:40',legislacao:'especial:40',afo:'afo:40',auditoria:'auditoria:40',evidencias:'dados:40',engenharia:'software:40 oficina-sequencias:10 web:10',persistencia:'sql:40 resgate-sql:4 dados:16',arquitetura:'web:40 rede-investigacao:20',entrega:'seguranca-incidente:20 software:20 governanca:20',
+ estado:'politica:30 constitucional:30',sociedade:'sociedade:40',etica:'etica:40',admin:'administrativo:20 governanca:20 politica:10 afo:10',governanca:'governanca:40',transparencia:'transparencia:40',direito:'constitucional:20 administrativo:20 transparencia:20',tecnologia:'software:20 sql:20 web:20 seguranca-incidente:10 oficina-sequencias:10',linguistica:'linguistica:40',fala:'fala:40',legislativo:'legislativo:40',politica:'politica:40',institucional:'abdi:40',atualidades:'sociedade:20 dados:20',dados:'sql:30 dados:40 resgate-sql:4',infraestrutura:'rede-investigacao:20 seguranca-incidente:20 governanca:20'};
+ const overrides={
+ 'nisia-prefeitura':{especifico:'administracao:40 administrativo:20 base-adm-latim:5 base-adm-eventos:5'},
+ 'nisia-guarda':{'direito-legislacao':'especial:30 penal:30 constitucional:20 administrativo:20'},
+ 'camara-2026':{adm:'administrativo:30 governanca:10 transparencia:10 etica:10',constitucional:'constitucional:30 legislativo:30',tecnologia:'informatica:10 dados:20 seguranca-incidente:10 transparencia:10 fala:10'},
+ 'natal-camara-2023':{especificos:'administracao:30 administrativo:20 constitucional:10'},
+ 'dataprev-dev-2024':{'legislacao-ti':'transparencia:40',especificos:'software:25 sql:20 web:20 dados:15 seguranca-incidente:10 oficina-sequencias:10'},
+ 'dataprev-dev-2026':{'legislacao-ti':'transparencia:40',especificos:'software:25 sql:20 web:20 dados:15 seguranca-incidente:10 oficina-sequencias:10'},
+ 'cgu-ti-2022':{administrativo:'administrativo:30 federal:20 etica:10',arquitetura:'rede-investigacao:20 seguranca-incidente:20 governanca:20',entrega:'seguranca-incidente:20 web:20 transparencia:20'},
+ 'natal-suporte-2023':{especificos:'rede-investigacao:20 informatica:20 seguranca-incidente:20'},
+ 'ufrn-ati-dev-2025':{legislacao:'federal:30 educacao-ufrn:20 etica:10 administrativo:10',especificos:'software:30 web:30 sql:20 oficina-sequencias:10 dados:10'},
+ 'ufrn-ati-dados-2025':{legislacao:'federal:30 educacao-ufrn:20 etica:10 administrativo:10',especificos:'dados:40 sql:30 software:20 resgate-sql:4'},
+ 'ufrn-tti-2023':{legislacao:'federal:30 etica:10 administrativo:10 constitucional:10',especificos:'rede-investigacao:20 sql:20 software:20 web:20 seguranca-incidente:10 oficina-sequencias:10'},
+ 'ifrn-ati-2024':{legislacao:'federal:30 educacao-ifrn:20 etica:10',especificos:'web:30 software:30 sql:20 oficina-sequencias:10 rede-investigacao:10'},
+ 'ifrn-tti-2024':{legislacao:'federal:30 educacao-ifrn:20 etica:10',especificos:'rede-investigacao:20 sql:20 software:20 web:20 oficina-sequencias:10'}};
+ const patterns={
+ 'detetive-texto':/texto|portug|coesao|leitura|regencia|concordancia|pontua/,'ingles-evidencias':/ingles|compreens|vocab|leitura/,'balanca-equacoes':/equac|func|sequenc|progress|aritmet/,'recursos-porcentagem':/porcent|razao|propor|juros/,'chance-probabilidade':/probab|contagem|combin|estat|media/,logica:/logic|propos|conjunt|diagram|argument/,
+ informatica:/hardware|software|office|windows|informat|arquivo|linux/,'planilha-operacao':/planilh|excel|office|calc/,'rede-investigacao':/rede|linux|windows|infra|sistema|tcp|dns|hardware|nuvem/,'seguranca-incidente':/seguran|criptog|backup|protecao/,
+ constitucional:/constituci|direitos|poderes/,administrativo:/administrativ|atos|processo/,federal:/8.112|8112|servidor|federal|9.784/,etica:/etica|conduta|integridade/,transparencia:/lgpd|dados pessoais|acesso|lai|informac.*seguran|legislac.*seguran|12.527|13.709/,
+ software:/engenharia|programa|java|python|algorit|uml|teste|requisito|objetos/,'oficina-sequencias':/engenharia|git|devops|teste|scrum|entrega/,sql:/banco|sql|persist|modelagem|normaliza|postgres/,'resgate-sql':/banco|sql|persist|modelagem|normaliza|postgres/,web:/web|api|http|arquitet|integrac|angular|django|html|react/,dados:/dados|estat|ia\b|aprendizado|inteligencia|machine/,
+ administracao:/redac|atendimento|arquivo|patrim|document|secret|contabil|event/,'base-adm-latim':/latim|latino/,'base-adm-eventos':/evento|logistica/,especial:/especial|extravag|guarda|crianca|maria|idoso/,penal:/penal|crime|processual/,afo:/orcament|receita|despesa|financeira|afo/,auditoria:/auditoria|controladoria/,governanca:/governan|gestao|risco|controle/,'educacao-ufrn':/ufrn|educa|estatuto|regimento/,'educacao-ifrn':/ifrn|educa|instituto/};
+ function blueprint(c,s){let text=overrides[c.id]?.[s.id]||base[s.id];if(c.manual){const n=fold(s.name);text=/portug/.test(n)?base.portugues:/ingles/.test(n)?base.ingles:/matem|racioc|logica/.test(n)?base.raciocinio:/informat/.test(n)?base.informatica:/constituc/.test(n)?base.constitucional:/administr/.test(n)?base.administrativo:/orcament|afo|contabil/.test(n)?base.afo:/penal/.test(n)?base.penal:/auditor/.test(n)?base.auditoria:null;}return (text||'').split(' ').filter(Boolean).map(x=>{const [id,n]=x.split(':');return {id,count:Number(n)};});}
+ function evidence(c,s,family){if(!c.evidence||!s.observed?.length)return null;const p=patterns[family];if(!p)return null;const o=s.observed.filter(o=>p.test(fold(o.name))).sort((a,b)=>b.questions.length-a.questions.length)[0];return o?{name:o.name,count:o.questions.length,total:s.count,questions:[...o.questions],source:c.exam,contest:c.name}:null;}
+ const select=(list,n)=>n>=list.length?[...list]:Array.from({length:n},(_,i)=>list[Math.floor(i*list.length/n)]);
+ function adapt(q,c){const r={...q};if(c.scoring?.type==='binary'&&q.options){const sum=[...q.canonical].reduce((n,ch)=>n+ch.charCodeAt(0),0),truth=sum%2===0,claim=q.options[truth?q.answer:(q.answer+1+sum%(q.options.length-1))%q.options.length];r.prompt=`${q.prompt} Julgue a proposta de resposta: “${claim}”.`;r.options=['Certo','Errado'];r.answer=truth?0:1;r.type='judgment';r.explain=`A proposta está ${truth?'certa':'errada'}. ${q.explain}`;r.format='Julgamento · treino para Cebraspe';}else if(q.options?.length===5&&c.scoring?.options===4){const remove=q.options.map((_,i)=>i).findLast(i=>i!==q.answer);r.options=q.options.filter((_,i)=>i!==remove);r.answer=q.answer-(remove<q.answer?1:0);r.format='Múltipla escolha · 4 alternativas';}else r.format=q.options?`Múltipla escolha · ${q.options.length} alternativas`:'Desafio interativo de aplicação';r.revision=q.revision+'-'+(c.scoring?.type==='binary'?'ce':r.options?.length||q.type);return r;}
+ const cache=new Map(),index=new Map();
+ function missions(cid,sid){const {contest:c,subject:s}=get(cid,sid);if(!c||!s)return [];const ck=cid+'~'+sid;if(cache.has(ck))return cache.get(ck);const phases=[];
+ const groups=blueprint(c,s).map(b=>({...b,pool:pools.get(b.id),evidence:evidence(c,s,b.id)})).filter(g=>g.pool).sort((a,b)=>(b.evidence?.count??-1)-(a.evidence?.count??-1));
+ for(const g of groups){const chosen=select(g.pool.questions,g.count);for(let i=0;i<chosen.length;i+=10){const id=`trilha/${cid}/${sid}/${g.id}/${i/10+1}`,m={...g.pool,id,title:g.pool.title+(chosen.length>10?` · fase ${i/10+1}`:''),family:g.id,evidence:g.evidence,questions:chosen.slice(i,i+10).map(q=>adapt(q,c)),story:`${c.organizer}. Pratique ${g.pool.title.toLocaleLowerCase('pt-BR')} com correção comentada.`,kind:'author'};phases.push(m);index.set(id,m);}}
+ cache.set(ck,phases);return phases;}
+ function mission(id){if(index.has(id))return index.get(id);const p=id?.split('/');if(p?.length===5)missions(p[1],p[2]);return index.get(id);}
+ const key=(cid,sid,mid)=>[cid,sid,mid].join('~');
+ function valid(q,v){if(q.type==='number')return typeof v==='number'&&Number.isFinite(v)&&Math.abs(v)<=1e12;if(q.type==='logic')return Array.isArray(v)&&v.length===4&&v.every(x=>typeof x==='boolean');if(q.type==='order')return Array.isArray(v)&&v.length===q.pieces.length&&new Set(v).size===v.length&&v.every(x=>Number.isInteger(x)&&x>=0&&x<v.length);if(q.type==='sql')return ['INNER','LEFT','RIGHT','FULL'].includes(v);return Number.isInteger(v)&&v>=0&&v<q.options.length;}
+ function grade(q,v){if(!valid(q,v))return false;if(q.type==='number')return Math.abs(v-q.answer)<1e-8;return Array.isArray(q.answer)?q.answer.every((x,i)=>x===v[i]):v===q.answer;}
+ const settled=(q,a)=>!!a?.revealed||!!a?.values?.some(v=>grade(q,v)),fresh=q=>({id:q.canonical,revision:q.revision,values:[],hint:false,revealed:false});
+ function normalize(raw){const state={version:2,runs:{},awards:{},legacyXp:Math.max(0,Math.min(100000,Number(raw?.legacyXp)||0))};if(raw?.version!==2)return state;
+ for(const [k,r] of Object.entries(raw.runs||{}).slice(-3000)){if(!r||typeof r!=='object')continue;const [cid,sid,mid]=k.split('~'),m=missions(cid,sid).find(x=>x.id===mid);if(!m)continue;const old=new Map((Array.isArray(r.answers)?r.answers:[]).filter(a=>a&&typeof a.id==='string').map(a=>[a.id,a]));const answers=m.questions.map(q=>{const a=old.get(q.canonical);return a?.revision===q.revision?{...fresh(q),values:Array.isArray(a.values)?a.values.filter(v=>valid(q,v)).slice(-12):[],hint:a.hint===true,revealed:a.revealed===true}:fresh(q);});let cursor=Math.max(0,Math.min(m.questions.length,Number.isInteger(r.cursor)?r.cursor:0));for(let i=0;i<cursor;i++)if(!settled(m.questions[i],answers[i])){cursor=i;break;}state.runs[k]={cursor,answers};}
+ for(const [id,n] of Object.entries(raw.awards||{}))if(questions.has(id)&&Number.isInteger(n)&&n>0)state.awards[id]=Math.min(10,n);return state;}
+ function run(state,cid,sid,mid){const m=mission(mid);return state.runs[key(cid,sid,mid)]||{cursor:0,answers:m?m.questions.map(fresh):[]};}
+ function edit(raw,cid,sid,mid,action,value){const state=normalize(raw),m=missions(cid,sid).find(x=>x.id===mid);if(!m)return state;const k=key(cid,sid,mid);if(action==='reset'){delete state.runs[k];return state;}const r=clone(run(state,cid,sid,mid));state.runs[k]=r;
+ if(action==='review'){r.answers=r.answers.map((a,i)=>a.hint||a.revealed||a.values.length!==1||!grade(m.questions[i],a.values[0])?fresh(m.questions[i]):a);r.cursor=r.answers.findIndex((a,i)=>!settled(m.questions[i],a));if(r.cursor<0)r.cursor=m.questions.length;return state;}
+ const q=m.questions[r.cursor],a=r.answers[r.cursor];if(!q)return state;if(action==='hint'&&!settled(q,a))a.hint=true;if(action==='reveal'&&!settled(q,a)){a.hint=true;a.revealed=true;}if(action==='answer'&&!settled(q,a)&&valid(q,value))a.values=[...a.values,value].slice(-12);
+ if(action==='next'&&settled(q,a)){const points=!a.hint&&!a.revealed&&a.values.length===1&&grade(q,a.values[0])?10:5;state.awards[q.canonical]=Math.max(state.awards[q.canonical]||0,points);r.cursor++;while(r.cursor<m.questions.length&&settled(m.questions[r.cursor],r.answers[r.cursor]))r.cursor++;}return state;}
+ const stats=state=>({xp:state.legacyXp+Object.values(state.awards).reduce((a,b)=>a+b,0),completed:Object.keys(state.awards).length});
+ const sourceGroups=(cid,sid)=>[...(get(cid,sid).subject?.observed||[])].sort((a,b)=>b.questions.length-a.questions.length);
+ const types={conexoes:'Conectar conceitos',evidencias:'Investigar pistas',calculo:'Resolver e conferir',circuitos:'Montar circuitos',dados:'Explorar junções',casos:'Decidir com critérios',sequencias:'Organizar ações'};
+ return {get,missions,mission,blueprint,evidence,sourceGroups,key,valid,grade,settled,normalize,run,edit,stats,types,question:id=>questions.get(id),allQuestions:()=>[...questions.values()]};
 })();

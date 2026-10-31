@@ -1,0 +1,2 @@
+# Somente para gerar novamente os áudios; não é necessário para estudar.
+edge-tts==7.3.1

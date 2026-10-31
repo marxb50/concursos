@@ -140,6 +140,7 @@ const ProfessorCore = (() => {
     const item=config[view]||config.concursos;return lesson('pagina/'+(config[view]?view:'concursos'),item[0],item[1]);
   }
   function resolve(kind,id='',extra=''){
+    if(kind==='questao')return question(id);
     if(kind==='historia')return scene(id,extra);
     if(kind==='mapa')return mindmap(id);
     if(kind==='infograficos')return infographic(id);
@@ -151,12 +152,30 @@ const ProfessorCore = (() => {
   }
   const signature=l=>l.parts.map(p=>p.spoken).join('\n\n');
   const fingerprint=l=>{const text=signature(l);let a=2166136261,b=5381;for(let i=0;i<text.length;i++){a=Math.imul(a^text.charCodeAt(i),16777619);b=Math.imul(b,33)^text.charCodeAt(i);}return `${(a>>>0).toString(16)}-${(b>>>0).toString(16)}-${text.length}`;};
+  function question(id){
+    const q=ActivityCore.question(id);if(!q)return null;
+    const t=q.teaching;
+    // As duas tarefas do mesmo conceito compartilham uma explicação completa de
+    // fundamento + caso, mantendo um ID de aula para cada questão canônica.
+    const parts=t?[
+      part('Vamos entender',`${t.term}. ${t.definition}`),
+      part('Veja uma situação',t.case),
+      part('Raciocínio da professora',`A ideia que resolve esta situação é ${t.term}. ${t.why}`),
+      ...reflect('Qual característica desta situação permite distinguir este conceito de outro parecido?',`${t.definition} ${t.why}`)
+    ]:[
+      part('A questão',`${q.prompt} ${q.passage||q.visual||''}`),
+      part('Como resolver',q.explain),
+      ...reflect('Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta?',q.explain)
+    ];
+    return lesson('questao/'+id,q.topic||'Questão comentada',parts);
+  }
   function all(){return [
     ...JOURNEYS.flatMap(t=>[...t.steps.map((_,i)=>scene(t.id,i)),mindmap(t.id)]),
     ...INFOGRAPHICS.map(m=>infographic(m.id)),
     ...CONTESTS.filter(c=>!c.manual).flatMap(c=>[contest(c.id),...c.subjects.flatMap(s=>[subject(c.id,s.id),...s.worked.map((_,i)=>worked(c.id,s.id,i))])]),
     ...['sql-linguagens','proposicoes-mapa','planilhas-mapa'].map(laboratory),
-    ...['concursos','revisao','fontes','estrategia','personalizado','atividades'].map(page)
+    ...['concursos','revisao','fontes','estrategia','personalizado','atividades'].map(page),
+    ...ActivityCore.allQuestions().map(q=>question(q.canonical))
   ];}
-  return {clean,spoken,split,scene,mindmap,infographic,contest,subject,worked,laboratory,page,resolve,signature,fingerprint,all};
+  return {clean,spoken,split,scene,mindmap,infographic,contest,subject,worked,laboratory,page,question,resolve,signature,fingerprint,all};
 })();

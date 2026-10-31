@@ -8,6 +8,7 @@ function build(root = __dirname) {
   for (const [marker, filename] of Object.entries({...manifest.styles, ...manifest.scripts})) {
     if (html.split(marker).length !== 2) throw new Error(`Marcador ausente ou repetido: ${marker}`);
     const source = read(filename);
+    if (Object.values(manifest.scripts).includes(filename) && /<\/script\b|<!--/i.test(source)) throw new Error(`Texto inseguro em script inline: ${filename}. Escape < nos dados.`);
     // A função preserva literalmente $&, $$ e outros padrões do código-fonte.
     html = html.replace(marker, () => source);
   }
