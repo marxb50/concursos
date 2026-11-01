@@ -45,5 +45,5 @@ module.exports=({ActivityBank:bank,ActivityCore:core,CONTESTS,ProfessorCore,LabC
  const counts={INNER:3,LEFT:4,RIGHT:4,FULL:5};for(const q of bank.find(m=>m.id==='resgate-sql').questions){const rows=LabCore.joinRows(q.answer);assert.equal(rows.length,counts[q.answer]);if(['LEFT','FULL'].includes(q.answer))assert(rows.some(r=>r.client==='Caio'&&r.order===null));if(['RIGHT','FULL'].includes(q.answer))assert(rows.some(r=>r.client===null&&r.order===104));}
  for(const q of all.filter(q=>q.type==='logic'))assert(core.grade(q,[[true,true],[true,false],[false,true],[false,false]].map(([p,r])=>LabCore.truth(p,r)[q.op])));
  assert.equal(ThemeCore.normalize('caderno'),'caderno');assert.equal(ThemeCore.normalize('<script>'),'circuitos');
- console.log(`Atividades: ${all.length} questões únicas; ${rows.reduce((a,b)=>a+b,0)} nas trilhas; 140 matérias entre 40 e 100.`);
+ if(!process.argv.includes('--json'))console.log(`Atividades: ${all.length} questões únicas; ${rows.reduce((a,b)=>a+b,0)} nas trilhas; 140 matérias entre 40 e 100.`);
 };

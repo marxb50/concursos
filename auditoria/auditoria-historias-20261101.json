@@ -1,0 +1,339 @@
+{
+  "date": "2026-11-01",
+  "histories": 41,
+  "scenes": 1230,
+  "audioScenes": 1230,
+  "pendingScenes": 0,
+  "completeHistories": 41,
+  "mapsWithAudio": 41,
+  "rows": [
+    {
+      "id": "sql",
+      "name": "SQL e bancos",
+      "original": 7,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "java",
+      "name": "Java e objetos",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "engenharia",
+      "name": "Criar software",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "web",
+      "name": "Internet e APIs",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "seguranca",
+      "name": "Segurança e dados",
+      "original": 6,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "infra",
+      "name": "Redes e nuvem",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "gestao",
+      "name": "Trabalho em equipe",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "dados",
+      "name": "Dados e IA",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "port_texto",
+      "name": "Entender textos",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "port_pontuacao",
+      "name": "Pontuação",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "port_concordancia",
+      "name": "Concordância",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "mat_frac",
+      "name": "Frações",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "mat_media",
+      "name": "Média",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "mat_porcento",
+      "name": "Porcentagem",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "const_fundamentos",
+      "name": "Constituição",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "port_crase",
+      "name": "Crase",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "logic_proposicoes",
+      "name": "Lógica e proposições",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "mat_probabilidade",
+      "name": "Probabilidade",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "info_hardware",
+      "name": "Partes do computador",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "info_arquivos",
+      "name": "Arquivos e pastas",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "info_planilhas",
+      "name": "Planilhas e fórmulas",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "info_documentos",
+      "name": "Documentos e Word",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "mat_razao",
+      "name": "Razão e proporção",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "mat_equacoes",
+      "name": "Equação do primeiro grau",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "logic_conjuntos",
+      "name": "Conjuntos",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "port_acentos",
+      "name": "Acentuação",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "port_sujeito",
+      "name": "Sujeito e predicado",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "port_verbos",
+      "name": "Verbos e tempos",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "adm_redacao",
+      "name": "Comunicação oficial",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "adm_atendimento",
+      "name": "Atendimento ao público",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "adm_patrimonio",
+      "name": "Patrimônio e contabilidade",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "adm_reunioes",
+      "name": "Organizar reuniões",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "adm_eventos",
+      "name": "Planejar eventos",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "adm_latim",
+      "name": "Expressões latinas",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "mat_geometria",
+      "name": "Geometria e sequências",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "mat_combinatoria",
+      "name": "Contagem e matrizes",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "penal_fundamentos",
+      "name": "Direito Penal e Processo",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "legis_especial",
+      "name": "Legislação especial e guardas",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "ingles_leitura",
+      "name": "Inglês: leitura de textos",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "etica_servico",
+      "name": "Ética, controle e cidadania",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    },
+    {
+      "id": "afo_orcamento",
+      "name": "Orçamento público e finanças",
+      "original": 5,
+      "scenes": 30,
+      "audio": 30,
+      "mapAudio": true
+    }
+  ]
+}

@@ -29,5 +29,5 @@ module.exports=m=>{
  }
  const p=JOURNEYS.find(x=>x.id==='adm_patrimonio').steps.find(s=>s.term==='Inventário físico');
  assert(p.exam?.[0].includes('questão 44'));assert(ContestCore.validSource(p.exam[1]));
- console.log(`Histórias: ${JOURNEYS.length} × 30 cenas; ${originals} cenas originais preservadas, ${concepts} conceitos, ${applications} aplicações e ${reviews} revisões. ${withSource} cenas com fonte; ${reusedMap} explicações de mapas e ${reusedQuestion} de atividades reutilizadas.`);
+ if(!process.argv.includes('--json'))console.log(`Histórias: ${JOURNEYS.length} × 30 cenas; ${originals} cenas originais preservadas, ${concepts} conceitos, ${applications} aplicações e ${reviews} revisões. ${withSource} cenas com fonte; ${reusedMap} explicações de mapas e ${reusedQuestion} de atividades reutilizadas.`);
 };

@@ -1,7 +1,7 @@
 'use strict';
 const fs=require('fs'),lessons=require('./exportar-professor.cjs')(),source=fs.readFileSync('professor-audios.js','utf8'),audio=JSON.parse(source.split('const PROFESSOR_AUDIO = ')[1].trim().replace(/;$/,''));
 const pending=lessons.filter(l=>!audio.tracks[l.fingerprint]);
-const report={date:'2026-10-31',voice:'pt-BR-ThalitaMultilingualNeural',status:'gravação Thalita pendente',authorization:'Usuário escolheu manter Thalita, sem substituir automaticamente a voz.',totalLessons:lessons.length,covered:lessons.length-pending.length,pending:pending.length,uniquePending:new Set(pending.map(l=>l.fingerprint)).size,lessons:pending};
+const report={date:new Date().toLocaleDateString('sv-SE',{timeZone:'America/Sao_Paulo'}),voice:'pt-BR-ThalitaMultilingualNeural',status:pending.length?'gravação Thalita pendente':'áudio Thalita completo',authorization:'Usuário escolheu manter Thalita, sem substituir automaticamente a voz.',totalLessons:lessons.length,covered:lessons.length-pending.length,pending:pending.length,uniquePending:new Set(pending.map(l=>l.fingerprint)).size,lessons:pending};
 fs.writeFileSync('roteiros-thalita-pendentes.json',JSON.stringify(report,null,2));
 const groups=new Map();
 for(const lesson of pending){if(!groups.has(lesson.fingerprint))groups.set(lesson.fingerprint,{...lesson,ids:[]});groups.get(lesson.fingerprint).ids.push(lesson.id);}

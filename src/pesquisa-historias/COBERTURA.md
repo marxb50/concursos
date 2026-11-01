@@ -1,4 +1,4 @@
-# Cobertura das histórias — 31/10/2026
+# Cobertura das histórias — 01/11/2026
 
 41 histórias, 1230 cenas, 1230 cenas com áudio Thalita e 0 com roteiro em texto aguardando gravação. O mapa é contado separadamente.
 
@@ -39,11 +39,11 @@
 | Planejar eventos | 30 | 30 | disponível |
 | Expressões latinas | 30 | 30 | disponível |
 | Geometria e sequências | 30 | 30 | disponível |
-| Contagem e matrizes | 30 | 30 | roteiro pronto |
-| Direito Penal e Processo | 30 | 30 | roteiro pronto |
-| Legislação especial e guardas | 30 | 30 | roteiro pronto |
-| Inglês: leitura de textos | 30 | 30 | roteiro pronto |
-| Ética, controle e cidadania | 30 | 30 | roteiro pronto |
-| Orçamento público e finanças | 30 | 30 | roteiro pronto |
+| Contagem e matrizes | 30 | 30 | disponível |
+| Direito Penal e Processo | 30 | 30 | disponível |
+| Legislação especial e guardas | 30 | 30 | disponível |
+| Inglês: leitura de textos | 30 | 30 | disponível |
+| Ética, controle e cidadania | 30 | 30 | disponível |
+| Orçamento público e finanças | 30 | 30 | disponível |
 
 Conceitos e aplicações podem compartilhar um único áudio. As cenas mantêm texto e referências quando a gravação está pendente.
