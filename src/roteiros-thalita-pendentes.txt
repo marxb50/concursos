@@ -1,955 +1,10 @@
 ROTEIROS PENDENTES — THALITA NEURAL
 Voz: pt-BR-ThalitaMultilingualNeural
-150 aulas, agrupadas em 111 roteiros distintos. A mesma gravação pode servir a mais de uma questão ou cena do mesmo conteúdo.
+88 aulas, agrupadas em 56 roteiros distintos. A mesma gravação pode servir a mais de uma questão ou cena do mesmo conteúdo.
 Os identificadores abaixo permitem encaixar cada gravação no lugar correto. Não narrar os identificadores nem os títulos de controle.
 
 ======================================================================
-ROTEIRO 1: Mapa · Dados e IA
-Identificador do áudio: 68f48fcc-c8f7daa4-2151
-Aulas: mapa/dados
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. A Lia reúne as vendas, percebe padrões e começa a entender o que um modelo pode aprender. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Guardo qual produto foi vendido e em qual dia. Depois, posso reunir essas informações. Os registros são a matéria-prima da análise. Antes de comparar, precisamos saber o que cada campo significa e cuidar da qualidade dos dados.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Monólito e microsserviços. Diferentes formas de empacotar, implantar e evoluir um sistema.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Mediana. Valor central de dados ordenados, com regra apropriada para quantidade par.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Monólito: uma unidade de implantação compartilhando processo e banco. Microsserviços: serviços autônomos comunicando-se por rede ou mensageria. Microsserviços permitem implantação independente, mas exigem lidar com latência, falhas parciais, observabilidade (logs, métricas, traces) e consistência eventual.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Salários têm poucos valores extremamente altos e deseja-se observar o ponto central da distribuição ordenada. Qual medida é útil? Mediana não é a soma dividida pela quantidade e costuma ser menos sensível a extremos.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Mediana com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Registro e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Uma análise começa com dados que têm significado conhecido. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 2: Mapa · Entender textos
-Identificador do áudio: 28d79e18-51d67a0c-1904
-Aulas: mapa/port_texto
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Lia aprende a encontrar o assunto, a ideia e as pistas que o próprio texto oferece. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Na placa da biblioteca está escrito: “Aberta de segunda a sexta, das 9h às 17h”. Um texto transmite informações. Antes de concluir algo, observe quem fala, o assunto e as palavras usadas.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Observe o assunto. O tema é o assunto geral de que se fala.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Tese. Ponto de vista que o autor defende em um texto argumentativo.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Uma notícia sobre horários da biblioteca tem como tema o funcionamento da biblioteca. A ideia principal diz algo sobre esse assunto. Tema e ideia principal estão relacionados, mas não são exatamente a mesma coisa.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. O autor sustenta que reduzir desperdício exige manutenção preventiva. A tese é uma posição, os dados apresentados podem funcionar como argumentos.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Tese com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Informação explícita e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Primeiro, procure no texto a informação que sustenta a ideia. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 3: Mapa · Pontuação
-Identificador do áudio: a4dc6eee-5e8529d4-1771
-Aulas: mapa/port_pontuacao
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Veja como frases, pausas e uma vírgula ajudam a organizar a leitura. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. “A loja abriu.” É uma frase que informa algo. A pontuação contribui para organizar a escrita. Para entendê-la, observe a estrutura e o sentido, além da pausa na leitura.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Enumeração. A vírgula pode separar elementos de uma lista.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Enumeração. Sequência de elementos coordenados em uma mesma função.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. “Comprei lápis, cadernos e borrachas.” O “e” liga os dois últimos itens nesse exemplo. Enumerações podem ter outras estruturas, observe os elementos e as conjunções.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. A lista contém papel, caneta e pasta. A vírgula separa itens da enumeração, a conjunção liga os dois últimos.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Enumeração com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Ponto final e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. A pontuação se relaciona à estrutura e ao sentido. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 4: Mapa · Concordância
-Identificador do áudio: 333f75a4-2813c6ea-1666
-Aulas: mapa/port_concordancia
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Acompanhe como o verbo e os nomes se ajustam aos termos com que se relacionam. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. “O cliente chegou.” O verbo chegou acompanha um cliente. Em uma oração simples, procure quem pratica ou recebe a ação e observe a forma do verbo.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Sujeito e verbo. O verbo se relaciona com o sujeito da oração.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Sujeito composto. Sujeito com mais de um núcleo.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. “O aluno chegou.” “Os alunos chegaram.” As regras incluem casos especiais e não se resumem a contar palavras.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. “Ana e Bia chegaram cedo.” Com núcleos coordenados antes do verbo, a concordância regular é no plural.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Sujeito composto com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Singular e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Observe quem está ligado ao verbo. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 5: Mapa · Frações
-Identificador do áudio: 35dff248-aa87e4a8-1897
-Aulas: mapa/mat_frac
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Dividir uma figura em partes iguais ajuda a entender frações e a juntar quantidades. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Uma bandeja inteira tem oito pedaços iguais. Vamos olhar para as partes dessa mesma bandeja. Uma fração representa uma relação entre partes e um todo, ou também pode representar divisão. É preciso saber qual é o inteiro considerado.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender O inteiro. Escolha o todo que será dividido.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Denominador. Número que indica em quantas partes iguais a unidade foi dividida.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Uma bandeja dividida em 8 partes iguais é um inteiro. Oito oitavos representam esse inteiro. Frações de inteiros diferentes não podem ser comparadas como partes sem observar suas bases.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Na fração 1/8, a unidade foi dividida em oito partes iguais. Partes precisam ser iguais para a comparação representar corretamente a fração.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Denominador com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Inteiro e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Para comparar partes, saiba primeiro qual é o todo. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 6: Mapa · Média
-Identificador do áudio: dfe87c8e-20f7b26e-1805
-Aulas: mapa/mat_media
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Vamos juntar os valores e dividi-los igualmente para encontrar uma média simples. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Em quatro dias, a loja vendeu 2, 4, 6 e 8 bolos. A média aritmética simples resume os valores pela soma dividida pela quantidade de valores. Ela não mostra, sozinha, todos os detalhes da lista.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Conte os valores. Identifique os dados e quantos números serão usados.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Média ponderada. Soma de cada valor multiplicado por seu peso, dividida pela soma dos pesos.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Vendas em quatro dias: 2, 4, 6 e 8 bolos. São quatro valores, um para cada dia. Confira o período, a unidade e se há dados ausentes.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Uma nota 8 tem peso 3 e a nota 6 tem peso 2. (8 vezes 3 + 6 vezes 2) dividido por 5 igual a 7,2.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Média ponderada com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Valores e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Antes de calcular, identifique quantos valores existem. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 7: Mapa · Porcentagem
-Identificador do áudio: 28ce6c19-731f65af-1656
-Aulas: mapa/mat_porcento
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Use uma figura dividida em cem partes para enxergar descontos e proporções. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Uma tabela tem 100 quadradinhos. Cada quadradinho é uma parte de cem. A expressão por cento significa “por cem”. Um por cento equivale a 1/100 do inteiro.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender A taxa. 25% é 25/100, equivalente a 0,25 ou 1/4.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Desconto. Uma redução percentual é calculada sobre a base indicada.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. 100% corresponde ao todo escolhido. 25% é um quarto desse todo. O valor do todo precisa estar definido.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Um produto de R$ 100 recebe desconto de 20%. O desconto é R$ 20 e o preço final é R$ 80.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Desconto com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Porcentagem e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. 100% representa o inteiro considerado. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 8: Mapa · Constituição
-Identificador do áudio: 8c12bcd9-d8724dd1-2283
-Aulas: mapa/const_fundamentos
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Comece pela ideia de Constituição, direitos e funções dos Poderes, com linguagem simples. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Um grupo combina regras para organizar a vida em comum. Um país também possui normas e instituições. A Constituição é a norma fundamental do Estado brasileiro. Ela organiza poderes, estabelece princípios e protege direitos.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Direitos individuais (art. 5º). Garantias fundamentais e suas ressalvas constitucionais expressas.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Cidadania. Condição ligada à participação na vida política e pública.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Casa é asilo inviolável: entrada sem consentimento só em flagrante delito, desastre, para prestar socorro ou, durante o dia, por determinação judicial. Não haverá penas de morte (salvo guerra declarada), de caráter perpétuo, de trabalhos forçados, de banimento ou cruéis. Habeas corpus protege a liberdade de locomoção contra ameaça ou restrição ilegal ou abusiva (art. 5º, LXVIII). A lei penal só retroage para beneficiar o réu, tortura e tratamento desumano são proibidos.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Uma pessoa vota, acompanha políticas e participa de debate público. Qual fundamento conecta essas ações? Cidadania envolve participação e direitos, não se reduz à nacionalidade ou à residência.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Cidadania com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Constituição e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. A Constituição organiza o Estado e protege direitos. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 9: Mapa · Crase
-Identificador do áudio: c33fccbd-412738db-1836
-Aulas: mapa/port_crase
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Entenda primeiro o encontro entre a preposição e o artigo antes de olhar para o acento. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Na frase “Vou a um lugar”, a palavra a liga o verbo ao destino. Alguns verbos e nomes se relacionam com outros termos por meio de uma preposição. Cada construção deve ser analisada no contexto.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender A preposição. Uma palavra pode pedir a preposição a.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Verbo sem preposição a. Se a regência não exige a preposição a, a fusão não ocorre nessa construção.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Em “vou a um lugar”, a liga a ação ao destino. O verbo e a construção precisam ser examinados. A regência depende do termo anterior e do contexto.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. “Visitei a escola” usa objeto direto para o verbo visitar. Há artigo, mas não a preposição exigida para formar “à”.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Verbo sem preposição a com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Preposição e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Veja se a palavra anterior pede a preposição a. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 10: Mapa · Lógica e proposições
-Identificador do áudio: 60308081-78c20ded-1810
-Aulas: mapa/logic_proposicoes
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Comece pela ideia de afirmação, negação e ligação entre duas afirmações. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. “A loja está aberta” é uma frase que afirma algo. Em uma situação definida, ela pode ser verdadeira ou falsa. Na lógica proposicional, uma proposição é uma afirmação à qual se atribui um valor de verdade. Uma pergunta, por exemplo, não faz uma afirmação.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Proposição. Uma afirmação pode ser verdadeira ou falsa.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Negação. Operação que inverte o valor de verdade de uma proposição.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. P: “A loja está aberta.” Uma pergunta isolada não afirma algo. O valor é avaliado em uma situação definida.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Se P é “a porta está aberta”, não P afirma que ela não está aberta. Quando P é verdadeira, sua negação é falsa, e vice-versa.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Negação com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Proposição e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Uma proposição afirma algo que pode ser avaliado. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 11: Mapa · Probabilidade
-Identificador do áudio: 173405b9-803c9317-1808
-Aulas: mapa/mat_probabilidade
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Um saquinho com bolinhas ajuda a entender chances sem prometer resultados. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Em um saquinho há quatro bolinhas iguais: uma azul e três amarelas. Vamos retirar uma sem olhar. A probabilidade descreve um modelo de incerteza. Para este exemplo, supomos que as quatro bolinhas tenham a mesma chance de sair.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Resultados possíveis. Primeiro defina o experimento e o espaço amostral.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Evento. Um conjunto de resultados de interesse.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Um dado comum pode mostrar 1, 2, 3, 4, 5 ou 6. Há seis resultados individuais possíveis. A escolha do espaço amostral depende do que será observado.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. No dado, o evento par contém 2, 4 e 6. O evento é parte do espaço amostral definido.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Evento com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Experimento aleatório e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Primeiro veja o que pode acontecer e quais hipóteses foram feitas. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 12: Mapa · Partes do computador
-Identificador do áudio: 34a31d9a-7bf3663e-1874
-Aulas: mapa/info_hardware
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Vamos separar equipamento, programas, memória e armazenamento. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Tela, teclado e computador são exemplos de partes físicas que usamos para acessar informações. Hardware é o conjunto de componentes físicos de um sistema computacional. Eles trabalham com programas, também chamados de software.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Entrada e saída. A direção do fluxo ajuda a identificar o dispositivo.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Memória rãm. Memória de trabalho usada durante a execução de programas.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Teclado e mouse enviam ações ao computador. Tela e impressora apresentam resultados. Uma tela sensível ao toque exerce as duas funções: exibe e recebe toques.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Um aplicativo aberto precisa manter dados acessíveis enquanto funciona. A rãm comum é volátil: não substitui uma cópia persistente dos arquivos.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Memória rãm com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Hardware e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Hardware são componentes físicos, software reúne programas. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 13: Mapa · Arquivos e pastas
-Identificador do áudio: c4e6dc2c-4535f834-1841
-Aulas: mapa/info_arquivos
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Conheça pastas, extensões, cópias e cuidados antes de abrir um arquivo. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Uma carta digitada pode ser salva em um arquivo com um nome, por exemplo relatorio.docx. Um arquivo é uma unidade de dados armazenados. Há arquivos de texto, imagem, áudio e muitos outros formatos.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Sistema e aplicativo. Windows e Ubuntu são sistemas operacionais.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Extensão. Parte do nome normalmente usada para indicar formato ou associação do arquivo.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. O editor de texto é um aplicativo. O gerenciador de arquivos permite explorar pastas. A interface e os comandos variam conforme a versão e o ambiente de trabalho.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. O nome “relatorio.pdf” termina em .pdf. A extensão sugere um formato, renomeá-la sozinha não converte o conteúdo.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Extensão com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Arquivo e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Um arquivo pode guardar texto, imagem ou outro tipo de informação. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 14: Mapa · Planilhas e fórmulas
-Identificador do áudio: b7672456-205bbbd0-1825
-Aulas: mapa/info_planilhas
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Aprenda o endereço de uma célula e veja como fórmulas simples funcionam. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Imagine uma tabela: a primeira coluna é A e a segunda linha é 2. O encontro delas é a célula A dois. Em uma planilha, cada célula é identificada pela coluna e pela linha. Ela pode guardar texto, número ou fórmula.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Célula. O encontro de uma coluna com uma linha forma uma célula.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Referência absoluta. Referência marcada para manter coluna e linha fixas na cópia da fórmula.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Coluna A + linha 2 igual a A dois. Uma célula pode conter texto, número ou fórmula. As referências também podem ser relativas ou absolutas.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Uma taxa está em $B$1 e será usada em várias linhas. Os cifrões fixam a coluna B e a linha 1 nessa referência.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Referência absoluta com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Célula e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Coluna A com linha 2 forma o endereço A dois. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 15: Mapa · Documentos e Word
-Identificador do áudio: 7c2ac82-cdd62530-1827
-Aulas: mapa/info_documentos
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Veja a diferença entre aparência e estrutura, e como criar um sumário automático. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Um relatório pode ter um título, parágrafos e seções. Um editor de texto ajuda a criar, alterar e formatar documentos. O conteúdo e a organização precisam ser pensados juntos.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Parágrafos. Cada parágrafo organiza uma parte do texto.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Sumário automático. Lista gerada a partir da estrutura reconhecida do documento.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Alinhamento e espaçamento afetam a apresentação. Uma quebra de página inicia uma nova página. Evite criar páginas com várias linhas vazias: pequenas edições podem deslocar o conteúdo.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Um documento usa estilos de título em seus capítulos. O editor pode montar um sumário a partir dessa estrutura.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Sumário automático com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Editor de texto e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Um relatório reúne conteúdo em uma estrutura. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 16: Mapa · Razão e proporção
-Identificador do áudio: ef4e6071-74478c1b-1766
-Aulas: mapa/mat_razao
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Descubra uma unidade antes de aumentar uma receita, sem precisar decorar setas. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Duas porções usam quatro colheres de farinha. Vamos supor que todas as porções sejam iguais e que a receita mantenha a mesma quantidade de farinha por porção.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Observe as grandezas. Leia o que é contado e o que permanece constante.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Proporção. Igualdade entre duas razões.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Duas porções usam quatro colheres de farinha. A receita mantém a mesma quantidade por porção. Nem toda relação é proporcional. Uma taxa fixa ou mudança nas condições pode impedir o uso direto da regra de três.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. 2/3 e 4/6 representam a mesma razão. O produto cruzado confirma 2 vezes 6 igual a 3 vezes 4.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Proporção com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Grandeza e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Identifique o que está sendo contado. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 17: Mapa · Equação do primeiro grau
-Identificador do áudio: 1ce85a07-f263f821-1749
-Aulas: mapa/mat_equacoes
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Vamos descobrir um número desconhecido fazendo a mesma operação dos dois lados. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. A frase 3 + 2 igual a 5 diz que os dois lados têm o mesmo valor. Uma igualdade compara duas expressões que representam o mesmo valor.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender A incógnita. Uma letra representa o valor que procuramos.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Incógnita. Valor desconhecido representado por um símbolo.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Em x + 3 igual a 7, x é o número desconhecido. Queremos que os dois lados tenham o mesmo valor. Equações podem ter nenhuma, uma ou várias soluções, a situação e o domínio precisam ser considerados.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Em x + 3 igual a 8, x representa o valor procurado. O valor que torna a igualdade verdadeira é 5.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Incógnita com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Igualdade e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Os dois lados devem representar o mesmo valor. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 18: Mapa · Conjuntos
-Identificador do áudio: 5d37c01-8816889-1650
-Aulas: mapa/logic_conjuntos
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Veja união e interseção com pessoas que gostam de diferentes atividades. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. O grupo A contém Ana e Bia. O grupo B contém Bia e Caio. Os elementos são os membros do conjunto. Usamos chaves para mostrar os membros em uma lista.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Os grupos. Escolha os conjuntos e seus elementos.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender União. Elementos que pertencem a pelo menos um dos conjuntos.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. A igual a {Ana, Bia}. B igual a {Bia, Caio}. Neste exemplo, cada nome identifica uma pessoa distinta.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. A igual a {1, 2} e B igual a {2, 3}. A união é {1, 2, 3}, o elemento repetido aparece uma vez no conjunto.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria União com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Conjunto e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Observe quem pertence a cada grupo. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 19: Mapa · Acentuação
-Identificador do áudio: 7f4f61a1-2a7009bb-1717
-Aulas: mapa/port_acentos
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Conheça a sílaba tônica antes de observar alguns sinais escritos. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. A palavra café pode ser dividida em duas sílabas: ca-fé. Sílabas são unidades da fala que, na escrita, ajudam a analisar a organização da palavra.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Sílaba tônica. É a sílaba pronunciada com maior destaque.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Oxítona. Palavra cuja sílaba tônica é a última.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. ca-FÉ: a última sílaba é tônica. LI-vro: a penúltima sílaba é tônica. Uma sílaba pode ser tônica mesmo quando não possui acento escrito, como LI em livro.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Em “café”, a tonicidade recai sobre a última sílaba. Café é oxítona, a aplicação do acento depende também da terminação e da regra.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Oxítona com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Sílaba e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Primeiro, observe as sílabas da palavra. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 20: Mapa · Sujeito e predicado
-Identificador do áudio: be3cab42-2c7d8f50-1680
-Aulas: mapa/port_sujeito
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Descubra como o sujeito se relaciona com o verbo e o restante da oração. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Na biblioteca, Lia organizou os livros. A frase comunica uma informação. Oração é uma estrutura que tem verbo ou locução verbal.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Localize o verbo. Uma oração se organiza em torno de um verbo ou locução verbal.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Sujeito simples. Sujeito com um núcleo.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. “Lia organizou os livros.” Organizou é a forma verbal. Uma frase pode ter uma ou mais orações, ou não ter verbo, analise a estrutura.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Em “Os candidatos chegaram”, o núcleo é “candidatos”. O artigo acompanha o núcleo, mas não é outro núcleo do sujeito.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Sujeito simples com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Oração e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Procure o verbo na oração. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 21: Mapa · Verbos e tempos
-Identificador do áudio: 5000486a-36caa2fc-1683
-Aulas: mapa/port_verbos
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Compare ações no passado, no presente e no futuro em exemplos simples. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Lia estuda para a prova. A palavra estuda indica a ação nesse exemplo. Um verbo pode indicar ação, estado ou fenômeno, dependendo do contexto.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Presente. No exemplo, o presente indica uma rotina.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Pretérito perfeito. Forma que, em uso frequente, apresenta ação passada concluída.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. “Lia estuda todos os dias.” Estuda está no presente do indicativo. O presente pode ter outros usos e valores conforme o contexto.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. “A equipe entregou o documento ontem.” O verbo “entregou” relata o fato como concluído.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Pretérito perfeito com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Verbo e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Comece procurando o verbo na frase. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 22: Mapa · Comunicação oficial
-Identificador do áudio: 8c747aa1-103837eb-1787
-Aulas: mapa/adm_redacao
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Acompanhe uma mensagem oficial simples e entenda quem escreve, para quem e por quê. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Uma unidade precisa informar a outra o horário de uma reunião. Antes de escrever, é útil identificar o assunto, o destinatário e a finalidade da comunicação.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Finalidade. Comece identificando por que o documento será produzido.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Concisão. Uso das palavras necessárias para comunicar a ideia sem excesso.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Pode ser uma informação, uma solicitação ou uma resposta. Defina quem deve receber a mensagem. O formato e o procedimento dependem do órgão e da situação.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Um aviso substitui uma frase longa por uma instrução direta de mesmo sentido. Ser conciso não significa omitir dados necessários à decisão.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Concisão com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Finalidade e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Saiba o que precisa comunicar. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 23: Mapa · Atendimento ao público
-Identificador do áudio: 7c6d3060-da9c6156-1788
-Aulas: mapa/adm_atendimento
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Veja uma pessoa buscando um serviço e acompanhe como a equipe pode ajudá-la. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Uma pessoa procura informações sobre como solicitar um serviço. O atendimento começa com acolhimento respeitoso e atenção às necessidades da pessoa.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Acolher. Receba a pessoa com respeito e cortesia.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Linguagem clara. Comunicação compreensível, com explicação de termos quando necessário.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Ouça sem antecipar conclusões sobre o pedido. Considere as necessidades de acessibilidade. A Lei 13.460/2017 estabelece diretrizes de atendimento aos usuários de serviços públicos.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. A atendente explica uma etapa sem usar siglas desconhecidas. Uma resposta clara permite que a pessoa saiba qual será o próximo passo.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Linguagem clara com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Usuário e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Receba a pessoa com respeito. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 24: Mapa · Organizar reuniões
-Identificador do áudio: 9e5b8f53-c2abb777-1800
-Aulas: mapa/adm_reunioes
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Acompanhe a preparação, os assuntos e o registro de uma reunião simples. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Uma equipe precisa combinar os horários de atendimento do mês seguinte. Antes de convocar pessoas, defina o objetivo e confirme se a reunião é necessária.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Objetivo e participantes. Defina a finalidade e quem precisa participar.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Pauta. Relação dos assuntos a tratar, preferencialmente com ordem e objetivo.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Exemplo: combinar os horários de atendimento do mês. Verifique as regras de participação e competência do órgão. A necessidade, os convidados e a forma de convocação dependem da reunião.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. A convocação informa que serão tratados prazos e responsáveis. A pauta permite preparação e ajuda a manter o foco.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Pauta com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Objetivo e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Saiba o que o grupo precisa decidir ou discutir. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 25: Mapa · Planejar eventos
-Identificador do áudio: 6c81219b-6ce06d7b-1765
-Aulas: mapa/adm_eventos
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Veja como preparar um encontro acessível, da ideia à conferência final. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Uma equipe vai organizar uma oficina de atendimento para trinta pessoas. Defina objetivo, público e formato. Esses dados orientam as demais escolhas.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Objetivo e público. Identifique a finalidade, os participantes e o formato.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Público. Grupo de pessoas para quem a atividade é organizada.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Uma oficina para 30 pessoas precisa de espaço compatível. Defina a programação e os responsáveis. O número de participantes e as atividades orientam as demais decisões.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. O convite informa que a oficina é destinada às equipes de atendimento. Conhecer o público orienta linguagem, capacidade e acessibilidade.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Público com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Público e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Defina objetivo e público. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 26: Mapa · Expressões latinas
-Identificador do áudio: 442d70b7-f934cdad-1750
-Aulas: mapa/adm_latim
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Entenda alguns exemplos pelo contexto, sem precisar decorar uma lista inteira de uma vez. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. O documento informa que uma comissão foi criada ad hoc para uma tarefa específica. Algumas expressões latinas são mantidas em documentos. O contexto ajuda a compreender o sentido.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Ad hoc. Para um fim ou caso específico.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender In loco. Expressão que significa no próprio local.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Uma comissão ad hoc pode ser criada para uma tarefa determinada. O contexto esclarece a finalidade. A expressão não define, por si só, as competências ou a duração de uma comissão.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Uma equipe realiza vistoria in loco em um prédio. A verificação ocorre no lugar inspecionado.
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria In loco com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Expressão latina e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Leia a expressão dentro da frase. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 27: Mapa · Geometria e sequências
-Identificador do áudio: 5a7dba42-3db7a46e-1930
-Aulas: mapa/mat_geometria
-
-TRECHO 1 — Enxergue o caminho
-Enxergue o caminho. Veja como medir o contorno e a área de um espaço, localizar pontos e acompanhar sequências numéricas. Vamos percorrer os ramos do mapa, uma ideia de cada vez.
-
-TRECHO 2 — Ramo 1 · Primeiros passos
-Ramo 1 · Primeiros passos. Cenas 1 até 5. Um canteiro retangular tem lados de 3 metros e 4 metros. Para cercá-lo, somamos todos os lados. Perímetro é a medida do contorno de uma figura plana. No retângulo de 3 m por 4 m, somamos 3 + 4 + 3 + 4 igual a 14 m.
-
-TRECHO 3 — Ramo 2 · Ideias principais
-Ramo 2 · Ideias principais. Cenas 6 até 10. Agora vamos entender Perímetro e área plana. Perímetro soma o contorno, área mede a superfície interna.
-
-TRECHO 4 — Ramo 3 · Aprofundar
-Ramo 3 · Aprofundar. Cenas 11 até 15. Agora vamos entender Área do retângulo. Produto da base pela altura, usando unidades compatíveis.
-
-TRECHO 5 — Ramo 4 · Exemplos · parte 1
-Ramo 4 · Exemplos · parte 1. Cenas 16 até 20. Retângulo de base b e altura h: perímetro igual a 2(b + h) e área igual a b vezes h. Triângulo: área igual a (base vezes altura) dividido por 2, círculo de raio r: área igual a πr². Confira sempre se todas as medidas estão na mesma unidade antes de somar ou multiplicar.
-
-TRECHO 6 — Ramo 5 · Exemplos · parte 2
-Ramo 5 · Exemplos · parte 2. Cenas 21 até 25. Um retângulo mede 4 m por 3 m. Sua área é 4 vezes 3 igual a 12 m².
-
-TRECHO 7 — Ramo 6 · Revisão ativa
-Ramo 6 · Revisão ativa. Cenas 26 até 30. Como você explicaria Área do retângulo com suas palavras? Tente explicar sem consultar as anotações. Depois abra a explicação para comparar.
-
-TRECHO 8 — Agora é sua vez
-Agora é sua vez. Sem olhar para o mapa, qual é a ligação entre Perímetro e Recuperar a ideia? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 9 — Vamos conferir
-Vamos conferir. Perímetro mede a volta inteira. Explique com suas palavras e volte ao conceito se precisar. Volte a cada ramo para reconstruir as etapas entre essas ideias.
-
-TRECHO 10 — Leve para a próxima revisão
-Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
-
-======================================================================
-ROTEIRO 28: Mapa · Contagem e matrizes
+ROTEIRO 1: Mapa · Contagem e matrizes
 Identificador do áudio: 6c4c355f-48a9d2c7-2111
 Aulas: mapa/mat_combinatoria
 
@@ -984,7 +39,7 @@ TRECHO 10 — Leve para a próxima revisão
 Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
 
 ======================================================================
-ROTEIRO 29: Mapa · Direito Penal e Processo
+ROTEIRO 2: Mapa · Direito Penal e Processo
 Identificador do áudio: f3f32338-c5b9953a-2330
 Aulas: mapa/penal_fundamentos
 
@@ -1019,7 +74,7 @@ TRECHO 10 — Leve para a próxima revisão
 Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
 
 ======================================================================
-ROTEIRO 30: Mapa · Legislação especial e guardas
+ROTEIRO 3: Mapa · Legislação especial e guardas
 Identificador do áudio: a123c53d-a282880b-2491
 Aulas: mapa/legis_especial
 
@@ -1054,7 +109,7 @@ TRECHO 10 — Leve para a próxima revisão
 Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
 
 ======================================================================
-ROTEIRO 31: Mapa · Inglês: leitura de textos
+ROTEIRO 4: Mapa · Inglês: leitura de textos
 Identificador do áudio: f233c9e9-c8e448f-2046
 Aulas: mapa/ingles_leitura
 
@@ -1089,47 +144,7 @@ TRECHO 10 — Leve para a próxima revisão
 Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
 
 ======================================================================
-ROTEIRO 32: Entenda: Interesse público
-Identificador do áudio: 3b915aaf-b20f0ed5-770
-Aulas: historia/etica_servico/ampliacao-05-conceito, historia/etica_servico/ampliacao-05-aplicacao, questao/etica/etica-01-conceito, questao/etica/etica-01-caso
-
-TRECHO 1 — Vamos entender
-Vamos entender. Interesse público. Orientação da atuação ao fim coletivo juridicamente definido.
-
-TRECHO 2 — Veja uma situação
-Veja uma situação. Um agente decide com base na finalidade do serviço em vez de ganho pessoal. Qual referência orienta a conduta?
-
-TRECHO 3 — Raciocínio da professora
-Raciocínio da professora. A ideia que resolve esta situação é Interesse público. Interesse público não é justificativa genérica para violar direitos ou dispensar fundamentação.
-
-TRECHO 4 — Agora é sua vez
-Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 5 — Vamos conferir
-Vamos conferir. Orientação da atuação ao fim coletivo juridicamente definido. Interesse público não é justificativa genérica para violar direitos ou dispensar fundamentação.
-
-======================================================================
-ROTEIRO 33: Entenda: Responsabilidade profissional
-Identificador do áudio: 6b04e379-26d57207-772
-Aulas: historia/etica_servico/ampliacao-10-conceito, historia/etica_servico/ampliacao-10-aplicacao, historia/etica_servico/ampliacao-revisao-5, questao/etica/etica-06-conceito, questao/etica/etica-06-caso
-
-TRECHO 1 — Vamos entender
-Vamos entender. Responsabilidade profissional. Assunção dos deveres e consequências vinculados ao exercício da função.
-
-TRECHO 2 — Veja uma situação
-Veja uma situação. O agente reconhece um erro, comunica e toma providências cabíveis para corrigir. Qual postura demonstra?
-
-TRECHO 3 — Raciocínio da professora
-Raciocínio da professora. A ideia que resolve esta situação é Responsabilidade profissional. Responsabilizar-se não dispensa apuração, evita ocultação e permite correção.
-
-TRECHO 4 — Agora é sua vez
-Agora é sua vez. Qual característica desta situação permite distinguir este conceito de outro parecido? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 5 — Vamos conferir
-Vamos conferir. Assunção dos deveres e consequências vinculados ao exercício da função. Responsabilizar-se não dispensa apuração, evita ocultação e permite correção.
-
-======================================================================
-ROTEIRO 34: Mapa · Ética, controle e cidadania
+ROTEIRO 5: Mapa · Ética, controle e cidadania
 Identificador do áudio: 83333d44-54bd3930-2336
 Aulas: mapa/etica_servico
 
@@ -1164,7 +179,7 @@ TRECHO 10 — Leve para a próxima revisão
 Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
 
 ======================================================================
-ROTEIRO 35: Mapa · Orçamento público e finanças
+ROTEIRO 6: Mapa · Orçamento público e finanças
 Identificador do áudio: 4fd9d155-e2f9191f-2557
 Aulas: mapa/afo_orcamento
 
@@ -1199,7 +214,7 @@ TRECHO 10 — Leve para a próxima revisão
 Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
 
 ======================================================================
-ROTEIRO 36: UFRN · Analista de TI · Desenvolvimento
+ROTEIRO 7: UFRN · Analista de TI · Desenvolvimento
 Identificador do áudio: cf37cf45-bffca823-2954
 Aulas: concurso/ufrn-ati-dev-2025
 
@@ -1228,7 +243,7 @@ TRECHO 8 — Vamos conferir
 Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
 
 ======================================================================
-ROTEIRO 37: UFRN · Analista de TI · Ciência de Dados
+ROTEIRO 8: UFRN · Analista de TI · Ciência de Dados
 Identificador do áudio: ca4f7930-95c46e92-2994
 Aulas: concurso/ufrn-ati-dados-2025
 
@@ -1257,7 +272,7 @@ TRECHO 8 — Vamos conferir
 Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
 
 ======================================================================
-ROTEIRO 38: UFRN · Técnico em Tecnologia da Informação
+ROTEIRO 9: UFRN · Técnico em Tecnologia da Informação
 Identificador do áudio: 8dfdf034-3e90ba08-2656
 Aulas: concurso/ufrn-tti-2023
 
@@ -1286,7 +301,7 @@ TRECHO 8 — Vamos conferir
 Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
 
 ======================================================================
-ROTEIRO 39: IFRN · Analista de Tecnologia da Informação
+ROTEIRO 10: IFRN · Analista de Tecnologia da Informação
 Identificador do áudio: 2d2f6f0f-65ebef13-2801
 Aulas: concurso/ifrn-ati-2024
 
@@ -1315,7 +330,7 @@ TRECHO 8 — Vamos conferir
 Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
 
 ======================================================================
-ROTEIRO 40: Língua Portuguesa
+ROTEIRO 11: Língua Portuguesa
 Identificador do áudio: 173ad7b3-1e34efb1-2796
 Aulas: materia/ifrn-tti-2024/portugues
 
@@ -1365,7 +380,7 @@ TRECHO 15 — Leve para a próxima revisão
 Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
 
 ======================================================================
-ROTEIRO 41: TCE-RN · TI · fundamentos comuns
+ROTEIRO 12: TCE-RN · TI · fundamentos comuns
 Identificador do áudio: a6e0799b-6e33ca27-3645
 Aulas: concurso/tce-rn-ti-2026
 
@@ -1400,7 +415,7 @@ TRECHO 10 — Vamos conferir
 Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
 
 ======================================================================
-ROTEIRO 42: Engenharia de Software, Desenvolvimento e Arquitetura
+ROTEIRO 13: Engenharia de Software, Desenvolvimento e Arquitetura
 Identificador do áudio: 25602a3f-b56bec15-2082
 Aulas: materia/tce-rn-ti-2026/engenharia, materia/mp-rn-ti-previsto/engenharia, materia/tj-rn-ti-fgv/engenharia, materia/rn-ti-estadual-previsto/engenharia, materia/natal-prefeitura-previsto/engenharia, materia/itep-rn-previsto/engenharia, materia/fapern-rn-previsto/engenharia, materia/arsep-rn-previsto/engenharia
 
@@ -1435,7 +450,7 @@ TRECHO 10 — Leve para a próxima revisão
 Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
 
 ======================================================================
-ROTEIRO 43: Redes, Sistemas Operacionais, Nuvem e Segurança da Informação
+ROTEIRO 14: Redes, Sistemas Operacionais, Nuvem e Segurança da Informação
 Identificador do áudio: c236b646-33a4ee72-2143
 Aulas: materia/tce-rn-ti-2026/infraestrutura, materia/mp-rn-ti-previsto/infraestrutura, materia/tj-rn-ti-fgv/infraestrutura, materia/rn-ti-estadual-previsto/infraestrutura, materia/natal-prefeitura-previsto/infraestrutura, materia/itep-rn-previsto/infraestrutura, materia/fapern-rn-previsto/infraestrutura, materia/arsep-rn-previsto/infraestrutura
 
@@ -1470,7 +485,7 @@ TRECHO 10 — Leve para a próxima revisão
 Leve para a próxima revisão. Depois, tente dar um exemplo diferente sem olhar. Se faltar uma parte, volte a ela. Guarde o assunto para revisar em outro dia. Você escolhe o intervalo, os atalhos são sugestões, não uma fórmula obrigatória.
 
 ======================================================================
-ROTEIRO 44: MP-RN · Analista do MP · TI
+ROTEIRO 15: MP-RN · Analista do MP · TI
 Identificador do áudio: b40eb2fd-5b281e51-3158
 Aulas: concurso/mp-rn-ti-previsto
 
@@ -1502,7 +517,7 @@ TRECHO 9 — Vamos conferir
 Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
 
 ======================================================================
-ROTEIRO 45: RN · DETRAN, UFRN, IFRN e Órgãos do Estado · TI
+ROTEIRO 16: RN · DETRAN, UFRN, IFRN e Órgãos do Estado · TI
 Identificador do áudio: b2d32e6b-971ec851-3178
 Aulas: concurso/rn-ti-estadual-previsto
 
@@ -1534,7 +549,7 @@ TRECHO 9 — Vamos conferir
 Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
 
 ======================================================================
-ROTEIRO 46: Prefeitura de Natal — TI e Suporte
+ROTEIRO 17: Prefeitura de Natal — TI e Suporte
 Identificador do áudio: a4133859-ec455305-3165
 Aulas: concurso/natal-prefeitura-previsto
 
@@ -1566,7 +581,7 @@ TRECHO 9 — Vamos conferir
 Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
 
 ======================================================================
-ROTEIRO 47: ITEP/RN — Perito Criminal e TI Forense
+ROTEIRO 18: ITEP/RN — Perito Criminal e TI Forense
 Identificador do áudio: 89062d48-e44be9e0-3169
 Aulas: concurso/itep-rn-previsto
 
@@ -1598,7 +613,7 @@ TRECHO 9 — Vamos conferir
 Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
 
 ======================================================================
-ROTEIRO 48: FAPERN — Gestão de Projetos e TI
+ROTEIRO 19: FAPERN — Gestão de Projetos e TI
 Identificador do áudio: db509215-d402d7db-3163
 Aulas: concurso/fapern-rn-previsto
 
@@ -1630,7 +645,7 @@ TRECHO 9 — Vamos conferir
 Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
 
 ======================================================================
-ROTEIRO 49: ARSEP/RN — Regulação de Serviços Públicos — TI
+ROTEIRO 20: ARSEP/RN — Regulação de Serviços Públicos — TI
 Identificador do áudio: a758fc88-1e39f1b0-3177
 Aulas: concurso/arsep-rn-previsto
 
@@ -1662,7 +677,7 @@ TRECHO 9 — Vamos conferir
 Vamos conferir. Escolha uma matéria, abra a história inicial e compare os assuntos com o edital e suas retificações. A fonte principal está na página do concurso.
 
 ======================================================================
-ROTEIRO 50: Como organizar o estudo
+ROTEIRO 21: Como organizar o estudo
 Identificador do áudio: 36d54af8-8c820464-8911
 Aulas: pagina/estrategia
 
@@ -1826,449 +841,7 @@ TRECHO 53 — Vamos conferir
 Vamos conferir. Fechar a explicação e tentar reconstruir a ideia com suas palavras. Depois conferir e corrigir. Essa tentativa orienta a próxima revisão.
 
 ======================================================================
-ROTEIRO 51: Detetive de texto
-Identificador do áudio: f0a817fa-f3192444-648
-Aulas: questao/detetive-texto/genero_cronica
-
-TRECHO 1 — A questão
-A questão. A crônica se diferencia da reportagem jornalística tradicional principalmente por: A crônica entrelaça fatos do cotidiano com sensibilidade literária, humor, ironia e subjetividade do enunciador.
-
-TRECHO 2 — Como resolver
-Como resolver. A crônica entrelaça fatos do cotidiano com sensibilidade literária, humor, ironia e subjetividade do enunciador.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. A crônica entrelaça fatos do cotidiano com sensibilidade literária, humor, ironia e subjetividade do enunciador.
-
-======================================================================
-ROTEIRO 52: Detetive de texto
-Identificador do áudio: dcb12357-727489bd-719
-Aulas: questao/detetive-texto/discurso_direto_indireto
-
-TRECHO 1 — A questão
-A questão. Ao transpor a fala direta “O diretor afirmou: ‘Apresentarei o plano amanhã’” para o discurso indireto, obtém-se: O diretor afirmou: “Apresentarei o plano de modernização amanhã em plenário”.
-
-TRECHO 2 — Como resolver
-Como resolver. Na transposição para o discurso indireto no passado, o futuro do presente vira futuro do pretérito (“apresentaria”) e “amanhã” vira “no dia seguinte”.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Na transposição para o discurso indireto no passado, o futuro do presente vira futuro do pretérito (“apresentaria”) e “amanhã” vira “no dia seguinte”.
-
-======================================================================
-ROTEIRO 53: Detetive de texto
-Identificador do áudio: 9c27a0cf-5a06e50f-657
-Aulas: questao/detetive-texto/coesao_elipse
-
-TRECHO 1 — A questão
-A questão. Em “A equipe de segurança analisou os logs, a de desenvolvimento, o código-fonte”, por que a vírgula aparece após “desenvolvimento”? A equipe de segurança analisou os logs, a de desenvolvimento, o código-fonte.
-
-TRECHO 2 — Como resolver
-Como resolver. A vírgula indica a omissão intencional de um termo já citado anteriormente no período (elipse/zeugma verbal).
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. A vírgula indica a omissão intencional de um termo já citado anteriormente no período (elipse/zeugma verbal).
-
-======================================================================
-ROTEIRO 54: Balança de equações
-Identificador do áudio: 67ba8565-47d53791-359
-Aulas: questao/balanca-equacoes/lin_02
-
-TRECHO 1 — A questão
-A questão. Resolva para x: 3x - 6 igual a 9
-
-TRECHO 2 — Como resolver
-Como resolver. 3x - 6 igual a 9 -> 3x igual a 15 -> x igual a 5.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. 3x - 6 igual a 9 -> 3x igual a 15 -> x igual a 5.
-
-======================================================================
-ROTEIRO 55: Balança de equações
-Identificador do áudio: 548315c0-cddb83aa-372
-Aulas: questao/balanca-equacoes/lin_09
-
-TRECHO 1 — A questão
-A questão. Determine x na igualdade: 7x - 5 igual a 16
-
-TRECHO 2 — Como resolver
-Como resolver. 7x - 5 igual a 16 -> 7x igual a 21 -> x igual a 3.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. 7x - 5 igual a 16 -> 7x igual a 21 -> x igual a 3.
-
-======================================================================
-ROTEIRO 56: Balança de equações
-Identificador do áudio: 95084c00-b772a670-345
-Aulas: questao/balanca-equacoes/ambos_19
-
-TRECHO 1 — A questão
-A questão. Determine x: 6x - 8 igual a 2x + 12 6x - 8 igual a 2x + 12
-
-TRECHO 2 — Como resolver
-Como resolver. 4x igual a 20 -> x igual a 5.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. 4x igual a 20 -> x igual a 5.
-
-======================================================================
-ROTEIRO 57: Balança de equações
-Identificador do áudio: fa514eb4-2142d32e-369
-Aulas: questao/balanca-equacoes/geom_28
-
-TRECHO 1 — A questão
-A questão. Um quadrado tem perímetro igual a 48 metros. Quanto mede o lado x? 4x igual a 48
-
-TRECHO 2 — Como resolver
-Como resolver. 4x igual a 48 -> x igual a 12.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. 4x igual a 48 -> x igual a 12.
-
-======================================================================
-ROTEIRO 58: Divisão de recursos
-Identificador do áudio: 63d76f3-8d9a2175-575
-Aulas: questao/recursos-porcentagem/prop_08
-
-TRECHO 1 — A questão
-A questão. Quatro analistas revisam 24 processos em um dia. Quantos processos 6 analistas revisarão? Considere taxas constantes e condições equivalentes. 4 analistas -> 24 processos
-
-TRECHO 2 — Como resolver
-Como resolver. Cada analista revisa 24/4 igual a 6 processos. 6 analistas igual a 6 vezes 6 igual a 36.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Cada analista revisa 24/4 igual a 6 processos. 6 analistas igual a 6 vezes 6 igual a 36.
-
-======================================================================
-ROTEIRO 59: Divisão de recursos
-Identificador do áudio: 3175d04e-6982d8fc-576
-Aulas: questao/recursos-porcentagem/prop_09
-
-TRECHO 1 — A questão
-A questão. Cinco servidores atendem 150 cidadãos por turno. Quantos servidores são necessários para 210? Considere taxas constantes e condições equivalentes. 5 servidores -> 150 cidadãos
-
-TRECHO 2 — Como resolver
-Como resolver. Cada servidor atende 150/5 igual a 30. Para 210 cidadãos: 210/30 igual a 7 servidores.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Cada servidor atende 150/5 igual a 30. Para 210 cidadãos: 210/30 igual a 7 servidores.
-
-======================================================================
-ROTEIRO 60: Divisão de recursos
-Identificador do áudio: 5bbd648e-39138fe6-537
-Aulas: questao/recursos-porcentagem/prop_10
-
-TRECHO 1 — A questão
-A questão. Um veículo oficial consome 8 litros para rodar 96 km. Quantos litros consumirá para 180 km? Considere taxas constantes e condições equivalentes. 8 litros -> 96 km
-
-TRECHO 2 — Como resolver
-Como resolver. Consumo: 96/8 igual a 12 km/litro. Para 180 km: 180/12 igual a 15 litros.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Consumo: 96/8 igual a 12 km/litro. Para 180 km: 180/12 igual a 15 litros.
-
-======================================================================
-ROTEIRO 61: Divisão de recursos
-Identificador do áudio: a78efbe5-9b86a4cf-558
-Aulas: questao/recursos-porcentagem/regra_inv_22
-
-TRECHO 1 — A questão
-A questão. Quatro impressoras imprimem relatórios em 10 horas. Em quantas horas 5 impressoras fariam o serviço? Considere taxas constantes e condições equivalentes. 4 impressoras -> 10h | 5 impressoras -> ?
-
-TRECHO 2 — Como resolver
-Como resolver. 4 vezes 10 igual a 5 vezes t -> 40 igual a 5t -> t igual a 8 horas.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. 4 vezes 10 igual a 5 vezes t -> 40 igual a 5t -> t igual a 8 horas.
-
-======================================================================
-ROTEIRO 62: Divisão de recursos
-Identificador do áudio: c5d717c6-e5f8875a-524
-Aulas: questao/recursos-porcentagem/regra_inv_23
-
-TRECHO 1 — A questão
-A questão. Dois servidores digitalizam um arquivo em 12 dias. Quantos dias levariam 4 servidores? Considere taxas constantes e condições equivalentes. 2 servidores -> 12 dias
-
-TRECHO 2 — Como resolver
-Como resolver. 2 vezes 12 igual a 4 vezes t -> 24 igual a 4t -> t igual a 6 dias.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. 2 vezes 12 igual a 4 vezes t -> 24 igual a 4t -> t igual a 6 dias.
-
-======================================================================
-ROTEIRO 63: Divisão de recursos
-Identificador do áudio: 1fad1a78-3d0e2dda-573
-Aulas: questao/recursos-porcentagem/comp_31
-
-TRECHO 1 — A questão
-A questão. Seis digitadores trabalham 4 horas e digitam 120 páginas. Quantas páginas 6 digitadores farão em 6 horas? Considere taxas constantes e condições equivalentes. 6 digitadores · 4h -> 120 pág
-
-TRECHO 2 — Como resolver
-Como resolver. Mesma equipe: se em 4h fazem 120 (30 p/h), em 6h farão 6 vezes 30 igual a 180.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Mesma equipe: se em 4h fazem 120 (30 p/h), em 6h farão 6 vezes 30 igual a 180.
-
-======================================================================
-ROTEIRO 64: Divisão de recursos
-Identificador do áudio: 5df1a001-f243802d-540
-Aulas: questao/recursos-porcentagem/comp_32
-
-TRECHO 1 — A questão
-A questão. Uma equipe de 10 operários constrói um muro em 15 dias. Em quantos dias 15 operários fariam? Considere taxas constantes e condições equivalentes. 10 operários -> 15 dias
-
-TRECHO 2 — Como resolver
-Como resolver. 10 vezes 15 igual a 15 vezes d -> 150 igual a 15d -> d igual a 10 dias.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. 10 vezes 15 igual a 15 vezes d -> 150 igual a 15d -> d igual a 10 dias.
-
-======================================================================
-ROTEIRO 65: Divisão de recursos
-Identificador do áudio: b9277100-559e6bbc-598
-Aulas: questao/recursos-porcentagem/conversao_35
-
-TRECHO 1 — A questão
-A questão. Um arquivo tem 4.096 kibibytes (KiB). Quantos mebibytes (MiB) ele tem? 4.096 KiB em MiB
-
-TRECHO 2 — Como resolver
-Como resolver. Nas unidades binárias IEC, 1 MiB igual a 1.024 KiB. Portanto, 4.096 dividido por 1.024 igual a 4 MiB. kB e MB decimais usam potências de mil.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Nas unidades binárias IEC, 1 MiB igual a 1.024 KiB. Portanto, 4.096 dividido por 1.024 igual a 4 MiB. kB e MB decimais usam potências de mil.
-
-======================================================================
-ROTEIRO 66: Cálculo de chances
-Identificador do áudio: 42f7ca2d-77ab433-487
-Aulas: questao/chance-probabilidade/dado_06
-
-TRECHO 1 — A questão
-A questão. Qual a chance percentual de sair face estritamente maior que 4 em um dado de 6 faces? Arredonde o percentual ao inteiro mais próximo. Faces > 4: 5 e 6
-
-TRECHO 2 — Como resolver
-Como resolver. Faces maiores que 4: 5 e 6 (2 em 6) igual a 2/6 ≈ 33%.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Faces maiores que 4: 5 e 6 (2 em 6) igual a 2/6 ≈ 33%.
-
-======================================================================
-ROTEIRO 67: Cálculo de chances
-Identificador do áudio: 77095b8c-a99c7d0-530
-Aulas: questao/chance-probabilidade/baralho_09
-
-TRECHO 1 — A questão
-A questão. De um baralho de 52 cartas, qual a chance percentual aproximada de retirar um Ás? Arredonde o percentual ao inteiro mais próximo. 4 ases em 52 cartas
-
-TRECHO 2 — Como resolver
-Como resolver. São 4 ases em 52 cartas: 4 / 52 igual a 1 / 13 ≈ 7,7% (arredondado para 8%).
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. São 4 ases em 52 cartas: 4 / 52 igual a 1 / 13 ≈ 7,7% (arredondado para 8%).
-
-======================================================================
-ROTEIRO 68: Cálculo de chances
-Identificador do áudio: 570b44d3-b21bf93-507
-Aulas: questao/chance-probabilidade/comp_12
-
-TRECHO 1 — A questão
-A questão. Entre 20 bilhetes, 4 são premiados. Escolhendo um bilhete ao acaso, com chances iguais, qual a probabilidade percentual de ele NÃO ser premiado? 20 bilhetes · 4 premiados
-
-TRECHO 2 — Como resolver
-Como resolver. Bilhetes não premiados: 16 em 20: 16 / 20 igual a 80%.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Bilhetes não premiados: 16 em 20: 16 / 20 igual a 80%.
-
-======================================================================
-ROTEIRO 69: Cálculo de chances
-Identificador do áudio: 8c6270e-7f6c7e08-454
-Aulas: questao/chance-probabilidade/urna_14
-
-TRECHO 1 — A questão
-A questão. Em uma urna com 15 bolas numeradas de 1 a 15, qual a chance de sair múltiplo de 5? Números 5, 10 e 15
-
-TRECHO 2 — Como resolver
-Como resolver. Múltiplos de 5: 5, 10, 15 (3 casos em 15): 3 / 15 igual a 20%.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Múltiplos de 5: 5, 10, 15 (3 casos em 15): 3 / 15 igual a 20%.
-
-======================================================================
-ROTEIRO 70: Cálculo de chances
-Identificador do áudio: ef6e02f2-a0951468-481
-Aulas: questao/chance-probabilidade/ponderada_23
-
-TRECHO 1 — A questão
-A questão. Nota 6 com peso 2 e nota 9 com peso 1. Qual a média ponderada? Nota 6 (peso 2) e Nota 9 (peso 1)
-
-TRECHO 2 — Como resolver
-Como resolver. (6 vezes 2 + 9 vezes 1) / (2+1) igual a (12 + 9) / 3 igual a 21 / 3 igual a 7.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. (6 vezes 2 + 9 vezes 1) / (2+1) igual a (12 + 9) / 3 igual a 21 / 3 igual a 7.
-
-======================================================================
-ROTEIRO 71: Cálculo de chances
-Identificador do áudio: 810ce2bf-f7b135d7-638
-Aulas: questao/chance-probabilidade/ponderada_24
-
-TRECHO 1 — A questão
-A questão. Trabalho nota 8 (peso 3) e prova nota 6 (peso 2). Qual a média final? Nota 8 (peso 3) e Nota 6 (peso 2)
-
-TRECHO 2 — Como resolver
-Como resolver. A média ponderada é (8 vezes 3 + 6 vezes 2) dividido por (3 + 2) igual a 36 dividido por 5 igual a 7,2. O enunciado não pede arredondamento para inteiro.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. A média ponderada é (8 vezes 3 + 6 vezes 2) dividido por (3 + 2) igual a 36 dividido por 5 igual a 7,2. O enunciado não pede arredondamento para inteiro.
-
-======================================================================
-ROTEIRO 72: Cálculo de chances
-Identificador do áudio: e8db8539-afc9e3ad-493
-Aulas: questao/chance-probabilidade/urna_25
-
-TRECHO 1 — A questão
-A questão. Um grupo tem 35 mulheres e 15 homens. Sorteando uma pessoa com chances iguais, qual a probabilidade percentual de ser homem? 50 servidores · 35 mulheres
-
-TRECHO 2 — Como resolver
-Como resolver. Homens: 50 - 35 igual a 15. Chance: 15 / 50 igual a 30%.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Homens: 50 - 35 igual a 15. Chance: 15 / 50 igual a 30%.
-
-======================================================================
-ROTEIRO 73: Cálculo de chances
-Identificador do áudio: 5a8fc390-88a00384-450
-Aulas: questao/chance-probabilidade/dado_26
-
-TRECHO 1 — A questão
-A questão. Qual a chance percentual de sair número menor que 3 no dado comum? Arredonde o percentual ao inteiro mais próximo. Faces < 3: 1 e 2
-
-TRECHO 2 — Como resolver
-Como resolver. Faces favoráveis: 1 e 2 (2 em 6) igual a 33%.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Faces favoráveis: 1 e 2 (2 em 6) igual a 33%.
-
-======================================================================
-ROTEIRO 74: Cálculo de chances
-Identificador do áudio: 27e2e62e-901c2c64-442
-Aulas: questao/chance-probabilidade/dado_27
-
-TRECHO 1 — A questão
-A questão. Qual a chance percentual de sair um múltiplo de 3 no lançamento de um dado? Arredonde o percentual ao inteiro mais próximo. Múltiplos de 3: 3 e 6
-
-TRECHO 2 — Como resolver
-Como resolver. Faces: 3 e 6 (2 em 6) igual a 33%.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. Faces: 3 e 6 (2 em 6) igual a 33%.
-
-======================================================================
-ROTEIRO 75: Cálculo de chances
-Identificador do áudio: ad19462e-f5a87bd2-520
-Aulas: questao/chance-probabilidade/urna_29
-
-TRECHO 1 — A questão
-A questão. Em um lote de 100 processos, todos já foram deferidos ou indeferidos. Há 80 deferidos. Escolhendo um ao acaso, qual a probabilidade percentual de ser indeferido? 20 indeferidos em 100
-
-TRECHO 2 — Como resolver
-Como resolver. 100 - 80 igual a 20 indeferidos. 20 / 100 igual a 20%.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. 100 - 80 igual a 20 indeferidos. 20 / 100 igual a 20%.
-
-======================================================================
-ROTEIRO 76: Cálculo de chances
-Identificador do áudio: 62b928ef-e3a7436b-476
-Aulas: questao/chance-probabilidade/prob_uniao_34
-
-TRECHO 1 — A questão
-A questão. Num baralho de 52 cartas, qual a probabilidade de tirar um Rei ou uma Rainha (Dama)? Arredonde o percentual ao inteiro mais próximo. 8 cartas em 52
-
-TRECHO 2 — Como resolver
-Como resolver. 4 Reis + 4 Rainhas igual a 8 cartas. 8 / 52 ≈ 15%.
-
-TRECHO 3 — Agora é sua vez
-Agora é sua vez. Reconstrua a solução com suas palavras. Qual passo ou regra decidiu a resposta? Pense ou explique com suas palavras. Sem pressa. Quando terminar, toque em Conferir.
-
-TRECHO 4 — Vamos conferir
-Vamos conferir. 4 Reis + 4 Rainhas igual a 8 cartas. 8 / 52 ≈ 15%.
-
-======================================================================
-ROTEIRO 77: Operações em planilhas
+ROTEIRO 22: Operações em planilhas
 Identificador do áudio: 5f10f71b-ab8770ff-550
 Aulas: questao/planilha-operacao/soma_01
 
@@ -2285,7 +858,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. O intervalo de A um até A três inclui as três células: 10 + 20 + 30 igual a 60.
 
 ======================================================================
-ROTEIRO 78: Operações em planilhas
+ROTEIRO 23: Operações em planilhas
 Identificador do áudio: 3eb075cc-a69feb9e-520
 Aulas: questao/planilha-operacao/operador_13
 
@@ -2302,7 +875,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. A multiplicação tem precedência sobre a adição: 5 * 2 igual a 10, depois 10 + 10 igual a 20.
 
 ======================================================================
-ROTEIRO 79: Operações em planilhas
+ROTEIRO 24: Operações em planilhas
 Identificador do áudio: ef65e210-2538d442-471
 Aulas: questao/planilha-operacao/multiplicacao_18
 
@@ -2319,7 +892,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. O asterisco representa o operador de multiplicação: 5 * 4 igual a 20.
 
 ======================================================================
-ROTEIRO 80: Operações em planilhas
+ROTEIRO 25: Operações em planilhas
 Identificador do áudio: 358d2077-b3ad3dd3-584
 Aulas: questao/planilha-operacao/media_20
 
@@ -2336,7 +909,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. A célula com zero é numérica e participa da média: (10 + 0 + 20) / 3 igual a 30 / 3 igual a 10.
 
 ======================================================================
-ROTEIRO 81: Operações em planilhas
+ROTEIRO 26: Operações em planilhas
 Identificador do áudio: f093a523-7df2cff3-476
 Aulas: questao/planilha-operacao/erro_nome_31
 
@@ -2353,7 +926,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. O erro #NOME? indica que a planilha não reconheceu o texto inserido como função ou nome válido.
 
 ======================================================================
-ROTEIRO 82: Investigação de redes e comandos
+ROTEIRO 27: Investigação de redes e comandos
 Identificador do áudio: 387bacb5-1d13da53-633
 Aulas: questao/rede-investigacao/linux_kill_20
 
@@ -2370,7 +943,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. kill -9 envia SIGKILL, que o processo não pode capturar ou ignorar. Isso não garante saída instantânea em qualquer estado do kernel, use encerramento normal quando cabível.
 
 ======================================================================
-ROTEIRO 83: Sala de incidentes
+ROTEIRO 28: Sala de incidentes
 Identificador do áudio: ee4981e9-e9d2160b-704
 Aulas: questao/seguranca-incidente/assinatura_digital_08
 
@@ -2387,7 +960,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. A assinatura é gerada usando a chave privada do signatário e verificada com a chave pública correspondente. Descrever toda assinatura como cifrar o hash é incorreto para algoritmos como ECDSA e EdDSA.
 
 ======================================================================
-ROTEIRO 84: Decodificador de inglês
+ROTEIRO 29: Decodificador de inglês
 Identificador do áudio: 97e1ae43-cd8c0db3-652
 Aulas: questao/ingles-evidencias/ing_although_07
 
@@ -2404,7 +977,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. "Although" (embora, apesar de que) introduz uma oração concessiva, admitindo um fato que contrasta com a oração principal.
 
 ======================================================================
-ROTEIRO 85: Decodificador de inglês
+ROTEIRO 30: Decodificador de inglês
 Identificador do áudio: 4890e8be-d3a6f49a-679
 Aulas: questao/ingles-evidencias/ing_deprecate_22
 
@@ -2421,7 +994,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. "Deprecate" em engenharia de software significa marcar uma a pê i como obsoleta, recomendando substituição pois poderá ser removida.
 
 ======================================================================
-ROTEIRO 86: Decodificador de inglês
+ROTEIRO 31: Decodificador de inglês
 Identificador do áudio: 70ed778a-3fbc2fe6-615
 Aulas: questao/ingles-evidencias/ing_resume_33
 
@@ -2438,7 +1011,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. "Resume" significa recomeçar ou retomar. Para "resumir", o verbo adequado em inglês é "to summarize".
 
 ======================================================================
-ROTEIRO 87: Decodificador de inglês
+ROTEIRO 32: Decodificador de inglês
 Identificador do áudio: 168104e-b5bf52fa-632
 Aulas: questao/ingles-evidencias/ing_library_34
 
@@ -2455,7 +1028,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. "Library" em computação é uma biblioteca de código reutilizável. "Livraria" em inglês é "bookstore".
 
 ======================================================================
-ROTEIRO 88: Decodificador de inglês
+ROTEIRO 33: Decodificador de inglês
 Identificador do áudio: a1f2cf0a-8149d732-658
 Aulas: questao/ingles-evidencias/ing_spoofing_36
 
@@ -2472,7 +1045,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. "Spoofing" consiste em mascarar pacotes ou endereços de e-mail/IP para forjar a identidade legítima de outro emissor.
 
 ======================================================================
-ROTEIRO 89: Oficina de sistemas
+ROTEIRO 34: Oficina de sistemas
 Identificador do áudio: c061966f-219b49a1-587
 Aulas: questao/oficina-sequencias/seq_scrum_04
 
@@ -2489,7 +1062,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. O planejamento inicia a Sprint, Daily Scrums ocorrem durante ela, Review e Retrospective ficam ao final. Daily não é reunião de status para chefia.
 
 ======================================================================
-ROTEIRO 90: Oficina de sistemas
+ROTEIRO 35: Oficina de sistemas
 Identificador do áudio: 7d878540-b1936b20-581
 Aulas: questao/oficina-sequencias/seq_git_revert_24
 
@@ -2506,7 +1079,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. git revert preserva a história criando um novo snapshot de cancelamento, sem reescrever commits públicos já compartilhados.
 
 ======================================================================
-ROTEIRO 91: Conecte as ideias · Planejar eventos
+ROTEIRO 36: Conecte as ideias · Planejar eventos
 Identificador do áudio: 9e72a738-f35e631c-465
 Aulas: questao/base-adm-eventos/conceito-3
 
@@ -2523,7 +1096,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. Uma previsão organizada de recursos e despesas para uma finalidade.
 
 ======================================================================
-ROTEIRO 92: Computador, arquivos e documentos
+ROTEIRO 37: Computador, arquivos e documentos
 Identificador do áudio: 615a6cb3-b43c5bb-489
 Aulas: questao/informatica/info_documentos-conceito-4
 
@@ -2540,7 +1113,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. A ação de recalcular o conteúdo gerado para refletir mudanças no documento.
 
 ======================================================================
-ROTEIRO 93: Lógica, argumentos e conjuntos
+ROTEIRO 38: Lógica, argumentos e conjuntos
 Identificador do áudio: 121bccb5-efc90abd-471
 Aulas: questao/logica/logic_conjuntos-conceito-2
 
@@ -2557,7 +1130,7 @@ TRECHO 4 — Vamos conferir
 Vamos conferir. O conjunto dos elementos que pertencem a pelo menos um dos conjuntos.
 
 ======================================================================
-ROTEIRO 94: Inovação produtiva
+ROTEIRO 39: Inovação produtiva
 Identificador do áudio: 157f611f-63f57cfd-885
 Aulas: questao/abdi/abdi-19-conceito, questao/abdi/abdi-19-caso
 
@@ -2577,7 +1150,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Introdução ou aprimoramento relevante de soluções em produtos, processos ou organização produtiva. Inovação não se reduz à compra de computadores, depende de aplicação e resultados no processo produtivo.
 
 ======================================================================
-ROTEIRO 95: Prioridade absoluta
+ROTEIRO 40: Prioridade absoluta
 Identificador do áudio: 3186f00f-a851d367-833
 Aulas: questao/especial/especial-10-conceito, questao/especial/especial-10-caso
 
@@ -2597,7 +1170,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Dever de conferir prioridade à efetivação de direitos de crianças e adolescentes nos termos constitucionais e legais. Prioridade tem conteúdo jurídico, não é apenas frase de campanha.
 
 ======================================================================
-ROTEIRO 96: Conselho Tutelar
+ROTEIRO 41: Conselho Tutelar
 Identificador do áudio: 24961a7d-cbdc6867-831
 Aulas: questao/especial/especial-11-conceito, questao/especial/especial-11-caso
 
@@ -2617,7 +1190,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Órgão permanente e autônomo, não jurisdicional, encarregado de zelar pelo cumprimento dos direitos de crianças e adolescentes. Conselho Tutelar não aplica pena criminal nem substitui o Judiciário.
 
 ======================================================================
-ROTEIRO 97: Argumentação
+ROTEIRO 42: Argumentação
 Identificador do áudio: ecaf0fb-25a7ca01-668
 Aulas: questao/linguistica/linguistica-18-conceito, questao/linguistica/linguistica-18-caso
 
@@ -2637,7 +1210,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Organização de razões para sustentar ou contestar uma tese. Opinião sem apoio não esgota a construção argumentativa.
 
 ======================================================================
-ROTEIRO 98: Classificação arquivística
+ROTEIRO 43: Classificação arquivística
 Identificador do áudio: 8f20e6bd-6a0dca57-770
 Aulas: questao/administracao/administracao-09-conceito, questao/administracao/administracao-09-caso
 
@@ -2657,7 +1230,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Organização de documentos segundo funções e atividades no plano adotado. A classificação arquivística não se confunde com grau de sigilo da LAI.
 
 ======================================================================
-ROTEIRO 99: Canal de denúncia
+ROTEIRO 44: Canal de denúncia
 Identificador do áudio: 534388cd-1c6e493-796
 Aulas: questao/etica/etica-10-conceito, questao/etica/etica-10-caso
 
@@ -2677,7 +1250,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Meio destinado a receber relatos de irregularidades e encaminhá-los segundo procedimentos. Relato precisa ser tratado responsavelmente, canal não substitui apuração dos fatos.
 
 ======================================================================
-ROTEIRO 100: IS NULL
+ROTEIRO 45: IS NULL
 Identificador do áudio: 52feba41-a41c4981-719
 Aulas: questao/sql/sql-14-conceito, questao/sql/sql-14-caso
 
@@ -2697,7 +1270,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Predicado para verificar ausência de valor representada por nulo. Comparar com igual a nulo não produz o teste de igualdade usual, use IS nulo.
 
 ======================================================================
-ROTEIRO 101: Autenticação
+ROTEIRO 46: Autenticação
 Identificador do áudio: abd301d4-b0d165f0-649
 Aulas: questao/web/web-11-conceito, questao/web/web-11-caso
 
@@ -2717,7 +1290,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Verificação da identidade apresentada. Saber quem é a pessoa não define automaticamente tudo o que ela pode fazer.
 
 ======================================================================
-ROTEIRO 102: OAuth 2.0
+ROTEIRO 47: OAuth 2.0
 Identificador do áudio: 9bcf417b-b0e6277-752
 Aulas: questao/web/web-13-conceito, questao/web/web-13-caso
 
@@ -2737,7 +1310,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Estrutura de autorização delegada. OAuth não é, sozinho, protocolo completo de identidade, OpenID Connect acrescenta camada de autenticação.
 
 ======================================================================
-ROTEIRO 103: JWT
+ROTEIRO 48: JWT
 Identificador do áudio: 790e82e2-86d79d6c-884
 Aulas: questao/web/web-15-conceito, questao/web/web-15-caso
 
@@ -2757,7 +1330,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Formato de token com declarações representadas em jêison e mecanismos de proteção conforme sua modalidade. Assinatura não implica sigilo. Token precisa de validação de assinatura, emissor, destinatário e tempo conforme o contexto.
 
 ======================================================================
-ROTEIRO 104: CORS
+ROTEIRO 49: CORS
 Identificador do áudio: 872f1a21-33dc6d25-782
 Aulas: questao/web/web-16-conceito, questao/web/web-16-caso
 
@@ -2777,7 +1350,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Mecanismo de controle de compartilhamento de recursos entre origens no navegador. CORS não substitui autenticação nem impede clientes fora do navegador de enviar requisições.
 
 ======================================================================
-ROTEIRO 105: Pobreza monetária
+ROTEIRO 50: Pobreza monetária
 Identificador do áudio: b9c6cfb5-357cdc65-790
 Aulas: questao/sociedade/sociedade-02-conceito, questao/sociedade/sociedade-02-caso
 
@@ -2797,7 +1370,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Insuficiência de renda em relação a uma linha e metodologia explicitadas. A linha e o período precisam ser informados, não há um único número universal aplicável a toda análise.
 
 ======================================================================
-ROTEIRO 106: Pobreza multidimensional
+ROTEIRO 51: Pobreza multidimensional
 Identificador do áudio: 5e3c4a0-e2aa086e-688
 Aulas: questao/sociedade/sociedade-03-conceito, questao/sociedade/sociedade-03-caso
 
@@ -2817,7 +1390,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Privação examinada em múltiplas dimensões além da renda. Renda é relevante, mas não descreve sozinha todas as privações.
 
 ======================================================================
-ROTEIRO 107: Envelhecimento populacional
+ROTEIRO 52: Envelhecimento populacional
 Identificador do áudio: 5bd2950d-7fc46a97-742
 Aulas: questao/sociedade/sociedade-13-conceito, questao/sociedade/sociedade-13-caso
 
@@ -2837,7 +1410,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Aumento relativo da participação de pessoas idosas na população. A proporção depende da composição etária, não só do número absoluto de idosos.
 
 ======================================================================
-ROTEIRO 108: Presidencialismo
+ROTEIRO 53: Presidencialismo
 Identificador do áudio: fa660e51-2f467051-782
 Aulas: questao/politica/politica-05-conceito, questao/politica/politica-05-caso
 
@@ -2857,7 +1430,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Sistema em que a presidência reúne chefia de Estado e chefia de governo. No parlamentarismo, as chefias costumam ser separadas, não confunda sistema e forma de governo.
 
 ======================================================================
-ROTEIRO 109: Sistema proporcional
+ROTEIRO 54: Sistema proporcional
 Identificador do áudio: 615d8372-bf161a78-936
 Aulas: questao/politica/politica-12-conceito, questao/politica/politica-12-caso
 
@@ -2877,7 +1450,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Sistema que distribui cadeiras considerando a votação segundo regras de representação proporcional. Não basta comparar isoladamente os votos de todos os candidatos, a distribuição envolve partidos ou federações e regras legais.
 
 ======================================================================
-ROTEIRO 110: Agenda pública
+ROTEIRO 55: Agenda pública
 Identificador do áudio: 97d989f8-3e52be2e-788
 Aulas: questao/politica/politica-17-conceito, questao/politica/politica-17-caso
 
@@ -2897,7 +1470,7 @@ TRECHO 5 — Vamos conferir
 Vamos conferir. Conjunto de problemas que recebem atenção e disputam espaço na decisão governamental. Entrar na agenda não significa que a solução já tenha sido implementada.
 
 ======================================================================
-ROTEIRO 111: Readaptação
+ROTEIRO 56: Readaptação
 Identificador do áudio: 4a48ae6c-4d4ad044-818
 Aulas: questao/federal/federal-03-conceito, questao/federal/federal-03-caso
 

@@ -2,10 +2,10 @@
   "date": "2026-10-31",
   "histories": 41,
   "scenes": 1230,
-  "audioScenes": 1225,
-  "pendingScenes": 5,
-  "completeHistories": 40,
-  "mapsWithAudio": 8,
+  "audioScenes": 1230,
+  "pendingScenes": 0,
+  "completeHistories": 41,
+  "mapsWithAudio": 35,
   "rows": [
     {
       "id": "sql",
@@ -69,7 +69,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "port_texto",
@@ -77,7 +77,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "port_pontuacao",
@@ -85,7 +85,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "port_concordancia",
@@ -93,7 +93,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "mat_frac",
@@ -101,7 +101,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "mat_media",
@@ -109,7 +109,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "mat_porcento",
@@ -117,7 +117,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "const_fundamentos",
@@ -125,7 +125,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "port_crase",
@@ -133,7 +133,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "logic_proposicoes",
@@ -141,7 +141,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "mat_probabilidade",
@@ -149,7 +149,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "info_hardware",
@@ -157,7 +157,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "info_arquivos",
@@ -165,7 +165,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "info_planilhas",
@@ -173,7 +173,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "info_documentos",
@@ -181,7 +181,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "mat_razao",
@@ -189,7 +189,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "mat_equacoes",
@@ -197,7 +197,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "logic_conjuntos",
@@ -205,7 +205,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "port_acentos",
@@ -213,7 +213,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "port_sujeito",
@@ -221,7 +221,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "port_verbos",
@@ -229,7 +229,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "adm_redacao",
@@ -237,7 +237,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "adm_atendimento",
@@ -245,7 +245,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "adm_patrimonio",
@@ -261,7 +261,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "adm_eventos",
@@ -269,7 +269,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "adm_latim",
@@ -277,7 +277,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "mat_geometria",
@@ -285,7 +285,7 @@
       "original": 5,
       "scenes": 30,
       "audio": 30,
-      "mapAudio": false
+      "mapAudio": true
     },
     {
       "id": "mat_combinatoria",
@@ -324,7 +324,7 @@
       "name": "Ética, controle e cidadania",
       "original": 5,
       "scenes": 30,
-      "audio": 25,
+      "audio": 30,
       "mapAudio": false
     },
     {

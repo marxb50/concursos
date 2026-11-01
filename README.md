@@ -10,7 +10,7 @@ Inclui 41 histórias com 30 cenas cada (1.230 cenas), 56 infográficos e 28 conc
 
 A aba **Atividades** tem 1.224 questões autorais distintas, selecionadas em 7.786 posições de estudo: todas as 140 matérias cadastradas têm de 40 a 100 questões, sem repetição dentro da mesma matéria. Questões de fundamentos podem ser compartilhadas entre concursos compatíveis. Fases de até 10 rodadas, professor sobre a questão atual, revisão de erros e XP sem duplicação. A adaptação ao formato da banca não é uma reprodução de sua prova.
 
-Há 2908 explicações, das quais 2758 têm Thalita Neural, em 1321 roteiros gravados compartilhados quando o texto coincide. As 150 explicações restantes (111 roteiros distintos) permanecem disponíveis em texto, sem substituição automática de voz. O áudio só é carregado quando você escolhe ouvir. [Roteiros pendentes](src/roteiros-thalita-pendentes.txt).
+Há 2908 explicações, das quais 2820 têm Thalita Neural, em 1376 roteiros gravados compartilhados quando o texto coincide. As 88 explicações restantes (56 roteiros distintos) permanecem disponíveis em texto, sem substituição automática de voz. O áudio só é carregado quando você escolhe ouvir. [Roteiros pendentes](src/roteiros-thalita-pendentes.txt).
 
 [Relatório da auditoria](src/pesquisa-atividades/ETAPA_3_AUDITORIA_E_EXPANSAO.md) · [Cobertura por matéria](src/pesquisa-atividades/COBERTURA_ATIVIDADES_20261030.md) · [Fontes e cobertura das histórias](src/pesquisa-historias/FONTES_E_CRITERIOS.md).
 
