@@ -7,7 +7,7 @@ Use o botão com ícone de som e o texto **Professor**. Ele abre a explicação 
 - Nas dez telas: Concursos, detalhe do concurso, matéria, história, mapa ilustrado, infográficos, Atividades, Revisão, Estratégia e Fontes.
 - Em todas as 1.224 questões distintas da aba Atividades: o botão explica o conceito ou cálculo daquela questão. Definição e aplicação do mesmo conceito compartilham uma explicação completa, com exemplo, raciocínio e pergunta para tentar lembrar.
 - Em cada um dos 56 infográficos e em seus blocos: o botão do bloco começa naquele trecho.
-- Nas 208 cenas, nos 41 mapas ilustrados, nos exemplos resolvidos e nos três laboratórios.
+- Nas 1.230 cenas, nos 41 mapas ilustrados, nos exemplos resolvidos e nos três laboratórios. As cenas que usam o mesmo conteúdo podem compartilhar gravação e abrir no trecho correspondente.
 - Nos cartões de concursos e nos conteúdos guardados para revisão.
 - Em listas pessoais: orientação de uso e fundamentos relacionados já disponíveis. O roteiro não inventa uma aula específica para qualquer título digitado e não envia o cadastro ao serviço de voz.
 
@@ -31,7 +31,7 @@ Fontes: [Karpicke e Blunt, 2011](https://pubmed.ncbi.nlm.nih.gov/21252317/), [Ce
 
 O pacote contém o HTML e a pasta **dist/audio/professor/**. Mantenha essa pasta junto de **dist/index.html**. Os MP3 são reproduzidos localmente; não há chave de API no aplicativo e nenhuma solicitação ao serviço da Microsoft durante a reprodução desses arquivos.
 
-Em 30/10/2026: 1.770 das 1.886 explicações têm gravação Thalita, em 1.166 MP3. As 116 explicações restantes (80 roteiros distintos) estão prontas em texto. O usuário escolheu aguardar Thalita; nenhuma voz substituta é gerada automaticamente. Consulte **roteiros-thalita-pendentes.txt** para ler e **roteiros-thalita-pendentes.json** para os identificadores e trechos que ligam cada aula ao áudio.
+As explicações sem gravação Thalita estão disponíveis em texto. O usuário escolheu manter essa voz; nenhuma voz substituta é gerada automaticamente. Consulte **roteiros-thalita-pendentes.txt** para ler e **roteiros-thalita-pendentes.json** para a contagem atualizada, os identificadores e os trechos que ligam cada aula ao áudio.
 
 Copiar somente o HTML não copia os áudios. Se um arquivo estiver ausente, a explicação escrita continua disponível. O painel permite escolher uma voz em português disponível no navegador e mostra o nome real dessa voz. A disponibilidade de vozes do navegador varia por dispositivo; uma voz alternativa não é apresentada como Thalita.
 

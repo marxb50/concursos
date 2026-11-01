@@ -1,0 +1,12 @@
+/* Navegação compacta para histórias longas, nos dois visuais. */
+.scene-jump{display:grid;gap:.3rem;width:min(100%,26rem);font-size:.78rem;font-weight:700;text-align:left}
+.scene-jump select{box-sizing:border-box;width:100%;min-height:44px;padding:.5rem .65rem;border:2px solid #396d78;border-radius:8px;background:#fffdf5;color:#17313e;font:inherit;font-size:1rem}
+.scene-recall{margin-top:1.35rem;padding:1rem;border:2px solid #3e7775;border-radius:12px;background:#e2f3e9;color:#173b3b}
+.scene-recall summary{cursor:pointer;font-weight:800;min-height:32px}
+.scene-recall p{margin:.65rem 0 0;line-height:1.7}
+.scene-source{margin:1rem 0 0;font-size:.85rem;line-height:1.55}
+.scene-source a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+.step-progress{min-width:0}
+.step-dots{flex-wrap:wrap}
+.new-word[hidden],.remember[hidden],.scene-recall[hidden],.scene-source[hidden]{display:none!important}
+@media(max-width:600px){.scene-jump{width:100%;margin-top:.5rem}.scene-jump select{font-size:1rem}.scene-recall{padding:.9rem}}

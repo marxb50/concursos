@@ -1,0 +1,11 @@
+'use strict';
+const fs=require('node:fs'),vm=require('node:vm'),manifest=require('./build-manifest.json'),context={URL};
+vm.runInNewContext(Object.values(manifest.scripts).filter(f=>f!=='app.js').map(f=>fs.readFileSync(f,'utf8')).join('\n')+'\nthis.data={JOURNEYS,ProfessorCore,PROFESSOR_AUDIO};',context);
+const {JOURNEYS,ProfessorCore,PROFESSOR_AUDIO}=context.data;
+const hasAudio=lesson=>!!PROFESSOR_AUDIO.tracks[ProfessorCore.fingerprint(lesson)];
+const rows=JOURNEYS.map(t=>({id:t.id,name:t.name,original:t.baseCount,scenes:t.steps.length,audio:t.steps.filter((s,i)=>hasAudio(ProfessorCore.scene(t.id,i))).length,mapAudio:hasAudio(ProfessorCore.mindmap(t.id))}));
+const report={date:'2026-10-31',histories:rows.length,scenes:rows.reduce((n,r)=>n+r.scenes,0),audioScenes:rows.reduce((n,r)=>n+r.audio,0),pendingScenes:rows.reduce((n,r)=>n+r.scenes-r.audio,0),completeHistories:rows.filter(r=>r.audio===r.scenes).length,mapsWithAudio:rows.filter(r=>r.mapAudio).length,rows};
+fs.mkdirSync('output',{recursive:true});fs.writeFileSync('output/auditoria-historias-20261031.json',JSON.stringify(report,null,2));
+const md=['# Cobertura das histórias — 31/10/2026','',`${report.histories} histórias, ${report.scenes} cenas, ${report.audioScenes} cenas com áudio Thalita e ${report.pendingScenes} com roteiro em texto aguardando gravação. O mapa é contado separadamente.`, '', '| História | Cenas | Cenas com áudio | Áudio do mapa |', '|---|---:|---:|---|',...rows.map(r=>`| ${r.name} | ${r.scenes} | ${r.audio} | ${r.mapAudio?'disponível':'roteiro pronto'} |`),'','Conceitos e aplicações podem compartilhar um único áudio. As cenas mantêm texto e referências quando a gravação está pendente.',''];
+fs.mkdirSync('pesquisa-historias',{recursive:true});fs.writeFileSync('pesquisa-historias/COBERTURA.md',md.join('\n'));
+console.log(JSON.stringify({...report,rows:undefined},null,2));

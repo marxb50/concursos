@@ -156,7 +156,7 @@ const ProfessorUI = (() => {
     $('#professor-part-select').innerHTML=lesson.parts.map((p,i)=>`<option value="${i}">${i+1}. ${e(p.label)}</option>`).join('');
     panel.hidden=false;panel.classList.remove('is-minimized');$('#professor-minimize').setAttribute('aria-expanded','true');$('#professor-minimize').textContent='−';$('#professor-head-note').textContent='Uma professora para acompanhar você';document.body.classList.add('professor-open');
     if(origin?.matches('[data-professor]'))origin.setAttribute('aria-expanded','true');
-    const index=Number(start)||0;showPart(index);$('#professor-close').focus({preventScroll:true});
+    const index=Number(start)>0?Number(start):(lesson.startPart||0);showPart(index);$('#professor-close').focus({preventScroll:true});
     play();
   }
   function insertButton(element,kind,id='',extra='',part=0){

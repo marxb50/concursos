@@ -26,10 +26,11 @@ module.exports=function verifyProfessor(m){
       }
     }
   }
-  assert.equal(all.filter(l=>l.id.startsWith('historia/')).length,208);
+  assert.equal(all.filter(l=>l.id.startsWith('historia/')).length,1230);
   for(const t of JOURNEYS)for(const [i,s] of t.steps.entries()){
     const text=ProfessorCore.scene(t.id,i).parts.map(p=>p.text).join(' ');
-    for(const field of ['speech','explain','observe','meaning','remember'])assert(text.includes(ProfessorCore.clean(s[field])),`${t.id}/${i}: conteúdo completo em ${field}`);
+    if(s.teacher){for(const field of ['definition','example','reason'])assert(text.includes(ProfessorCore.clean(s.teacher[field])),`${t.id}/${i}: conteúdo completo em ${field}`);}
+    else for(const field of ['speech','explain','observe','meaning','remember'])assert(text.includes(ProfessorCore.clean(s[field])),`${t.id}/${i}: conteúdo completo em ${field}`);
   }
   assert.equal(all.filter(l=>l.id.startsWith('mapa/')).length,41);
   assert.equal(all.filter(l=>l.id.startsWith('infograficos/')).length,56);

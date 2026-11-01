@@ -9,7 +9,8 @@
     "/*__RESPONSIVE_CSS__*/": "responsivo.css",
     "/*__FONTES_CSS__*/": "fontes-central.css",
     "/*__CENTRAL_CSS__*/": "central.css",
-    "/*__ATIVIDADES_CSS__*/": "atividades.css"
+    "/*__ATIVIDADES_CSS__*/": "atividades.css",
+    "/*__HISTORIAS_EXPANSION_CSS__*/": "historias-ampliadas.css"
   },
   "scripts": {
     "/*__TEMA__*/": "tema.js",
@@ -31,6 +32,8 @@
     "/*__SCENES__*/": "cenas-gerais.js",
     "/*__STUDY_CORE__*/": "estudo-core.js",
     "/*__GAME_DATA__*/": "atividades-dados.js",
+    "/*__STORY_SEEDS__*/": "historias-sementes.js",
+    "/*__STORY_EXPANSION__*/": "historias-expansao.js",
     "/*__GAME_CORE__*/": "atividades-core.js",
     "/*__REVIEW__*/": "revisao.js",
     "/*__LAB_UI__*/": "laboratorios.js",

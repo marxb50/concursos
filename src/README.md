@@ -12,7 +12,7 @@ Para ouvir **Thalita Neural**, mantenha a pasta **dist/audio/** junto do HTML. E
 
 ## O que está disponível
 
-- 41 histórias, 208 cenas e 41 mapas ilustrados para baixar em SVG.
+- 41 histórias com **30 cenas cada**, 1.230 cenas ao todo e 41 mapas ilustrados para baixar em SVG. O seletor de cenas e seis partes no mapa ajudam a encontrar um trecho específico; a posição anterior é preservada.
 - 56 infográficos, com busca por conceitos e filtro por área.
 - 28 concursos; 12 provas históricas completas com 630 questões classificadas por tema (incluindo UFRN e IFRN).
 - Exemplos resolvidos, inclusive nos concursos personalizados.
@@ -22,7 +22,7 @@ Para ouvir **Thalita Neural**, mantenha a pasta **dist/audio/** junto do HTML. E
 - Botão **Professor** nas dez telas, nas missões de atividades, nos mapas, blocos, cenas, exemplos e laboratórios: professora virtual com voz Thalita Neural, texto acompanhado, pausa, repetição, velocidade e perguntas antes da resposta. [Guia da professora](PROFESSOR.md).
 - Aba **Atividades** com **1.224 questões autorais distintas**, organizadas em 37 famílias e selecionadas para cada concurso: **40 a 100 questões em todas as 140 matérias**. São 7.786 posições de estudo, com compartilhamento de fundamentos entre concursos compatíveis e sem repetição dentro de uma matéria. Fases de até 10 questões, explicação específica, revisão dos erros, retomada e XP sem duplicação.
 
-Auditoria de 30/10/2026: [resultados e limites](pesquisa-atividades/ETAPA_3_AUDITORIA_E_EXPANSAO.md), [quantidades por matéria](pesquisa-atividades/COBERTURA_ATIVIDADES_20261030.md). Das 1.886 explicações, 1.770 têm Thalita gravada e 116 permanecem em texto, por escolha do usuário de aguardar essa voz. [Roteiros pendentes, agrupados em 80 gravações](roteiros-thalita-pendentes.txt).
+Auditoria de 30/10/2026: [resultados e limites](pesquisa-atividades/ETAPA_3_AUDITORIA_E_EXPANSAO.md), [quantidades por matéria](pesquisa-atividades/COBERTURA_ATIVIDADES_20261030.md). A [ampliação das histórias de 31/10](pesquisa-historias/FONTES_E_CRITERIOS.md) reúne conceitos, aplicações e revisão ativa. Os áudios disponíveis usam Thalita; explicações ainda sem gravação permanecem em texto. [Roteiros pendentes](roteiros-thalita-pendentes.txt).
 
 As matérias aparecem por participação nos pontos máximos da objetiva quando o edital fornece a distribuição por disciplina. Quando só há totais por bloco, os painéis mostram os blocos sem inventar contagem por matéria. Pesos, descontos e mínimos de ABDI, CGU, Câmara dos Deputados, Dataprev (2024 e 2026) e Nísia Floresta foram conferidos em 29/10/2026.
 

@@ -1,10 +1,11 @@
 /* Verifica o conteúdo, todas as figuras e a retomada das histórias. */
 const fs=require('node:fs'),vm=require('node:vm'),path=require('node:path'),assert=require('node:assert/strict');
 const context={URL};
-vm.runInNewContext(Object.values(require('./build-manifest.json').scripts).map(name=>fs.readFileSync(path.join(__dirname,name),'utf8')).join('\n')+'\nthis.material={JOURNEYS,CONTESTS,ContestCore,INFOGRAPHICS,InfographicUI,Catalog,Art,LessonCore,ReviewCore,ReviewUI,GeneralScenes,SearchCore,CustomContestCore,RouteCore,LabCore,LabUI,ProfessorCore,PROFESSOR_AUDIO,ScoringCore,ActivityBank,ActivityCore,ThemeCore};',context);
+vm.runInNewContext(Object.values(require('./build-manifest.json').scripts).map(name=>fs.readFileSync(path.join(__dirname,name),'utf8')).join('\n')+'\nthis.material={JOURNEYS,CONTESTS,ContestCore,INFOGRAPHICS,InfographicUI,Catalog,Art,LessonCore,ReviewCore,ReviewUI,GeneralScenes,SearchCore,CustomContestCore,RouteCore,LabCore,LabUI,ProfessorCore,PROFESSOR_AUDIO,ScoringCore,ActivityBank,ActivityCore,ThemeCore,StoryExpansion};',context);
 const {JOURNEYS,CONTESTS,ContestCore,INFOGRAPHICS,InfographicUI,Catalog,Art,LessonCore,ReviewCore,ReviewUI,GeneralScenes,SearchCore,CustomContestCore,RouteCore,LabCore,LabUI,ProfessorCore,PROFESSOR_AUDIO}=context.material;
 assert.equal(JOURNEYS.length,41);
-assert.equal(JOURNEYS.reduce((n,topic)=>n+topic.steps.length,0),208);
+assert.equal(JOURNEYS.reduce((n,topic)=>n+topic.steps.length,0),1230);
+assert(JOURNEYS.every(topic=>topic.steps.length===30&&topic.baseCount>=5&&topic.baseCount<=7),'Cada história deve ter 30 cenas e preservar sua introdução');
 const keys=new Set(),frames=[],maps=[];
 for(const topic of JOURNEYS){
   assert(!keys.has(topic.id));keys.add(topic.id);
@@ -18,7 +19,7 @@ for(const topic of JOURNEYS){
     frames.push({id:`${topic.id}-${step.id}`,svg});
   }
   const interactive=Art.mindMap(topic),staticMap=Art.mindMap(topic,false);
-  assert.equal((interactive.match(/data-map-step=/g)||[]).length,topic.steps.length);
+  assert.equal((interactive.match(/data-map-step=/g)||[]).length,6,'O mapa deve abrir cada uma das seis partes da história');
   assert(!staticMap.includes('data-map-step=')&&!staticMap.includes('Toque em um ramo'));
   assert.equal(LessonCore.move(topic,0,-1),0);
   assert.equal(LessonCore.move(topic,topic.steps.length-1,1),topic.steps.length-1);
@@ -27,7 +28,7 @@ for(const topic of JOURNEYS){
 assert.equal(LessonCore.normalize(null).topic,'sql');
 assert.equal(LessonCore.normalize({topic:'invalid',positions:{sql:100,java:-3,web:'4'},motion:'yes'}).topic,'sql');
 const normalized=LessonCore.normalize({topic:'java',positions:{sql:100,java:-3,web:'4'},motion:false});
-assert.equal(normalized.positions.sql,6);assert.equal(normalized.positions.java,0);assert.equal(normalized.positions.web,0);assert.equal(normalized.motion,false);
+assert.equal(normalized.positions.sql,29);assert.equal(normalized.positions.java,0);assert.equal(normalized.positions.web,0);assert.equal(normalized.motion,false);
 assert.equal(LessonCore.normalize({topic:'java',positions:{java:3}}).positions.java,3);
 const sql=JOURNEYS.find(topic=>topic.id==='sql');
 assert.equal((Art.scene(sql,5,'ana').match(/class="scene-highlight"/g)||[]).length,2,'Os dois pedidos da Ana recebem destaque');
@@ -84,6 +85,7 @@ for(const place of ['Natal','São Gonçalo','Nísia Floresta','Parnamirim','Naci
 require('./verificar-novidades.cjs')(context.material);
 require('./verificar-pontuacao.cjs')(context.material);
 require('./verificar-atividades.cjs')(context.material);
+require('./verificar-historias.cjs')(context.material);
 require('./verificar-professor.cjs')(context.material);
 if(process.argv.includes('--export')){
   const folder=path.join(__dirname,'mapas-ilustrados');fs.mkdirSync(folder,{recursive:true});

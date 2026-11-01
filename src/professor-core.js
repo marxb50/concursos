@@ -30,6 +30,19 @@ const ProfessorCore = (() => {
   function scene(id,index=0){
     const t=journey(id);if(!t)return null;
     const s=t.steps[Math.max(0,Math.min(t.steps.length-1,Number(index)||0))];
+    if(s.teacher){
+      const c=s.teacher;let original;
+      if(c.mapId)original=infographic(c.mapId);
+      else if(c.canonical)original=question(c.canonical);
+      else original=lesson(`historia/${id}/${s.id}`,s.title,[
+        part('Vamos por partes',`Agora vamos entender ${c.term}. ${c.definition}`),
+        part('Veja uma situação',`${c.example} ${c.reason}`),
+        ...reflect(`Como você explicaria ${c.term} com suas palavras?`,c.definition)
+      ],{type:'historia',id});
+      const startPart=s.recall?original.parts.findIndex(p=>p.kind==='question'):c.mapId?original.parts.findIndex(p=>p.label.startsWith(`Bloco ${c.mapGroup+1} ·`)):0;
+      return {...original,id:`historia/${id}/${s.id}`,title:s.title,review:{type:'historia',id},startPart:Math.max(0,startPart)};
+    }
+    if(s.recall)return lesson(`historia/${id}/${s.id}`,s.title,[part('Sua vez',s.speech),part('Como pensar',s.explain),part('Uma pista',s.observe),...reflect(s.recall.question,`${s.meaning} ${s.remember}`),finish()],{type:'historia',id});
     return lesson(`historia/${id}/${s.id}`,s.title,[
       part('Vamos por partes',`Vamos entender ${s.term}. ${s.speech}`),
       part('A ideia em linguagem simples',s.explain),
@@ -41,7 +54,7 @@ const ProfessorCore = (() => {
   function mindmap(id){
     const t=journey(id);if(!t)return null;
     return lesson(`mapa/${id}`,`Mapa · ${t.name}`,[part('Enxergue o caminho',`${t.description} Vamos percorrer os ramos do mapa, uma ideia de cada vez.`),
-      ...t.steps.map((s,i)=>part(`Ramo ${i+1} · ${s.map}`,`${s.speech} ${s.explain} ${s.remember}`)),
+      ...StoryExpansion.sections(t).map((section,i)=>{const s=t.steps[section.start];return part(`Ramo ${i+1} · ${section.title}`,`Cenas ${section.start+1} até ${section.end}. ${s.speech} ${s.explain}`);}),
       ...reflect(`Sem olhar para o mapa, qual é a ligação entre ${t.steps[0].term} e ${t.steps[t.steps.length-1].term}?`,`${t.steps[0].remember} ${t.steps[t.steps.length-1].remember} Volte a cada ramo para reconstruir as etapas entre essas ideias.`),finish()
     ],{type:'historia',id});
   }

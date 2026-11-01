@@ -198,6 +198,8 @@ const GeneralScenes = (() => {
     return `<g data-scene-kind="${Art.e(topic.id)}-${index}">${text(380,44,topic.steps[index].map,25)}${enter(drawing)}${caption(topic.steps[index])}</g>`;
   }
   function actions(id,index){
+    const story=JOURNEYS.find(topic=>topic.id===id);
+    if(story&&index>=story.baseCount)return [];
     if(id==='logic_conjuntos'&&[2,3,4].includes(index)){const options=[['union','União · A ∪ B'],['intersection','Interseção · A ∩ B'],['difference','Diferença · A − B']];return index===4?[options[2],options[0],options[1]]:options;}
     if(id==='logic_proposicoes'&&index===4)return [['true','Chove e rua molhada · V'],['false','Chove e rua seca · F']];
     if(id==='info_planilhas'&&index===2)return [['range','SOMA(A1:A3) · 60'],['isolated','SOMA(A1;A3) · 40']];

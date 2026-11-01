@@ -119,7 +119,7 @@ const Art = (() => {
   function scene(topic,index,focus='row') {
     const step=topic.steps[index];
     const dispatch={sql,java,engenharia:engineering,web,seguranca:security,infra,gestao:management,dados:data};
-    const art=dispatch[topic.id]?dispatch[topic.id](index,focus):GeneralScenes.render(topic,index,focus);
+    const art=step.expanded?expandedScene(topic,step):dispatch[topic.id]?dispatch[topic.id](index,focus):GeneralScenes.render(topic,index,focus);
     return `<svg class="story-svg" viewBox="0 0 760 470" role="img" aria-label="${e(step.observe)}" xmlns="http://www.w3.org/2000/svg"><title>${e(step.title)}</title><desc>${e(step.observe)}</desc><g font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="382" cy="440" rx="327" ry="12" fill="${topic.light}"/><path d="M29 436q347 5 701-1" stroke="${ink}" stroke-width="1.2" opacity=".18" fill="none"/>${art}</g></svg>`;
   }
   function wrap(value,limit=23) {
@@ -127,8 +127,38 @@ const Art = (() => {
     for(const word of value.split(' ')){if(line&&line.length+word.length+1>limit){output.push(line);line=word;}else line+=(line?' ':'')+word;}
     if(line)output.push(line);return output;
   }
+  function expandedScene(topic,step){
+    const reviewing=step.mode==='revisao',term=reviewing?'Recuperar a ideia':step.term;
+    const heading=reviewing?'SUA VEZ':step.mode==='conceito'?'CONCEITO':'NA PRÁTICA';
+    const title=wrap(term,19).slice(0,3),rawExample=reviewing?'Pense primeiro. Depois, confira a explicação.':step.teacher.example;
+    const allExample=wrap(rawExample,23),example=allExample.slice(0,3);
+    if(allExample.length>3)example[2]+='…';
+    return paper(64,58,632,322,cream)+label(380,99,heading,reviewing?yellow:teal,210)+
+      paper(88,134,263,174,topic.light)+paper(409,134,263,174,'#fff2cf')+
+      text(220,164,reviewing?'LEMBRE':'IDEIA',16)+lines(220,200,title,22,'middle',700)+
+      text(540,164,reviewing?'CONFIRA':'SITUAÇÃO',16)+lines(540,198,example,17,'middle',500)+
+      arrow(359,226,399,226,topic.color,0,0)+
+      text(380,350,reviewing?'Pense e confira no seu ritmo':'Leia a situação completa abaixo',19);
+  }
   function mindMap(topic,interactive=true) {
     const frame=(x,y,w,h,fill,accent)=>`<g class="map-frame"><path d="M${x+12} ${y}H${x+w-12}L${x+w} ${y+12}V${y+h-12}L${x+w-12} ${y+h}H${x+12}L${x} ${y+h-12}V${y+12}Z" fill="${fill}" stroke="${accent}" stroke-width="5"/><path d="M${x+20} ${y+7}h28m8 0h5m5 0h5M${x+w-15} ${y+h-7}h-35" fill="none" stroke="${ink}" stroke-width="2"/></g>`;
+    if(topic.baseCount){
+      const sections=StoryExpansion.sections(topic),positions=[[30,54],[30,260],[30,466],[760,54],[760,260],[760,466]];
+      const branches=sections.map((section,i)=>{
+        const [x,y]=positions[i],left=i<3,endX=left?x+290:x,rootX=left?395:685;
+        const subtitle=`Cenas ${section.start+1} a ${section.end}`;
+        const name=wrap(section.title,21).slice(0,2);
+        const sample=[...new Set(topic.steps.slice(section.start,section.end).map(s=>s.recall?s.teacher.term:s.term))].slice(0,2).join(' · ');
+        const first=wrap(sample,22).slice(0,2);
+        const aria=`Abrir ${section.title}, cenas ${section.start+1} a ${section.end}`;
+        return `<path d="M${rootX} 350 Q540 ${y+80} ${endX} ${y+80}" fill="none" stroke="${topic.color}" stroke-width="3"/>`+
+          `<g ${interactive?`role="button" tabindex="0" data-map-step="${section.start}" aria-label="${e(aria)}"`:''}><title>${e(aria)}</title>${frame(x,y,290,164,i%2?'#dceee4':'#fff0bc',i%2?'#2395aa':'#d45969')}`+
+          `<circle cx="${x+38}" cy="${y+39}" r="20" fill="${cream}" stroke="${ink}" stroke-width="2"/>${text(x+38,y+46,String(i+1),20)}`+
+          `${lines(x+72,y+39,name,20,'start',700)}${text(x+25,y+101,subtitle,18,'start',600)}${lines(x+25,y+128,first,16,'start',500)}</g>`;
+      }).join('');
+      const title=wrap(topic.root[0],18).slice(0,3);
+      return `<svg class="mindmap-svg" viewBox="0 0 1080 720" role="${interactive?'group':'img'}" aria-label="Mapa de ${e(topic.name)} com seis partes e trinta cenas" xmlns="http://www.w3.org/2000/svg"><rect class="map-canvas" width="1080" height="720" fill="${cream}"/><g font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" stroke-linecap="round" stroke-linejoin="round">${branches}${frame(395,211,290,287,topic.light,'#2395aa')}${lines(540,245,title,24,'middle',700)}${lia(540,title.length>2?335:310,.56)}${text(540,464,'30 cenas · no seu ritmo',19)}${text(540,692,interactive?'Escolha uma parte para voltar à história.':'memória viva · mapa de estudo',18)}</g></svg>`;
+    }
     const positions=[[26,56],[26,260],[26,467],[397,580],[766,467],[766,260],[766,56]];
     const chosen=topic.steps.length===5?[positions[0],positions[1],positions[3],positions[5],positions[6]]:topic.steps.length===6?[positions[0],positions[1],positions[2],positions[4],positions[5],positions[6]]:positions;
     const colors=['#eadff6','#fff0bc','#dceee4','#f5dfce','#d9ebf4','#f3dce5','#e5e7fc'];

@@ -35,7 +35,7 @@ async page => {
   await page.locator('#journey-search').fill('planilha');
   check(await page.locator('[data-topic="info_planilhas"]').isVisible(),'Busca sem acentos');
   await page.locator('[data-topic="info_planilhas"]').click();
-  await page.locator('[data-step="2"]').click();
+  await page.locator('#scene-jump').selectOption('2');
   await page.getByRole('button',{name:'SOMA(A1;A3) · 40',exact:true}).click();
   check((await page.locator('#scene-art').textContent()).includes('SOMA = 40'),'Interação com intervalo de células');
   await page.reload();

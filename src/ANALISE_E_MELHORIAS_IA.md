@@ -1,5 +1,7 @@
 # Memória Viva — Análise Completa do Sistema e Plano de Execução para IA
 
+> **Ampliação de 31/10/2026:** as 41 histórias passaram a 30 cenas cada, organizadas em seis partes, com exemplos, revisão, referências e seletor individual. As 208 cenas originais e seu áudio foram preservados. [Fontes e critérios](pesquisa-historias/FONTES_E_CRITERIOS.md). A contagem de áudio atualizado fica em `roteiros-thalita-pendentes.json`.
+
 > **Auditoria e ampliação — 30/10/2026:** a versão atual reúne 28 concursos/trilhas, 140 matérias com 40–100 atividades cada e 1.224 questões autorais distintas. Foram revisados gabaritos, seleção por cargo, pesos, explicações, progresso e os dois visuais. [Relatório completo](pesquisa-atividades/ETAPA_3_AUDITORIA_E_EXPANSAO.md). A professora tem 1.770 explicações com áudio Thalita e 116 com roteiro pronto, aguardando essa voz por escolha do usuário. Os estados abaixo são históricos.
 
 > **Atualização de execução — 29/10/2026:** o roteiro abaixo foi implementado. As seções originais permanecem como registro do diagnóstico anterior; seus números e descrições de limitações não representam mais a versão atual.
